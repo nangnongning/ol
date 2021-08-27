@@ -3,14 +3,14 @@
 "author":"test",
 "image":"https://overseer.blackboxsys.net/images/png/hd-golf.png",
 "url":"",
-'sources': [
+"sources": [
         {
-        'name': pptv,
-        'image': https://overseer.blackboxsys.net/images/png/hd-pptv.png,
-        'default': false,
-          'file': 'https://freelive2.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8?eFRpZHRJcDU1d3orUFdTaFNHVEl2Uk9VZEM2UjZobTF1czVsdzNGOVRDcTdmSEljUmpsNTlTV3JXc2p5UUdvRTFjMTFubzdlSlMyd0VvRlNYRTdQWnkySW8zbGdOTW9PKzVZVHJBbVMwbGM9,bb4bd27195ce9889e45057d1a7643cbb',
-          'label': '0',
-          'type': 'hls'
+        "name": "pptv",
+        "image":" https://overseer.blackboxsys.net/images/png/hd-pptv.png",
+        "default": "false",
+          "file": "https://freelive2.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8?eFRpZHRJcDU1d3orUFdTaFNHVEl2Uk9VZEM2UjZobTF1czVsdzNGOVRDcTdmSEljUmpsNTlTV3JXc2p5UUdvRTFjMTFubzdlSlMyd0VvRlNYRTdQWnkySW8zbGdOTW9PKzVZVHJBbVMwbGM9,bb4bd27195ce9889e45057d1a7643cbb",
+          "label": "0",
+          "type": "hls"
         }
       ]
     }
