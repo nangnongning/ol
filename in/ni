@@ -1,15 +1,14 @@
-{
-"name": "nong",
-"author":"test",
-"image":"https://overseer.blackboxsys.net/images/png/hd-golf.png",
-"url":"" 
-"groups":
-[
-{
-"name":"tv","image":"https://dl.dropbox.com/s/tzpaqi6vmzhxjam/sports-day.png" 
-"stations":
-[
-"sources": [
+{ 
+   "name": "TV",
+   "author": "Fernado",
+   "url": "",
+   "image": "https://www.ball24.tv/wp-content/themes/ball24/image/menu.png",
+   "info": "",
+   "groups": [
+         { 
+         "name": "TV",
+          "image": "https://www.ball24.tv/wp-content/themes/ball24/image/menu.png", 
+          "stations": [  
         {
         "name": "pptv",
         "image":" https://overseer.blackboxsys.net/images/png/hd-pptv.png",
