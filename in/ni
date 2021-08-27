@@ -33,7 +33,8 @@
         "name": "pl5",
         "image":" https://overseer.blackboxsys.net/images/png/hd-pptv.png",
         "default": "false",
-          "url": " https://www.doofootball.com/jwplayer/jwplayer.js?p=0",
+          "url": "  https://r3-sn-5fo-c37ed64.googleuservideo.com/doofootball_r1/trueepl5_480p/l_15340897_185776_37.ts?nimblesessionid=1143998&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDIxIDEyOjA4OjUyIFBNJmhhc2hfdmFsdWU9TlFacldrUUxnQ3l4SXk0UjFnV2ptUT09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTI4JmlkPTU3NTU2MA==
+",
           "referer": "https://www.doofootball.com/",
          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
           "label": "0",
