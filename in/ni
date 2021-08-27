@@ -2,11 +2,11 @@
 "name": "nong",
 "author":"test",
 "image":"https://overseer.blackboxsys.net/images/png/hd-golf.png",
-"url":"",
+"url":"" 
 "groups":
 [
 {
-"name":"tv","image":"https://dl.dropbox.com/s/tzpaqi6vmzhxjam/sports-day.png",
+"name":"tv","image":"https://dl.dropbox.com/s/tzpaqi6vmzhxjam/sports-day.png" 
 "stations":
 [
 "sources": [
