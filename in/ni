@@ -20,10 +20,10 @@
           "type": "hls"
           },
             {
-        "name": "bein2",
+        "name": "pl5",
         "image":" https://overseer.blackboxsys.net/images/png/hd-pptv.png",
         "default": "false",
-          "url": "https://r3-sn-5fo-c37ed64.googleuservideo.com/doofootball_r1/beinsporthd2_480p/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDIxIDExOjI4OjA1IEFNJmhhc2hfdmFsdWU9TU1hOVJodnZib2dvU0Y1aXdVTGlsZz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTMyJmlkPTE1NDM1Mw==",
+          "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl5_480p/chunks.m3u8?nimblesessionid=4344091&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDIxIDExOjQwOjE3IEFNJmhhc2hfdmFsdWU9d1VYMXhKMGkwZ2h1YU1PeS84UVlhQT09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTI4JmlkPTk1MzQ2NQ==",
           "referer": "https://www.doofootball.com/",
          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
           "label": "0",
