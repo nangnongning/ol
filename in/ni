@@ -9,6 +9,16 @@
          "name": "TV",
           "image": "https://www.ball24.tv/wp-content/themes/ball24/image/menu.png", 
           "stations": [  
+           {
+        "name": "bein2",
+        "image":" https://overseer.blackboxsys.net/images/png/hd-pptv.png",
+        "default": "false",
+          "url": "https://r3-sn-5fo-c37ed64.googleuservideo.com/doofootball_r1/beinsporthd2_480p/chunks.m3u8?nimblesessionid=1143831&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDIxIDExOjI4OjA1IEFNJmhhc2hfdmFsdWU9TU1hOVJodnZib2dvU0Y1aXdVTGlsZz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTMyJmlkPTE1NDM1Mw==",
+          "referer": "https://www.doofootball.com/",
+         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "label": "0",
+          "type": "hls"
+          },
         {
         "name": "pptv",
         "image":" https://overseer.blackboxsys.net/images/png/hd-pptv.png",
