@@ -11,7 +11,7 @@
           "stations": [  
            {
         "name": "t1",
-        "image":" https://overseer.blackboxsys.net/images/png/hd-pptv.png",
+        "image":"https://overseer.blackboxsys.net/images/png/hd-pptv.png",
         "default": "false",
           "url": "https://r3-sn-5fo-c37ed63.googleuservideo.com/ball24tv_s1/2sporthd1_480p/chunks.m3u8?nimblesessionid=115378631&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDEyOjAwOjExIEFNJmhhc2hfdmFsdWU9QnlGdXFuSC9YOFJ6R0JFWDQ3UGNoQT09JnZhbGlkbWludXRlcz0xJmlkPTkyMDM1NA==",
           "referer": "https://www.ball24.tv/",
@@ -21,7 +21,7 @@
           },
           {
         "name": "pl1",
-        "image":" https://www.liveballsod.com/api/table/icon/ch373.png",
+        "image":"https://www.liveballsod.com/api/table/icon/ch373.png",
         "default": "false",
           "url": "https://r3-sn-5fo-c37ed6.googleuservideo.com/fifa55u_x1/trueepl1_480p/chunks.m3u8?nimblesessionid=37318278&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDEyOjMzOjQ1IEFNJmhhc2hfdmFsdWU9QjRseGYwNUJYdXB6VCtiYkhqS28xUT09JnZhbGlkbWludXRlcz0xJmlkPTY2NDk3OQ==",
           "referer": "https://www.liveballsod.com/",
@@ -32,7 +32,7 @@
           
            {
         "name": "pl1",
-        "image":" https://www.liveballsod.com/api/table/icon/ch373.png",
+        "image":"https://www.liveballsod.com/api/table/icon/ch373.png",
         "default": "false",
           "url": "https://www.liveballsod.com/tv-online/ch373/",
           "referer": "https://www.liveballsod.com/",
@@ -54,7 +54,7 @@
           
            {
         "name": "pl5",
-        "image":" hhttps://www.liveballsod.com/api/table/icon/ch377.png",
+        "image":"https://www.liveballsod.com/api/table/icon/ch377.png",
         "default": "false",
           "url": "https://www.liveballsod.com/tv-online/ch377/",
           "referer": "https://www.liveballsod.com/",
@@ -65,7 +65,7 @@
           
             {
         "name": "pl1",
-        "image":" https://www.liveballsod.com/api/table/icon/ch373.png",
+        "image":"https://www.liveballsod.com/api/table/icon/ch373.png",
         "default": "false",
           "url": "https://www.ball24.tv/allchannel/?id=epl1",
           "referer": "https://www.ball24.tv/",
@@ -76,7 +76,7 @@
           
             {
         "name": "pl3",
-        "image":" https://www.warpfootball.games/wp-content/themes/colormag/logo/epl3.png",
+        "image":"https://www.warpfootball.games/wp-content/themes/colormag/logo/epl3.png",
         "default": "false",
           "url": "https://www.ball24.tv/allchannel/?id=epl3",
           "referer": "https://www.ball24.tv/",
@@ -86,7 +86,7 @@
           },
            {
         "name": "t7",
-        "image":" https://overseer.blackboxsys.net/images/png/hd-pptv.png",
+        "image":"https://overseer.blackboxsys.net/images/png/hd-pptv.png",
         "default": "false",
           "url": "https://r3-sn-5fo-c37ed63.googleuservideo.com/ball24tv_s2/2sport7_480p/chunks.m3u8?nimblesessionid=115384233&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDEyOjAzOjI1IEFNJmhhc2hfdmFsdWU9Z0VxTVQwMUVsZDRNUlZQc3pqMExKQT09JnZhbGlkbWludXRlcz0xJmlkPTY5ODMzOA==",
           "referer": "https://www.ball24.tv/",
@@ -97,7 +97,7 @@
           
           {
         "name": "t2",
-        "image":" https://overseer.blackboxsys.net/images/png/hd-pptv.png",
+        "image":"https://overseer.blackboxsys.net/images/png/hd-pptv.png",
         "default": "false",
           "url": "https://r3-sn-5fo-c37ed8.googleuservideo.com/wrapfootball_t1/2sporthd2_480p/chunks.m3u8?nimblesessionid=23091983&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDEyOjE2OjAyIEFNJmhhc2hfdmFsdWU9NnhSY0JWRm5UUmtzNW1SNks1bHFmZz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTMwJmlkPTUxNTY0NA==
 ",
@@ -109,7 +109,7 @@
           
         {
         "name": "pptv",
-        "image":" https://overseer.blackboxsys.net/images/png/hd-pptv.png",
+        "image":"https://overseer.blackboxsys.net/images/png/hd-pptv.png",
         "default": "false",
           "url": "https://freelive2.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8?eFRpZHRJcDU1d3orUFdTaFNHVEl2Uk9VZEM2UjZobTF1czVsdzNGOVRDcTdmSEljUmpsNTlTV3JXc2p5UUdvRTFjMTFubzdlSlMyd0VvRlNYRTdQWnkySW8zbGdOTW9PKzVZVHJBbVMwbGM9,bb4bd27195ce9889e45057d1a7643cbb",
           "label": "0",
