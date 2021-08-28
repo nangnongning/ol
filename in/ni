@@ -33,9 +33,9 @@
         "name": "t2",
         "image":" https://overseer.blackboxsys.net/images/png/hd-pptv.png",
         "default": "false",
-          "url": "https://r3-sn-5fo-c37ed63.googleuservideo.com/ball24tv_s1/2sporthd1_480p/chunks.m3u8?c2VydmVyX3RpbWU9OC8yOC8yMDIxIDEyOjAwOjExIEFNJmhhc2hfdmFsdWU9QnlGdXFuSC9YOFJ6R0JFWDQ3UGNoQT09JnZhbGlkbWludXRlcz0xJmlkPTkyMDM1NA==
+          "url": "https://r3-sn-5fo-c37ed8.googleuservideo.com/wrapfootball_t1/2sporthd2_480p/chunks.m3u8?nimblesessionid=23091983&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDEyOjE2OjAyIEFNJmhhc2hfdmFsdWU9NnhSY0JWRm5UUmtzNW1SNks1bHFmZz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTMwJmlkPTUxNTY0NA==
 ",
-          "referer": "https://www.ball24.tv/",
+          "referer": "https://www.warpfootball.games/",
          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
           "label": "0",
           "type": "hls"
