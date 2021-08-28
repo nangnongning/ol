@@ -21,7 +21,7 @@
           },
           {
         "name": "pl1",
-        "image":" https://overseer.blackboxsys.net/images/png/hd-pptv.png",
+        "image":" https://www.liveballsod.com/api/table/icon/ch373.png",
         "default": "false",
           "url": "https://r3-sn-5fo-c37ed6.googleuservideo.com/fifa55u_x1/trueepl1_480p/chunks.m3u8?nimblesessionid=37318278&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDEyOjMzOjQ1IEFNJmhhc2hfdmFsdWU9QjRseGYwNUJYdXB6VCtiYkhqS28xUT09JnZhbGlkbWludXRlcz0xJmlkPTY2NDk3OQ==",
           "referer": "https://www.liveballsod.com/",
@@ -30,10 +30,42 @@
           "type": "hls"
           },
           
+           {
+        "name": "pl1",
+        "image":" https://www.liveballsod.com/api/table/icon/ch373.png",
+        "default": "false",
+          "url": "https://www.liveballsod.com/tv-online/ch373/",
+          "referer": "https://www.liveballsod.com/",
+         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "label": "0",
+          "type": "hls"
+          },
+          
+           {
+        "name": "pl4",
+        "image":"https://www.liveballsod.com/api/table/icon/ch376.png",
+        "default": "false",
+          "url": "https://www.liveballsod.com/tv-online/ch376/",
+          "referer": "https://www.liveballsod.com/",
+         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "label": "0",
+          "type": "hls"
+          },
+          
+           {
+        "name": "pl5",
+        "image":" hhttps://www.liveballsod.com/api/table/icon/ch377.png",
+        "default": "false",
+          "url": "https://www.liveballsod.com/tv-online/ch377/",
+          "referer": "https://www.liveballsod.com/",
+         "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+          "label": "0",
+          "type": "hls"
+          },
           
             {
         "name": "pl1",
-        "image":" https://overseer.blackboxsys.net/images/png/hd-pptv.png",
+        "image":" https://www.liveballsod.com/api/table/icon/ch373.png",
         "default": "false",
           "url": "https://www.ball24.tv/allchannel/?id=epl1",
           "referer": "https://www.ball24.tv/",
@@ -43,8 +75,8 @@
           },
           
             {
-        "name": "t7",
-        "image":" https://overseer.blackboxsys.net/images/png/hd-pptv.png",
+        "name": "pl3",
+        "image":" https://www.warpfootball.games/wp-content/themes/colormag/logo/epl3.png",
         "default": "false",
           "url": "https://www.ball24.tv/allchannel/?id=epl3",
           "referer": "https://www.ball24.tv/",
@@ -53,7 +85,7 @@
           "type": "hls"
           },
            {
-        "name": "pl3",
+        "name": "t7",
         "image":" https://overseer.blackboxsys.net/images/png/hd-pptv.png",
         "default": "false",
           "url": "https://r3-sn-5fo-c37ed63.googleuservideo.com/ball24tv_s2/2sport7_480p/chunks.m3u8?nimblesessionid=115384233&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDEyOjAzOjI1IEFNJmhhc2hfdmFsdWU9Z0VxTVQwMUVsZDRNUlZQc3pqMExKQT09JnZhbGlkbWludXRlcz0xJmlkPTY5ODMzOA==",
