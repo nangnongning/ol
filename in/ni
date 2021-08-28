@@ -10,32 +10,32 @@
           "image": "https://www.ball24.tv/wp-content/themes/ball24/image/menu.png", 
           "stations": [  
            {
-        "name": "bein2",
+        "name": "t1",
         "image":" https://overseer.blackboxsys.net/images/png/hd-pptv.png",
         "default": "false",
-          "url": "https://r3-sn-5fo-c37ed64.googleuservideo.com/doofootball_r1/beinsporthd2_480p/chunks.m3u8?eFRpZHRJcDU1d3orUFdTaFNHVEl2Uk9VZEM2UjZobTF1czVsdzNGOVRDcTdmSEljUmpsNTlTV3JXc2p5UUdvRTFjMTFubzdlSlMyd0VvRlNYRTdQWnkySW8zbGdOTW9PKzVZVHJBbVMwbGM9,bb4bd27195ce9889e45057d1a7643cbb",
-          "referer": "https://www.doofootball.com/",
+          "url": "https://r3-sn-5fo-c37ed63.googleuservideo.com/ball24tv_s1/2sporthd1_480p/chunks.m3u8?nimblesessionid=115378631&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDEyOjAwOjExIEFNJmhhc2hfdmFsdWU9QnlGdXFuSC9YOFJ6R0JFWDQ3UGNoQT09JnZhbGlkbWludXRlcz0xJmlkPTkyMDM1NA==",
+          "referer": "https://www.ball24.tv/",
          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
           "label": "0",
           "type": "hls"
           },
             {
-        "name": "pl5",
+        "name": "t7",
         "image":" https://overseer.blackboxsys.net/images/png/hd-pptv.png",
         "default": "false",
-          "url": "https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl5_480p/chunks.m3u8?eFRpZHRJcDU1d3orUFdTaFNHVEl2Uk9VZEM2UjZobTF1czVsdzNGOVRDcTdmSEljUmpsNTlTV3JXc2p5UUdvRTFjMTFubzdlSlMyd0VvRlNYRTdQWnkySW8zbGdOTW9PKzVZVHJBbVMwbGM9,bb4bd27195ce9889e45057d1a7643cbb",
-          "referer": "https://www.doofootball.com/",
+          "url": "https://r3-sn-5fo-c37ed63.googleuservideo.com/ball24tv_s2/2sport7_480p/chunks.m3u8?nimblesessionid=115384233&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDEyOjAzOjI1IEFNJmhhc2hfdmFsdWU9Z0VxTVQwMUVsZDRNUlZQc3pqMExKQT09JnZhbGlkbWludXRlcz0xJmlkPTY5ODMzOA==",
+          "referer": "https://www.ball24.tv/",
          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
           "label": "0",
           "type": "hls"
           },
           {
-        "name": "pl5",
+        "name": "t2",
         "image":" https://overseer.blackboxsys.net/images/png/hd-pptv.png",
         "default": "false",
-          "url": "  https://r3-sn-5fo-c37ed64.googleuservideo.com/doofootball_r1/trueepl5_480p/l_15340897_185776_37.ts?eFRpZHRJcDU1d3orUFdTaFNHVEl2Uk9VZEM2UjZobTF1czVsdzNGOVRDcTdmSEljUmpsNTlTV3JXc2p5UUdvRTFjMTFubzdlSlMyd0VvRlNYRTdQWnkySW8zbGdOTW9PKzVZVHJBbVMwbGM9,bb4bd27195ce9889e45057d1a7643cbb
+          "url": "https://r3-sn-5fo-c37ed63.googleuservideo.com/ball24tv_s1/2sporthd2_480p/chunks.m3u8?nimblesessionid=115378631&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIxIDEyOjAwOjExIEFNJmhhc2hfdmFsdWU9QnlGdXFuSC9YOFJ6R0JFWDQ3UGNoQT09JnZhbGlkbWludXRlcz0xJmlkPTkyMDM1NA==
 ",
-          "referer": "https://www.doofootball.com/",
+          "referer": "https://www.ball24.tv/",
          "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
           "label": "0",
           "type": "hls"
