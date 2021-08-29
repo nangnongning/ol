@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:0 ,bbc one
+http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/510.m3u8
+#EXTINF:0 ,commady
+http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/164.m3u8
+#EXTINF:0 ,skyone
+http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/200.m3u8
+#EXTINF:0 ,maineven
+http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/82.m3u8
+#EXTINF:0 ,football
+http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/91.m3u8
+#EXTINF:0 ,asia
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/documentary/disasia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIxIDEwOjQ3OjU3IEFNJmhhc2hfdmFsdWU9ajRTMFBVQ1dYandEWUxFQ3hoTjZvUT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:0 ,asia
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/documentary/disasia/chunks.m3u8?nimblesessionid=6149766&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIxIDEwOjQ3OjU3IEFNJmhhc2hfdmFsdWU9ajRTMFBVQ1dYandEWUxFQ3hoTjZvUT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:0 ,7
+https://r3-sn-5fo-c37ed63.googleuservideo.com/ball24tv_s2/7hd_480p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIxIDEwOjQ0OjQxIEFNJmhhc2hfdmFsdWU9ZUxiSkVqWVRZMWxhRWFvanU4YnU0dz09JnZhbGlkbWludXRlcz0xJmlkPTQ3NTY1NA==
+#EXTINF:0 ,7
+https://r3-sn-5fo-c37ed63.googleuservideo.com/ball24tv_s2/7hd_480p/chunks.m3u8?nimblesessionid=118471469&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIxIDEwOjQ0OjQxIEFNJmhhc2hfdmFsdWU9ZUxiSkVqWVRZMWxhRWFvanU4YnU0dz09JnZhbGlkbWludXRlcz0xJmlkPTQ3NTY1NA==
