@@ -17,597 +17,597 @@ https://r4-sn-w5nuxa-o53d.googlevideocdn.com/documentary/disasia/chunks.m3u8?nim
 https://r3-sn-5fo-c37ed63.googleuservideo.com/ball24tv_s2/7hd_480p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIxIDEwOjQ0OjQxIEFNJmhhc2hfdmFsdWU9ZUxiSkVqWVRZMWxhRWFvanU4YnU0dz09JnZhbGlkbWludXRlcz0xJmlkPTQ3NTY1NA==
 #EXTINF:0 ,7
 https://r3-sn-5fo-c37ed63.googleuservideo.com/ball24tv_s2/7hd_480p/chunks.m3u8?nimblesessionid=118471469&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIxIDEwOjQ0OjQxIEFNJmhhc2hfdmFsdWU9ZUxiSkVqWVRZMWxhRWFvanU4YnU0dz09JnZhbGlkbWludXRlcz0xJmlkPTQ3NTY1NA==
-#EXTINF:-1,UK | BBC One FHD
+#EXTINF:-1 tvg-ID="bbc1.uk" tvg-name="UK | BBC One FHD" tvg-logo="http://icon.generationxhosting.com/epg/UK/BBCOneUK.png" group-title="UK TV",UK | BBC One FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/509.m3u8
-#EXTINF:-1,UK | BBC One HD
+#EXTINF:-1 tvg-ID="bbc1.uk" tvg-name="UK | BBC One HD" tvg-logo="http://icon.generationxhosting.com/epg/UK/BBCOneUK.png" group-title="UK TV",UK | BBC One HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/510.m3u8
-#EXTINF:-1,UK | BBC One
+#EXTINF:-1 tvg-ID="bbc1.uk" tvg-name="UK | BBC One" tvg-logo="http://icon.generationxhosting.com/epg/UK/BBCOneUK.png" group-title="UK TV",UK | BBC One
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/511.m3u8
-#EXTINF:-1,UK | BBC Two FHD
+#EXTINF:-1 tvg-ID="bbc2.uk" tvg-name="UK | BBC Two FHD" tvg-logo="http://icon.generationxhosting.com/epg/UK/BBCTwoUK.png" group-title="UK TV",UK | BBC Two FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/512.m3u8
-#EXTINF:-1,UK | BBC Two HD
+#EXTINF:-1 tvg-ID="bbc2.uk" tvg-name="UK | BBC Two HD" tvg-logo="http://icon.generationxhosting.com/epg/UK/BBCTwoUK.png" group-title="UK TV",UK | BBC Two HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/513.m3u8
-#EXTINF:-1,UK | BBC Two
+#EXTINF:-1 tvg-ID="bbc2.uk" tvg-name="UK | BBC Two" tvg-logo="http://icon.generationxhosting.com/epg/UK/BBCTwoUK.png" group-title="UK TV",UK | BBC Two
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/514.m3u8
-#EXTINF:-1,UK | BBC Four HD
+#EXTINF:-1 tvg-ID="bbc4.uk" tvg-name="UK | BBC Four HD" tvg-logo="http://icon.generationxhosting.com/epg/UK/BBCFourUK.png" group-title="UK TV",UK | BBC Four HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/515.m3u8
-#EXTINF:-1,UK | ITV FHD
+#EXTINF:-1 tvg-ID="itv1anglia.uk" tvg-name="UK | ITV FHD" tvg-logo="http://icon.generationxhosting.com/epg/UK/itvUK.png" group-title="UK TV",UK | ITV FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/516.m3u8
-#EXTINF:-1,UK | ITV HD
+#EXTINF:-1 tvg-ID="itv1anglia.uk" tvg-name="UK | ITV HD" tvg-logo="http://icon.generationxhosting.com/epg/UK/itvUK.png" group-title="UK TV",UK | ITV HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/517.m3u8
-#EXTINF:-1,UK | ITV
+#EXTINF:-1 tvg-ID="itv1anglia.uk" tvg-name="UK | ITV" tvg-logo="http://icon.generationxhosting.com/epg/UK/itvUK.png" group-title="UK TV",UK | ITV
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/518.m3u8
-#EXTINF:-1,UK | ITV London
+#EXTINF:-1 tvg-ID="itv1anglia.uk" tvg-name="UK | ITV London" tvg-logo="http://icon.generationxhosting.com/epg/UK/itvUK.png" group-title="UK TV",UK | ITV London
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/519.m3u8
-#EXTINF:-1,UK | ITV 2 FHD
+#EXTINF:-1 tvg-ID="itv2.uk" tvg-name="UK | ITV 2 FHD" tvg-logo="http://icon.generationxhosting.com/epg/UK/itv2UK.png" group-title="UK TV",UK | ITV 2 FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/520.m3u8
-#EXTINF:-1,UK | ITV 2 HD
+#EXTINF:-1 tvg-ID="itv2.uk" tvg-name="UK | ITV 2 HD" tvg-logo="http://icon.generationxhosting.com/epg/UK/itv2UK.png" group-title="UK TV",UK | ITV 2 HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/521.m3u8
-#EXTINF:-1,UK | ITV 3 FHD
+#EXTINF:-1 tvg-ID="itv3.uk" tvg-name="UK | ITV 3 FHD" tvg-logo="http://icon.generationxhosting.com/epg/UK/itv3UK.png" group-title="UK TV",UK | ITV 3 FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/522.m3u8
-#EXTINF:-1,UK | ITV 3 HD
+#EXTINF:-1 tvg-ID="itv3.uk" tvg-name="UK | ITV 3 HD" tvg-logo="http://icon.generationxhosting.com/epg/UK/itv3UK.png" group-title="UK TV",UK | ITV 3 HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/523.m3u8
-#EXTINF:-1,UK | ITV 4 FHD
+#EXTINF:-1 tvg-ID="itv4.uk" tvg-name="UK | ITV 4 FHD" tvg-logo="http://icon.generationxhosting.com/epg/UK/itv4UK.png" group-title="UK TV",UK | ITV 4 FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/524.m3u8
-#EXTINF:-1,UK | ITV 4 HD
+#EXTINF:-1 tvg-ID="itv4.uk" tvg-name="UK | ITV 4 HD" tvg-logo="http://icon.generationxhosting.com/epg/UK/itv4UK.png" group-title="UK TV",UK | ITV 4 HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/525.m3u8
-#EXTINF:-1,UK | ITVBe FHD
+#EXTINF:-1 tvg-ID="itvbe.uk" tvg-name="UK | ITVBe FHD" tvg-logo="http://icon.generationxhosting.com/epg/UK/itvBeUK.png" group-title="UK TV",UK | ITVBe FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/526.m3u8
-#EXTINF:-1,UK | ITVBe HD
+#EXTINF:-1 tvg-ID="itvbe.uk" tvg-name="UK | ITVBe HD" tvg-logo="http://icon.generationxhosting.com/epg/UK/itvBeUK.png" group-title="UK TV",UK | ITVBe HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/527.m3u8
-#EXTINF:-1,UK | London Live
+#EXTINF:-1 tvg-ID="londonlive.uk" tvg-name="UK | London Live" tvg-logo="http://icon.generationxhosting.com/epg/UK/LondonLiveUK.png" group-title="UK TV",UK | London Live
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/180449.m3u8
-#EXTINF:-1,UK | Channel 4 FHD
+#EXTINF:-1 tvg-ID="channel4.uk" tvg-name="UK | Channel 4 FHD" tvg-logo="http://icon.generationxhosting.com/epg/UK/Channel4UK.png" group-title="UK TV",UK | Channel 4 FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/528.m3u8
-#EXTINF:-1,UK | Channel 4 HD
+#EXTINF:-1 tvg-ID="channel4.uk" tvg-name="UK | Channel 4 HD" tvg-logo="http://icon.generationxhosting.com/epg/UK/Channel4UK.png" group-title="UK TV",UK | Channel 4 HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/529.m3u8
-#EXTINF:-1,UK | Channel 4
+#EXTINF:-1 tvg-ID="channel4.uk" tvg-name="UK | Channel 4" tvg-logo="http://icon.generationxhosting.com/epg/UK/Channel4UK.png" group-title="UK TV",UK | Channel 4
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/530.m3u8
-#EXTINF:-1,UK | E4 FHD
+#EXTINF:-1 tvg-ID="e4.uk" tvg-name="UK | E4 FHD" tvg-logo="http://icon.generationxhosting.com/epg/UK/E4UK.png" group-title="UK TV",UK | E4 FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/531.m3u8
-#EXTINF:-1,UK | E4 HD
+#EXTINF:-1 tvg-ID="e4.uk" tvg-name="UK | E4 HD" tvg-logo="http://icon.generationxhosting.com/epg/UK/E4UK.png" group-title="UK TV",UK | E4 HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/532.m3u8
-#EXTINF:-1,UK | More 4 FHD
+#EXTINF:-1 tvg-ID="more4.uk" tvg-name="UK | More 4 FHD" tvg-logo="http://icon.generationxhosting.com/epg/UK/More4UK.png" group-title="UK TV",UK | More 4 FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/533.m3u8
-#EXTINF:-1,UK | More 4 HD
+#EXTINF:-1 tvg-ID="more4.uk" tvg-name="UK | More 4 HD" tvg-logo="http://icon.generationxhosting.com/epg/UK/More4UK.png" group-title="UK TV",UK | More 4 HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/534.m3u8
-#EXTINF:-1,UK | 4Seven FHD
+#EXTINF:-1 tvg-ID="4seven.uk" tvg-name="UK | 4Seven FHD" tvg-logo="http://icon.generationxhosting.com/epg/UK/4SevenUK.png" group-title="UK TV",UK | 4Seven FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/535.m3u8
-#EXTINF:-1,UK | 4Seven HD
+#EXTINF:-1 tvg-ID="4seven.uk" tvg-name="UK | 4Seven HD" tvg-logo="http://icon.generationxhosting.com/epg/UK/4SevenUK.png" group-title="UK TV",UK | 4Seven HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/536.m3u8
-#EXTINF:-1,UK | Channel 5 FHD
+#EXTINF:-1 tvg-ID="channel5.uk" tvg-name="UK | Channel 5 FHD" tvg-logo="http://icon.generationxhosting.com/epg/UK/Channel5UK.png" group-title="UK TV",UK | Channel 5 FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/537.m3u8
-#EXTINF:-1,UK | Channel 5 HD
+#EXTINF:-1 tvg-ID="channel5.uk" tvg-name="UK | Channel 5 HD" tvg-logo="http://icon.generationxhosting.com/epg/UK/Channel5UK.png" group-title="UK TV",UK | Channel 5 HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/538.m3u8
-#EXTINF:-1,UK | Channel 5
+#EXTINF:-1 tvg-ID="channel5.uk" tvg-name="UK | Channel 5" tvg-logo="http://icon.generationxhosting.com/epg/UK/Channel5UK.png" group-title="UK TV",UK | Channel 5
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/539.m3u8
-#EXTINF:-1,UK | 5Star
+#EXTINF:-1 tvg-ID="5star.uk" tvg-name="UK | 5Star" tvg-logo="http://icon.generationxhosting.com/epg/UK/5StarUK.png" group-title="UK TV",UK | 5Star
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/540.m3u8
-#EXTINF:-1,UK | 5USA
+#EXTINF:-1 tvg-ID="fiveusa.uk" tvg-name="UK | 5USA" tvg-logo="http://icon.generationxhosting.com/epg/UK/5USAUK.png" group-title="UK TV",UK | 5USA
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/541.m3u8
-#EXTINF:-1,UK | 5Select
+#EXTINF:-1 tvg-ID="5select.uk" tvg-name="UK | 5Select" tvg-logo="http://icon.generationxhosting.com/epg/UK/5SelectUK.png" group-title="UK TV",UK | 5Select
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/543.m3u8
-#EXTINF:-1,UK | Paramount Network HD
+#EXTINF:-1 tvg-ID="paramount.uk" tvg-name="UK | Paramount Network HD" tvg-logo="http://icon.generationxhosting.com/epg/UK/ParamountNetworkUK.png" group-title="UK TV",UK | Paramount Network HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/542.m3u8
-#EXTINF:-1,UK | S4C FHD
+#EXTINF:-1 tvg-ID="s4c.uk" tvg-name="UK | S4C FHD" tvg-logo="http://icon.generationxhosting.com/epg/UK/S4CUK.png" group-title="UK TV",UK | S4C FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/544.m3u8
-#EXTINF:-1,UK | S4C
+#EXTINF:-1 tvg-ID="s4c.uk" tvg-name="UK | S4C" tvg-logo="http://icon.generationxhosting.com/epg/UK/S4CUK.png" group-title="UK TV",UK | S4C
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/545.m3u8
-#EXTINF:-1,UK | STV FHD
+#EXTINF:-1 tvg-ID="stv.uk" tvg-name="UK | STV FHD" tvg-logo="http://icon.generationxhosting.com/epg/UK/STVUK.png" group-title="UK TV",UK | STV FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/546.m3u8
-#EXTINF:-1,UK | STV
+#EXTINF:-1 tvg-ID="stv.uk" tvg-name="UK | STV" tvg-logo="http://icon.generationxhosting.com/epg/UK/STVUK.png" group-title="UK TV",UK | STV
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/547.m3u8
-#EXTINF:-1,UK | BBC One East Midlands
+#EXTINF:-1 tvg-ID="bbceastmidlands.uk" tvg-name="UK | BBC One East Midlands" tvg-logo="http://icon.generationxhosting.com/epg/UK/BBCOneEastMid.png" group-title="UK TV",UK | BBC One East Midlands
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/155588.m3u8
-#EXTINF:-1,UK | BBC One West Midlands
+#EXTINF:-1 tvg-ID="bbcwestmidlans.uk" tvg-name="UK | BBC One West Midlands" tvg-logo="http://icon.generationxhosting.com/epg/UK/BBCOneWest.png" group-title="UK TV",UK | BBC One West Midlands
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/155587.m3u8
-#EXTINF:-1,UK | BBC One London
+#EXTINF:-1 tvg-ID="bbc1.uk" tvg-name="UK | BBC One London" tvg-logo="http://icon.generationxhosting.com/epg/UK/BBCOneLondon.png" group-title="UK TV",UK | BBC One London
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/548.m3u8
-#EXTINF:-1,UK | BBC One South West
+#EXTINF:-1 tvg-ID="bbcsouthwest.uk" tvg-name="UK | BBC One South West" tvg-logo="http://icon.generationxhosting.com/epg/UK/BBCOneSouthWest.png" group-title="UK TV",UK | BBC One South West
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/549.m3u8
-#EXTINF:-1,UK | BBC One South East
+#EXTINF:-1 tvg-ID="bbcsoutheast.uk" tvg-name="UK | BBC One South East" tvg-logo="http://icon.generationxhosting.com/epg/UK/BBCOneSouthEast.png" group-title="UK TV",UK | BBC One South East
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/62175.m3u8
-#EXTINF:-1,UK | BBC One Wales
+#EXTINF:-1 tvg-ID="bbc1wales.uk" tvg-name="UK | BBC One Wales" tvg-logo="http://icon.generationxhosting.com/epg/UK/BBCOneWales.png" group-title="UK TV",UK | BBC One Wales
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/550.m3u8
-#EXTINF:-1,UK | BBC Two Wales
+#EXTINF:-1 tvg-ID="bbc2wales.uk" tvg-name="UK | BBC Two Wales" tvg-logo="http://icon.generationxhosting.com/epg/UK/BBCTwoWales.png" group-title="UK TV",UK | BBC Two Wales
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/551.m3u8
-#EXTINF:-1,UK | BBC One Scotland FHD
+#EXTINF:-1 tvg-ID="bbc1scotland.uk" tvg-name="UK | BBC One Scotland FHD" tvg-logo="http://icon.generationxhosting.com/epg/UK/BBCOneScotlandUK.png" group-title="UK TV",UK | BBC One Scotland FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/553.m3u8
-#EXTINF:-1,UK | BBC One Scotland HD
+#EXTINF:-1 tvg-ID="bbc1scotland.uk" tvg-name="UK | BBC One Scotland HD" tvg-logo="http://icon.generationxhosting.com/epg/UK/BBCOneScotlandUK.png" group-title="UK TV",UK | BBC One Scotland HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/180328.m3u8
-#EXTINF:-1,UK | BBC Scotland FHD
+#EXTINF:-1 tvg-ID="bbcscotland.uk" tvg-name="UK | BBC Scotland FHD" tvg-logo="http://icon.generationxhosting.com/epg/UK/BBCScotland.png" group-title="UK TV",UK | BBC Scotland FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/552.m3u8
-#EXTINF:-1,UK | BBC Scotland HD
+#EXTINF:-1 tvg-ID="bbcscotland.uk" tvg-name="UK | BBC Scotland HD" tvg-logo="http://icon.generationxhosting.com/epg/UK/BBCScotland.png" group-title="UK TV",UK | BBC Scotland HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/180330.m3u8
-#EXTINF:-1,UK | BBC One NI
+#EXTINF:-1 tvg-ID="bbc1northernireland.uk" tvg-name="UK | BBC One NI" tvg-logo="http://icon.generationxhosting.com/epg/UK/BBCOneNI.png" group-title="UK TV",UK | BBC One NI
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/554.m3u8
-#EXTINF:-1,UK | BBC Two NI
+#EXTINF:-1 tvg-ID="bbc2northernireland.uk" tvg-name="UK | BBC Two NI" tvg-logo="http://icon.generationxhosting.com/epg/UK/BBCTwoNI.png" group-title="UK TV",UK | BBC Two NI
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/555.m3u8
-#EXTINF:-1,UK | ITV Central West
+#EXTINF:-1 tvg-ID="itvcentral.uk" tvg-name="UK | ITV Central West" tvg-logo="http://icon.generationxhosting.com/epg/UK/itvUK.png" group-title="UK TV",UK | ITV Central West
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/556.m3u8
-#EXTINF:-1,UK | ITV Granada
+#EXTINF:-1 tvg-ID="itvgranada.uk" tvg-name="UK | ITV Granada" tvg-logo="http://icon.generationxhosting.com/epg/UK/itvUK.png" group-title="UK TV",UK | ITV Granada
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/557.m3u8
-#EXTINF:-1,UK | ITV Meridian South
+#EXTINF:-1 tvg-ID="itvmeridian.uk" tvg-name="UK | ITV Meridian South" tvg-logo="http://icon.generationxhosting.com/epg/UK/itvUK.png" group-title="UK TV",UK | ITV Meridian South
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/62176.m3u8
-#EXTINF:-1,UK | ITV Tyne Tees
+#EXTINF:-1 tvg-ID="itvtynetees.uk" tvg-name="UK | ITV Tyne Tees" tvg-logo="http://icon.generationxhosting.com/epg/UK/itvUK.png" group-title="UK TV",UK | ITV Tyne Tees
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/558.m3u8
-#EXTINF:-1,UK | ITV Wales
+#EXTINF:-1 tvg-ID="itvwales.uk" tvg-name="UK | ITV Wales" tvg-logo="http://icon.generationxhosting.com/epg/UK/itvUK.png" group-title="UK TV",UK | ITV Wales
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/559.m3u8
-#EXTINF:-1,UK | ITV West Country
+#EXTINF:-1 tvg-ID="itvwest.uk" tvg-name="UK | ITV West Country" tvg-logo="http://icon.generationxhosting.com/epg/UK/itvUK.png" group-title="UK TV",UK | ITV West Country
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/560.m3u8
-#EXTINF:-1,UK | ITV West Yorkshire
+#EXTINF:-1 tvg-ID="itvyorkshire.uk" tvg-name="UK | ITV West Yorkshire" tvg-logo="http://icon.generationxhosting.com/epg/UK/itvUK.png" group-title="UK TV",UK | ITV West Yorkshire
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/561.m3u8
-#EXTINF:-1,UK | BBC Alba
+#EXTINF:-1 tvg-ID="bbcalba.uk" tvg-name="UK | BBC Alba" tvg-logo="http://icon.generationxhosting.com/epg/UK/BBCAlba.png" group-title="UK TV",UK | BBC Alba
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/562.m3u8
-#EXTINF:-1,UK | BBC Parliament
+#EXTINF:-1 tvg-ID="bbcparliament.uk" tvg-name="UK | BBC Parliament" tvg-logo="http://icon.generationxhosting.com/epg/UK/BBCParliamentUK.png" group-title="UK TV",UK | BBC Parliament
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/563.m3u8
-#EXTINF:-1,UK | BBC RED BUTTON HD 1
+#EXTINF:-1 tvg-ID="bbcredbutton1.uk" tvg-name="UK | BBC RED BUTTON HD 1" tvg-logo="http://icon.generationxhosting.com/epg/UK/BBCRed.png" group-title="UK TV",UK | BBC RED BUTTON HD 1
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/73528.m3u8
-#EXTINF:-1,UK | BBC RED BUTTON HD 2
+#EXTINF:-1 tvg-ID="" tvg-name="UK | BBC RED BUTTON HD 2" tvg-logo="http://icon.generationxhosting.com/epg/UK/BBCRed.png" group-title="UK TV",UK | BBC RED BUTTON HD 2
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/73529.m3u8
-#EXTINF:-1,UK | BBC RED BUTTON HD 3
+#EXTINF:-1 tvg-ID="" tvg-name="UK | BBC RED BUTTON HD 3" tvg-logo="http://icon.generationxhosting.com/epg/UK/BBCRed.png" group-title="UK TV",UK | BBC RED BUTTON HD 3
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/73530.m3u8
-#EXTINF:-1,UK | BBC RED BUTTON HD 4
+#EXTINF:-1 tvg-ID="" tvg-name="UK | BBC RED BUTTON HD 4" tvg-logo="http://icon.generationxhosting.com/epg/UK/BBCRed.png" group-title="UK TV",UK | BBC RED BUTTON HD 4
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/73531.m3u8
-#EXTINF:-1,UK | Alibi FHD
+#EXTINF:-1 tvg-ID="alibi.uk" tvg-name="UK | Alibi FHD" tvg-logo="http://icon.generationxhosting.com//epg/ENT/AlibiHD.png" group-title="Entertainment",UK | Alibi FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/155.m3u8
-#EXTINF:-1,UK | Alibi
+#EXTINF:-1 tvg-ID="alibi.uk" tvg-name="UK | Alibi" tvg-logo="http://icon.generationxhosting.com//epg/ENT/Alibi.png" group-title="Entertainment",UK | Alibi
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/156.m3u8
-#EXTINF:-1,UK | Blaze
+#EXTINF:-1 tvg-ID="blaze.uk" tvg-name="UK | Blaze" tvg-logo="http://icon.generationxhosting.com//epg/ENT/Blaze.png" group-title="Entertainment",UK | Blaze
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/159.m3u8
-#EXTINF:-1,UK | CBS Drama
+#EXTINF:-1 tvg-ID="cbsdrama.uk" tvg-name="UK | CBS Drama" tvg-logo="http://icon.generationxhosting.com//epg/ENT/CBSDrama.png" group-title="Entertainment",UK | CBS Drama
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/160.m3u8
-#EXTINF:-1,UK | CBS Justice
+#EXTINF:-1 tvg-ID="92news.uk" tvg-name="UK | CBS Justice" tvg-logo="http://icon.generationxhosting.com/epg/ENT/CBS%20Justice.png" group-title="Entertainment",UK | CBS Justice
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/765.m3u8
-#EXTINF:-1,UK | CBS Reality
+#EXTINF:-1 tvg-ID="cbsreality.uk" tvg-name="UK | CBS Reality" tvg-logo="http://icon.generationxhosting.com//epg/ENT/CBSReality.png" group-title="Entertainment",UK | CBS Reality
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/161.m3u8
-#EXTINF:-1,UK | Challenge
+#EXTINF:-1 tvg-ID="challenge.uk" tvg-name="UK | Challenge" tvg-logo="http://icon.generationxhosting.com//epg/ENT/Challenge.png" group-title="Entertainment",UK | Challenge
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/162.m3u8
-#EXTINF:-1,UK | Comedy Central Extra
+#EXTINF:-1 tvg-ID="comedycentralextra.uk" tvg-name="UK | Comedy Central Extra" tvg-logo="http://icon.generationxhosting.com//epg/ENT/ComedyCentralExtra.png" group-title="Entertainment",UK | Comedy Central Extra
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/165.m3u8
-#EXTINF:-1,UK | Comedy Central FHD
+#EXTINF:-1 tvg-ID="comedycentral.uk" tvg-name="UK | Comedy Central FHD" tvg-logo="http://icon.generationxhosting.com//epg/ENT/ComedyCentralHD.png" group-title="Entertainment",UK | Comedy Central FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/163.m3u8
-#EXTINF:-1,UK | Comedy Central HD
+#EXTINF:-1 tvg-ID="comedycentral.uk" tvg-name="UK | Comedy Central HD" tvg-logo="http://icon.generationxhosting.com//epg/ENT/ComedyCentral.png" group-title="Entertainment",UK | Comedy Central HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/164.m3u8
-#EXTINF:-1,UK | Create and Craft
+#EXTINF:-1 tvg-ID="createcraft.uk" tvg-name="UK | Create and Craft" tvg-logo="http://icon.generationxhosting.com/epg/ENT/Create%20and%20Craft.png" group-title="Entertainment",UK | Create and Craft
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/129657.m3u8
-#EXTINF:-1,UK | Dave FHD
+#EXTINF:-1 tvg-ID="dave.uk" tvg-name="UK | Dave FHD" tvg-logo="http://icon.generationxhosting.com//epg/ENT/DaveHD.png" group-title="Entertainment",UK | Dave FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/166.m3u8
-#EXTINF:-1,UK | Dave HD
+#EXTINF:-1 tvg-ID="dave.uk" tvg-name="UK | Dave HD" tvg-logo="http://icon.generationxhosting.com//epg/ENT/DaveHD.png" group-title="Entertainment",UK | Dave HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/167.m3u8
-#EXTINF:-1,UK | Drama
+#EXTINF:-1 tvg-ID="drama.uk" tvg-name="UK | Drama" tvg-logo="http://icon.generationxhosting.com//epg/ENT/Drama.png" group-title="Entertainment",UK | Drama
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/168.m3u8
-#EXTINF:-1,UK | E! FHD
+#EXTINF:-1 tvg-ID="eentertainment.uk" tvg-name="UK | E! FHD" tvg-logo="http://icon.generationxhosting.com//epg/ENT/E%21.png" group-title="Entertainment",UK | E! FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/169.m3u8
-#EXTINF:-1,UK | Eden FHD
+#EXTINF:-1 tvg-ID="eden.uk" tvg-name="UK | Eden FHD" tvg-logo="http://icon.generationxhosting.com//epg/ENT/Eden.png" group-title="Entertainment",UK | Eden FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/170.m3u8
-#EXTINF:-1,UK | Eden
+#EXTINF:-1 tvg-ID="eden.uk" tvg-name="UK | Eden" tvg-logo="http://icon.generationxhosting.com//epg/ENT/Eden.png" group-title="Entertainment",UK | Eden
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/171.m3u8
-#EXTINF:-1,UK | Food Network
+#EXTINF:-1 tvg-ID="foodnetwork.uk" tvg-name="UK | Food Network" tvg-logo="http://icon.generationxhosting.com//epg/ENT/FoodNetwork.png" group-title="Entertainment",UK | Food Network
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/175.m3u8
-#EXTINF:-1,UK | Forces TV
+#EXTINF:-1 tvg-ID="forcestv.uk" tvg-name="UK | Forces TV" tvg-logo="http://icon.generationxhosting.com//epg/ENT/ForcesTV.png" group-title="Entertainment",UK | Forces TV
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/172.m3u8
-#EXTINF:-1,UK | Gold FHD
+#EXTINF:-1 tvg-ID="gold.uk" tvg-name="UK | Gold FHD" tvg-logo="http://icon.generationxhosting.com//epg/ENT/Gold.png" group-title="Entertainment",UK | Gold FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/176.m3u8
-#EXTINF:-1,UK | Gold HD
+#EXTINF:-1 tvg-ID="gold.uk" tvg-name="UK | Gold HD" tvg-logo="http://icon.generationxhosting.com//epg/ENT/Gold.png" group-title="Entertainment",UK | Gold HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/177.m3u8
-#EXTINF:-1,UK | Gold
+#EXTINF:-1 tvg-ID="gold.uk" tvg-name="UK | Gold" tvg-logo="http://icon.generationxhosting.com//epg/ENT/Gold.png" group-title="Entertainment",UK | Gold
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/7337.m3u8
-#EXTINF:-1,UK | GREAT! tv
+#EXTINF:-1 tvg-ID="greattv.uk" tvg-name="UK | GREAT! tv" tvg-logo="http://icon.generationxhosting.com//epg/ENT/GREAT%20TV.png" group-title="Entertainment",UK | GREAT! tv
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/210.m3u8
-#EXTINF:-1,UK | Live360
+#EXTINF:-1 tvg-ID="live360.uk" tvg-name="UK | Live360" tvg-logo="http://icon.generationxhosting.com//epg/ENT/Live360.png" group-title="UK TV",UK | Live360
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/64592.m3u8
-#EXTINF:-1,UK | PBS America
+#EXTINF:-1 tvg-ID="pbsamerica.uk" tvg-name="UK | PBS America" tvg-logo="http://icon.generationxhosting.com/epg/ENT/PBSAmerica.png" group-title="Entertainment",UK | PBS America
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/155731.m3u8
-#EXTINF:-1,UK | Pick
+#EXTINF:-1 tvg-ID="picktv.uk" tvg-name="UK | Pick" tvg-logo="http://icon.generationxhosting.com//epg/ENT/Pick.png" group-title="Entertainment",UK | Pick
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/184.m3u8
-#EXTINF:-1,UK | Quest FHD
+#EXTINF:-1 tvg-ID="quest.uk" tvg-name="UK | Quest FHD" tvg-logo="http://icon.generationxhosting.com//epg/ENT/Quest.png" group-title="Entertainment",UK | Quest FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/185.m3u8
-#EXTINF:-1,UK | Quest HD
+#EXTINF:-1 tvg-ID="quest.uk" tvg-name="UK | Quest HD" tvg-logo="http://icon.generationxhosting.com//epg/ENT/Quest.png" group-title="Entertainment",UK | Quest HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/186.m3u8
-#EXTINF:-1,UK | Quest Red
+#EXTINF:-1 tvg-ID="questred.uk" tvg-name="UK | Quest Red" tvg-logo="http://icon.generationxhosting.com//epg/ENT/QuestRed.png" group-title="Entertainment",UK | Quest Red
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/187.m3u8
-#EXTINF:-1,UK | QVC
+#EXTINF:-1 tvg-ID="qvc.uk" tvg-name="UK | QVC" tvg-logo="http://icon.generationxhosting.com//epg/ENT/QVC.png" group-title="Entertainment",UK | QVC
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/188.m3u8
-#EXTINF:-1,UK | QVC Beauty
+#EXTINF:-1 tvg-ID="qvc.uk" tvg-name="UK | QVC Beauty" tvg-logo="http://icon.generationxhosting.com//epg/ENT/QVCBeauty.png" group-title="Entertainment",UK | QVC Beauty
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/191.m3u8
-#EXTINF:-1,UK | QVC Extra
+#EXTINF:-1 tvg-ID="qvcextra.uk" tvg-name="UK | QVC Extra" tvg-logo="http://icon.generationxhosting.com//epg/ENT/QVCExtra.png" group-title="Entertainment",UK | QVC Extra
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/190.m3u8
-#EXTINF:-1,UK | QVC Style
+#EXTINF:-1 tvg-ID="qvcstyle.uk" tvg-name="UK | QVC Style" tvg-logo="http://icon.generationxhosting.com//epg/ENT/QVCStyle.png" group-title="Entertainment",UK | QVC Style
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/189.m3u8
-#EXTINF:-1,UK | Real Lives
+#EXTINF:-1 tvg-ID="reallives.uk" tvg-name="UK | Real Lives" tvg-logo="http://icon.generationxhosting.com//epg/ENT/RealLives.png" group-title="Entertainment",UK | Real Lives
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/192.m3u8
-#EXTINF:-1,UK | Really
+#EXTINF:-1 tvg-ID="really.uk" tvg-name="UK | Really" tvg-logo="http://icon.generationxhosting.com//epg/ENT/Really.png" group-title="Entertainment",UK | Really
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/193.m3u8
-#EXTINF:-1,UK | Sky Arts FHD
+#EXTINF:-1 tvg-ID="skyarts.uk" tvg-name="UK | Sky Arts FHD" tvg-logo="http://icon.generationxhosting.com//epg/ENT/SkyArtsHD.png" group-title="Entertainment",UK | Sky Arts FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/197.m3u8
-#EXTINF:-1,UK | Sky Arts HD
+#EXTINF:-1 tvg-ID="skyarts.uk" tvg-name="UK | Sky Arts HD" tvg-logo="http://icon.generationxhosting.com//epg/ENT/SkyArtsHD.png" group-title="Entertainment",UK | Sky Arts HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/198.m3u8
-#EXTINF:-1,UK | Sky Atlantic FHD
+#EXTINF:-1 tvg-ID="skyatlantic.uk" tvg-name="UK | Sky Atlantic FHD" tvg-logo="http://icon.generationxhosting.com//epg/ENT/SkyAtlantic.png" group-title="Entertainment",UK | Sky Atlantic FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/194.m3u8
-#EXTINF:-1,UK | Sky Atlantic HD
+#EXTINF:-1 tvg-ID="skyatlantic.uk" tvg-name="UK | Sky Atlantic HD" tvg-logo="http://icon.generationxhosting.com//epg/ENT/SkyAtlantic.png" group-title="Entertainment",UK | Sky Atlantic HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/195.m3u8
-#EXTINF:-1,UK | Sky Atlantic
+#EXTINF:-1 tvg-ID="skyatlantic.uk" tvg-name="UK | Sky Atlantic" tvg-logo="http://icon.generationxhosting.com//epg/ENT/SkyAtlantic.png" group-title="Entertainment",UK | Sky Atlantic
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/196.m3u8
-#EXTINF:-1,UK | Sky Comedy FHD
+#EXTINF:-1 tvg-ID="skycomedyhd.uk" tvg-name="UK | Sky Comedy FHD" tvg-logo="http://icon.generationxhosting.com/epg/ENT/SkyComedy.png" group-title="Entertainment",UK | Sky Comedy FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/59055.m3u8
-#EXTINF:-1,UK | Sky Comedy HD
+#EXTINF:-1 tvg-ID="skycomedyhd.uk" tvg-name="UK | Sky Comedy HD" tvg-logo="http://icon.generationxhosting.com/epg/ENT/SkyComedy.png" group-title="Entertainment",UK | Sky Comedy HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/59054.m3u8
-#EXTINF:-1,UK | Sky One FHD
+#EXTINF:-1 tvg-ID="sky1.uk" tvg-name="UK | Sky One FHD" tvg-logo="http://icon.generationxhosting.com//epg/ENT/SkyOne.png" group-title="Entertainment",UK | Sky One FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/199.m3u8
-#EXTINF:-1,UK | Sky One HD
+#EXTINF:-1 tvg-ID="sky1.uk" tvg-name="UK | Sky One HD" tvg-logo="http://icon.generationxhosting.com//epg/ENT/SkyOne.png" group-title="Entertainment",UK | Sky One HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/200.m3u8
-#EXTINF:-1,UK | Sky One
+#EXTINF:-1 tvg-ID="sky1.uk" tvg-name="UK | Sky One" tvg-logo="http://icon.generationxhosting.com//epg/ENT/SkyOne.png" group-title="Entertainment",UK | Sky One
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/201.m3u8
-#EXTINF:-1,UK | Sky Replay
+#EXTINF:-1 tvg-ID="sky2.uk" tvg-name="UK | Sky Replay" tvg-logo="http://icon.generationxhosting.com//epg/ENT/Sky%20Replay.png" group-title="Entertainment",UK | Sky Replay
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/202.m3u8
-#EXTINF:-1,UK | Sky Witness FHD
+#EXTINF:-1 tvg-ID="skywitnessplus1.uk" tvg-name="UK | Sky Witness FHD" tvg-logo="http://icon.generationxhosting.com//epg/ENT/SYFYHD.png" group-title="Entertainment",UK | Sky Witness FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/203.m3u8
-#EXTINF:-1,UK | Sky Witness HD
+#EXTINF:-1 tvg-ID="skywitnessplus1.uk" tvg-name="UK | Sky Witness HD" tvg-logo="http://icon.generationxhosting.com//epg/ENT/SYFYHD.png" group-title="Entertainment",UK | Sky Witness HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/204.m3u8
-#EXTINF:-1,UK | Syfy FHD
+#EXTINF:-1 tvg-ID="syfy.uk" tvg-name="UK | Syfy FHD" tvg-logo="http://icon.generationxhosting.com//epg/ENT/SYFYHD.png" group-title="Entertainment",UK | Syfy FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/205.m3u8
-#EXTINF:-1,UK | Syfy HD
+#EXTINF:-1 tvg-ID="syfy.uk" tvg-name="UK | Syfy HD" tvg-logo="http://icon.generationxhosting.com//epg/ENT/SYFYHD.png" group-title="Entertainment",UK | Syfy HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/206.m3u8
-#EXTINF:-1,UK | TLC FHD
+#EXTINF:-1 tvg-ID="tlc.uk" tvg-name="UK | TLC FHD" tvg-logo="http://icon.generationxhosting.com//epg/ENT/TLCHD.png" group-title="Entertainment",UK | TLC FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/207.m3u8
-#EXTINF:-1,UK | TLC HD
+#EXTINF:-1 tvg-ID="tlc.uk" tvg-name="UK | TLC HD" tvg-logo="http://icon.generationxhosting.com//epg/ENT/TLCHD.png" group-title="Entertainment",UK | TLC HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/208.m3u8
-#EXTINF:-1,UK | W FHD
+#EXTINF:-1 tvg-ID="w.uk" tvg-name="UK | W FHD" tvg-logo="http://icon.generationxhosting.com/epg/ENT/WHD.png" group-title="Entertainment",UK | W FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/214.m3u8
-#EXTINF:-1,UK | W HD
+#EXTINF:-1 tvg-ID="w.uk" tvg-name="UK | W HD" tvg-logo="http://icon.generationxhosting.com//epg/ENT/WHD.png" group-title="Entertainment",UK | W HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/215.m3u8
-#EXTINF:-1,UK | Yesterday
+#EXTINF:-1 tvg-ID="yesterday.uk" tvg-name="UK | Yesterday" tvg-logo="http://icon.generationxhosting.com//epg/ENT/Yesterday.png" group-title="Entertainment",UK | Yesterday
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/216.m3u8
-#EXTINF:-1,UK | Sky Cinema Premiere FHD
+#EXTINF:-1 tvg-ID="skypremiere.uk" tvg-name="UK | Sky Cinema Premiere FHD" tvg-logo="http://icon.generationxhosting.com/epg/MOV/SkyCinema.png" group-title="Movies",UK | Sky Cinema Premiere FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/290.m3u8
-#EXTINF:-1,UK | Sky Cinema Premiere HD
+#EXTINF:-1 tvg-ID="skypremiere.uk" tvg-name="UK | Sky Cinema Premiere HD" tvg-logo="http://icon.generationxhosting.com/epg/MOV/SkyCinema.png" group-title="Movies",UK | Sky Cinema Premiere HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/291.m3u8
-#EXTINF:-1,UK | Sky Cinema Premiere
+#EXTINF:-1 tvg-ID="skypremiere.uk" tvg-name="UK | Sky Cinema Premiere" tvg-logo="http://icon.generationxhosting.com/epg/MOV/SkyCinema.png" group-title="Movies",UK | Sky Cinema Premiere
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/292.m3u8
-#EXTINF:-1,UK | Sky Cinema Best of the 80s FHD
+#EXTINF:-1 tvg-ID="skyselect.uk" tvg-name="UK | Sky Cinema Best of the 80s FHD" tvg-logo="http://icon.generationxhosting.com/epg/MOV/SkyCinema.png" group-title="Movies",UK | Sky Cinema Best of the 80s FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/293.m3u8
-#EXTINF:-1,UK | Sky Cinema Best of the 80s HD
+#EXTINF:-1 tvg-ID="skyselect.uk" tvg-name="UK | Sky Cinema Best of the 80s HD" tvg-logo="http://icon.generationxhosting.com/epg/MOV/SkyCinema.png" group-title="Movies",UK | Sky Cinema Best of the 80s HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/294.m3u8
-#EXTINF:-1,UK | Sky Cinema 5 Star Movies FHD
+#EXTINF:-1 tvg-ID="skyhits.uk" tvg-name="UK | Sky Cinema 5 Star Movies FHD" tvg-logo="http://icon.generationxhosting.com/epg/MOV/SkyCinema.png" group-title="Movies",UK | Sky Cinema 5 Star Movies FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/295.m3u8
-#EXTINF:-1,UK | Sky Cinema 5 Star Movies HD
+#EXTINF:-1 tvg-ID="skyhits.uk" tvg-name="UK | Sky Cinema 5 Star Movies HD" tvg-logo="http://icon.generationxhosting.com/epg/MOV/SkyCinema.png" group-title="Movies",UK | Sky Cinema 5 Star Movies HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/296.m3u8
-#EXTINF:-1,UK | Sky Cinema Greats FHD
+#EXTINF:-1 tvg-ID="skygreats.uk" tvg-name="UK | Sky Cinema Greats FHD" tvg-logo="http://icon.generationxhosting.com/epg/MOV/SkyCinema.png" group-title="Movies",UK | Sky Cinema Greats FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/297.m3u8
-#EXTINF:-1,UK | Sky Cinema Greats HD
+#EXTINF:-1 tvg-ID="skygreats.uk" tvg-name="UK | Sky Cinema Greats HD" tvg-logo="http://icon.generationxhosting.com/epg/MOV/SkyCinema.png" group-title="Movies",UK | Sky Cinema Greats HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/298.m3u8
-#EXTINF:-1,UK | Sky Cinema Animation FHD
+#EXTINF:-1 tvg-ID="skyanimation.uk" tvg-name="UK | Sky Cinema Animation FHD" tvg-logo="http://icon.generationxhosting.com/epg/MOV/SkyCinema.png" group-title="Movies",UK | Sky Cinema Animation FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/76098.m3u8
-#EXTINF:-1,UK | Sky Cinema Animation HD
+#EXTINF:-1 tvg-ID="skyanimation.uk" tvg-name="UK | Sky Cinema Animation HD" tvg-logo="http://icon.generationxhosting.com/epg/MOV/SkyCinema.png" group-title="Movies",UK | Sky Cinema Animation HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/76099.m3u8
-#EXTINF:-1,UK | Sky Cinema Animation
+#EXTINF:-1 tvg-ID="skyanimation.uk" tvg-name="UK | Sky Cinema Animation" tvg-logo="http://icon.generationxhosting.com/epg/MOV/SkyCinema.png" group-title="Movies",UK | Sky Cinema Animation
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/76100.m3u8
-#EXTINF:-1,UK | Sky Cinema Family FHD
+#EXTINF:-1 tvg-ID="skyfamily.uk" tvg-name="UK | Sky Cinema Family FHD" tvg-logo="http://icon.generationxhosting.com/epg/MOV/SkyCinema.png" group-title="Movies",UK | Sky Cinema Family FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/301.m3u8
-#EXTINF:-1,UK | Sky Cinema Family HD
+#EXTINF:-1 tvg-ID="skyfamily.uk" tvg-name="UK | Sky Cinema Family HD" tvg-logo="http://icon.generationxhosting.com/epg/MOV/SkyCinema.png" group-title="Movies",UK | Sky Cinema Family HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/302.m3u8
-#EXTINF:-1,UK | Sky Cinema Family
+#EXTINF:-1 tvg-ID="skyfamily.uk" tvg-name="UK | Sky Cinema Family" tvg-logo="http://icon.generationxhosting.com/epg/MOV/SkyCinema.png" group-title="Movies",UK | Sky Cinema Family
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/303.m3u8
-#EXTINF:-1,UK | Sky Cinema Action FHD
+#EXTINF:-1 tvg-ID="skyaction.uk" tvg-name="UK | Sky Cinema Action FHD" tvg-logo="http://icon.generationxhosting.com/epg/MOV/SkyCinema.png" group-title="Movies",UK | Sky Cinema Action FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/304.m3u8
-#EXTINF:-1,UK | Sky Cinema Action HD
+#EXTINF:-1 tvg-ID="skyaction.uk" tvg-name="UK | Sky Cinema Action HD" tvg-logo="http://icon.generationxhosting.com/epg/MOV/SkyCinema.png" group-title="Movies",UK | Sky Cinema Action HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/305.m3u8
-#EXTINF:-1,UK | Sky Cinema Action
+#EXTINF:-1 tvg-ID="skyaction.uk" tvg-name="UK | Sky Cinema Action" tvg-logo="http://icon.generationxhosting.com/epg/MOV/SkyCinema.png" group-title="Movies",UK | Sky Cinema Action
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/306.m3u8
-#EXTINF:-1,UK | Sky Cinema Comedy FHD
+#EXTINF:-1 tvg-ID="skyciniemacomedyhd.uk" tvg-name="UK | Sky Cinema Comedy FHD" tvg-logo="http://icon.generationxhosting.com/epg/MOV/SkyCinema.png" group-title="Movies",UK | Sky Cinema Comedy FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/307.m3u8
-#EXTINF:-1,UK | Sky Cinema Comedy HD
+#EXTINF:-1 tvg-ID="skyciniemacomedyhd.uk" tvg-name="UK | Sky Cinema Comedy HD" tvg-logo="http://icon.generationxhosting.com/epg/MOV/SkyCinema.png" group-title="Movies",UK | Sky Cinema Comedy HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/308.m3u8
-#EXTINF:-1,UK | Sky Cinema Comedy
+#EXTINF:-1 tvg-ID="skyciniemacomedyhd.uk" tvg-name="UK | Sky Cinema Comedy" tvg-logo="http://icon.generationxhosting.com/epg/MOV/SkyCinema.png" group-title="Movies",UK | Sky Cinema Comedy
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/309.m3u8
-#EXTINF:-1,UK | Sky Cinema Mystery FHD
+#EXTINF:-1 tvg-ID="skythriller.uk" tvg-name="UK | Sky Cinema Mystery FHD" tvg-logo="http://icon.generationxhosting.com/epg/MOV/SkyCinema.png" group-title="Movies",UK | Sky Cinema Mystery FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/310.m3u8
-#EXTINF:-1,UK | Sky Cinema Mystery HD
+#EXTINF:-1 tvg-ID="skythriller.uk" tvg-name="UK | Sky Cinema Mystery HD" tvg-logo="http://icon.generationxhosting.com/epg/MOV/SkyCinema.png" group-title="Movies",UK | Sky Cinema Mystery HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/311.m3u8
-#EXTINF:-1,UK | Sky Cinema Drama FHD
+#EXTINF:-1 tvg-ID="skydrama.uk" tvg-name="UK | Sky Cinema Drama FHD" tvg-logo="http://icon.generationxhosting.com/epg/MOV/SkyCinema.png" group-title="Movies",UK | Sky Cinema Drama FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/312.m3u8
-#EXTINF:-1,UK | Sky Cinema Drama HD
+#EXTINF:-1 tvg-ID="skydrama.uk" tvg-name="UK | Sky Cinema Drama HD" tvg-logo="http://icon.generationxhosting.com/epg/MOV/SkyCinema.png" group-title="Movies",UK | Sky Cinema Drama HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/313.m3u8
-#EXTINF:-1,UK | Sky Cinema Drama
+#EXTINF:-1 tvg-ID="skydrama.uk" tvg-name="UK | Sky Cinema Drama" tvg-logo="http://icon.generationxhosting.com/epg/MOV/SkyCinema.png" group-title="Movies",UK | Sky Cinema Drama
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/314.m3u8
-#EXTINF:-1,UK | Sky Cinema Sci-Fi Horror FHD
+#EXTINF:-1 tvg-ID="skyscifihorror.uk" tvg-name="UK | Sky Cinema Sci-Fi Horror FHD" tvg-logo="http://icon.generationxhosting.com/epg/MOV/SkyCinema.png" group-title="Movies",UK | Sky Cinema Sci-Fi Horror FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/315.m3u8
-#EXTINF:-1,UK | Sky Cinema Sci-Fi Horror HD
+#EXTINF:-1 tvg-ID="skyscifihorror.uk" tvg-name="UK | Sky Cinema Sci-Fi Horror HD" tvg-logo="http://icon.generationxhosting.com/epg/MOV/SkyCinema.png" group-title="Movies",UK | Sky Cinema Sci-Fi Horror HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/316.m3u8
-#EXTINF:-1,UK | Film 4 FHD
+#EXTINF:-1 tvg-ID="film4.uk" tvg-name="UK | Film 4 FHD" tvg-logo="http://icon.generationxhosting.com/epg/MOV/Film4.png" group-title="Movies",UK | Film 4 FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/317.m3u8
-#EXTINF:-1,UK | Film 4 HD
+#EXTINF:-1 tvg-ID="film4.uk" tvg-name="UK | Film 4 HD" tvg-logo="http://icon.generationxhosting.com/epg/MOV/Film4.png" group-title="Movies",UK | Film 4 HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/318.m3u8
-#EXTINF:-1,UK | TCM FHD
+#EXTINF:-1 tvg-ID="tcm.uk" tvg-name="UK | TCM FHD" tvg-logo="http://icon.generationxhosting.com/epg/MOV/TCMHD.png" group-title="Movies",UK | TCM FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/324.m3u8
-#EXTINF:-1,UK | TCM HD
+#EXTINF:-1 tvg-ID="tcm.uk" tvg-name="UK | TCM HD" tvg-logo="http://icon.generationxhosting.com/epg/MOV/TCMHD.png" group-title="Movies",UK | TCM HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/325.m3u8
-#EXTINF:-1,UK | Horror Channel
+#EXTINF:-1 tvg-ID="horrorchannel.uk" tvg-name="UK | Horror Channel" tvg-logo="http://icon.generationxhosting.com//epg/MOV/Horrorchannel.png" group-title="Movies",UK | Horror Channel
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/181.m3u8
-#EXTINF:-1,UK | GREAT! movies
+#EXTINF:-1 tvg-ID="greatmovies.uk" tvg-name="UK | GREAT! movies" tvg-logo="http://icon.generationxhosting.com/epg/MOV/GREAT%20Movies.png" group-title="Movies",UK | GREAT! movies
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/321.m3u8
-#EXTINF:-1,UK | GREAT! movies action
+#EXTINF:-1 tvg-ID="greataction.uk" tvg-name="UK | GREAT! movies action" tvg-logo="http://icon.generationxhosting.com/epg/MOV/GREAT%20Movies%20Action.png" group-title="Movies",UK | GREAT! movies action
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/320.m3u8
-#EXTINF:-1,UK | GREAT! movies classic
+#EXTINF:-1 tvg-ID="greatclassic.uk" tvg-name="UK | GREAT! movies classic" tvg-logo="http://icon.generationxhosting.com/epg/MOV/GREAT%20Movies%20Classic.png" group-title="Movies",UK | GREAT! movies classic
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/322.m3u8
-#EXTINF:-1,UK | Movies 24
+#EXTINF:-1 tvg-ID="movies24.uk" tvg-name="UK | Movies 24" tvg-logo="http://icon.generationxhosting.com/epg/MOV/Movies24.png" group-title="Movies",UK | Movies 24
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/319.m3u8
-#EXTINF:-1,UK | Talking Pictures
+#EXTINF:-1 tvg-ID="talkingpictures.uk" tvg-name="UK | Talking Pictures" tvg-logo="http://icon.generationxhosting.com/epg/MOV/TalkingPictures.png" group-title="Movies",UK | Talking Pictures
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/323.m3u8
-#EXTINF:-1,UK | Sky Sports News FHD
+#EXTINF:-1 tvg-ID="skysportsnews.uk" tvg-name="UK | Sky Sports News FHD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SkySports.png" group-title="Sports",UK | Sky Sports News FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/35522.m3u8
-#EXTINF:-1,UK | Sky Sports News HD
+#EXTINF:-1 tvg-ID="skysportsnews.uk" tvg-name="UK | Sky Sports News HD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SkySports.png" group-title="Sports",UK | Sky Sports News HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/151582.m3u8
-#EXTINF:-1,UK | Sky Sports Main Event FHD*
+#EXTINF:-1 tvg-ID="skysportsmainevent.uk" tvg-name="UK | Sky Sports Main Event FHD*" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SkySports.png" group-title="Sports",UK | Sky Sports Main Event FHD*
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/81.m3u8
-#EXTINF:-1,UK | Sky Sports Main Event FHD
+#EXTINF:-1 tvg-ID="skysportsmainevent.uk" tvg-name="UK | Sky Sports Main Event FHD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SkySports.png" group-title="Sports",UK | Sky Sports Main Event FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/82.m3u8
-#EXTINF:-1,UK | Sky Sports Main Event HD
+#EXTINF:-1 tvg-ID="skysportsmainevent.uk" tvg-name="UK | Sky Sports Main Event HD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SkySports.png" group-title="Sports",UK | Sky Sports Main Event HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/83.m3u8
-#EXTINF:-1,UK | Sky Sports Main Event
+#EXTINF:-1 tvg-ID="skysportsmainevent.uk" tvg-name="UK | Sky Sports Main Event" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SkySports.png" group-title="Sports",UK | Sky Sports Main Event
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/84.m3u8
-#EXTINF:-1,UK | Sky Sports Premier FHD*
+#EXTINF:-1 tvg-ID="skysportspremiereleague.uk" tvg-name="UK | Sky Sports Premier FHD*" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SkySports.png" group-title="Sports",UK | Sky Sports Premier FHD*
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/85.m3u8
-#EXTINF:-1,UK | Sky Sports Premier FHD
+#EXTINF:-1 tvg-ID="skysportspremiereleague.uk" tvg-name="UK | Sky Sports Premier FHD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SkySports.png" group-title="Sports",UK | Sky Sports Premier FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/86.m3u8
-#EXTINF:-1,UK | Sky Sports Premier HD
+#EXTINF:-1 tvg-ID="skysportspremiereleague.uk" tvg-name="UK | Sky Sports Premier HD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SkySports.png" group-title="Sports",UK | Sky Sports Premier HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/87.m3u8
-#EXTINF:-1,UK | Sky Sports Premier
+#EXTINF:-1 tvg-ID="skysportspremiereleague.uk" tvg-name="UK | Sky Sports Premier" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SkySports.png" group-title="Sports",UK | Sky Sports Premier
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/88.m3u8
-#EXTINF:-1,UK | Sky Sports Football FHD*
+#EXTINF:-1 tvg-ID="skysportsfootball.uk" tvg-name="UK | Sky Sports Football FHD*" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SkySports.png" group-title="Sports",UK | Sky Sports Football FHD*
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/89.m3u8
-#EXTINF:-1,UK | Sky Sports Football FHD
+#EXTINF:-1 tvg-ID="skysportsfootball.uk" tvg-name="UK | Sky Sports Football FHD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SkySports.png" group-title="Sports",UK | Sky Sports Football FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/90.m3u8
-#EXTINF:-1,UK | Sky Sports Football HD
+#EXTINF:-1 tvg-ID="skysportsfootball.uk" tvg-name="UK | Sky Sports Football HD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SkySports.png" group-title="Sports",UK | Sky Sports Football HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/91.m3u8
-#EXTINF:-1,UK | Sky Sports Football
+#EXTINF:-1 tvg-ID="skysportsfootball.uk" tvg-name="UK | Sky Sports Football" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SkySports.png" group-title="Sports",UK | Sky Sports Football
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/92.m3u8
-#EXTINF:-1,UK | Sky Sports Cricket FHD*
+#EXTINF:-1 tvg-ID="skysportscricket.uk" tvg-name="UK | Sky Sports Cricket FHD*" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SkySports.png" group-title="Sports",UK | Sky Sports Cricket FHD*
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/93.m3u8
-#EXTINF:-1,UK | Sky Sports Cricket FHD
+#EXTINF:-1 tvg-ID="skysportscricket.uk" tvg-name="UK | Sky Sports Cricket FHD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SkySports.png" group-title="Sports",UK | Sky Sports Cricket FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/94.m3u8
-#EXTINF:-1,UK | Sky Sports Cricket HD
+#EXTINF:-1 tvg-ID="skysportscricket.uk" tvg-name="UK | Sky Sports Cricket HD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SkySports.png" group-title="Sports",UK | Sky Sports Cricket HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/95.m3u8
-#EXTINF:-1,UK | Sky Sports Cricket
+#EXTINF:-1 tvg-ID="skysportscricket.uk" tvg-name="UK | Sky Sports Cricket" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SkySports.png" group-title="Sports",UK | Sky Sports Cricket
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/96.m3u8
-#EXTINF:-1,UK | Sky Sports Golf FHD*
+#EXTINF:-1 tvg-ID="skysportsgolf.uk" tvg-name="UK | Sky Sports Golf FHD*" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SkySports.png" group-title="Sports",UK | Sky Sports Golf FHD*
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/97.m3u8
-#EXTINF:-1,UK | Sky Sports Golf FHD
+#EXTINF:-1 tvg-ID="skysportsgolf.uk" tvg-name="UK | Sky Sports Golf FHD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SkySports.png" group-title="Sports",UK | Sky Sports Golf FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/98.m3u8
-#EXTINF:-1,UK | Sky Sports Golf HD
+#EXTINF:-1 tvg-ID="skysportsgolf.uk" tvg-name="UK | Sky Sports Golf HD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SkySports.png" group-title="Sports",UK | Sky Sports Golf HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/99.m3u8
-#EXTINF:-1,UK | Sky Sports Golf
+#EXTINF:-1 tvg-ID="skysportsgolf.uk" tvg-name="UK | Sky Sports Golf" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SkySports.png" group-title="Sports",UK | Sky Sports Golf
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/100.m3u8
-#EXTINF:-1,UK | Sky Sports F1 FHD*
+#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="UK | Sky Sports F1 FHD*" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SkySports.png" group-title="Sports",UK | Sky Sports F1 FHD*
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/101.m3u8
-#EXTINF:-1,UK | Sky Sports F1 FHD
+#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="UK | Sky Sports F1 FHD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SkySports.png" group-title="Sports",UK | Sky Sports F1 FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/102.m3u8
-#EXTINF:-1,UK | Sky Sports F1 HD
+#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="UK | Sky Sports F1 HD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SkySports.png" group-title="Sports",UK | Sky Sports F1 HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/103.m3u8
-#EXTINF:-1,UK | Sky Sports F1
+#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="UK | Sky Sports F1" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SkySports.png" group-title="Sports",UK | Sky Sports F1
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/104.m3u8
-#EXTINF:-1,UK | Sky Sports NFL FHD
+#EXTINF:-1 tvg-ID="skysportsnfl.uk" tvg-name="UK | Sky Sports NFL FHD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SkySports.png" group-title="Sports",UK | Sky Sports NFL FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/106.m3u8
-#EXTINF:-1,UK | Sky Sports NFL HD
+#EXTINF:-1 tvg-ID="skysportsnfl.uk" tvg-name="UK | Sky Sports NFL HD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SkySports.png" group-title="Sports",UK | Sky Sports NFL HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/107.m3u8
-#EXTINF:-1,UK | Sky Sports NFL
+#EXTINF:-1 tvg-ID="skysportsnfl.uk" tvg-name="UK | Sky Sports NFL" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SkySports.png" group-title="Sports",UK | Sky Sports NFL
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/108.m3u8
-#EXTINF:-1,UK | Sky Sports Arena FHD*
+#EXTINF:-1 tvg-ID="skysportsarena.uk" tvg-name="UK | Sky Sports Arena FHD*" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SkySports.png" group-title="Sports",UK | Sky Sports Arena FHD*
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/109.m3u8
-#EXTINF:-1,UK | Sky Sports Arena FHD
+#EXTINF:-1 tvg-ID="skysportsarena.uk" tvg-name="UK | Sky Sports Arena FHD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SkySports.png" group-title="Sports",UK | Sky Sports Arena FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/110.m3u8
-#EXTINF:-1,UK | Sky Sports Arena HD
+#EXTINF:-1 tvg-ID="skysportsarena.uk" tvg-name="UK | Sky Sports Arena HD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SkySports.png" group-title="Sports",UK | Sky Sports Arena HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/111.m3u8
-#EXTINF:-1,UK | Sky Sports Arena
+#EXTINF:-1 tvg-ID="skysportsarena.uk" tvg-name="UK | Sky Sports Arena" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SkySports.png" group-title="Sports",UK | Sky Sports Arena
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/112.m3u8
-#EXTINF:-1,UK | Sky Sports Mix FHD*
+#EXTINF:-1 tvg-ID="skysportsmix.uk" tvg-name="UK | Sky Sports Mix FHD*" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SkySports.png" group-title="Sports",UK | Sky Sports Mix FHD*
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/48158.m3u8
-#EXTINF:-1,UK | Sky Sports Mix FHD
+#EXTINF:-1 tvg-ID="skysportsmix.uk" tvg-name="UK | Sky Sports Mix FHD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SkySports.png" group-title="Sports",UK | Sky Sports Mix FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/113.m3u8
-#EXTINF:-1,UK | Sky Sports Mix HD
+#EXTINF:-1 tvg-ID="skysportsmix.uk" tvg-name="UK | Sky Sports Mix HD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SkySports.png" group-title="Sports",UK | Sky Sports Mix HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/114.m3u8
-#EXTINF:-1,UK | Sky Sports Racing FHD*
+#EXTINF:-1 tvg-ID="skysportsracing.uk" tvg-name="UK | Sky Sports Racing FHD*" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SkySports.png" group-title="Sports",UK | Sky Sports Racing FHD*
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/48157.m3u8
-#EXTINF:-1,UK | Sky Sports Racing FHD
+#EXTINF:-1 tvg-ID="skysportsracing.uk" tvg-name="UK | Sky Sports Racing FHD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SkySports.png" group-title="Sports",UK | Sky Sports Racing FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/115.m3u8
-#EXTINF:-1,UK | Sky Sports Racing HD
+#EXTINF:-1 tvg-ID="skysportsracing.uk" tvg-name="UK | Sky Sports Racing HD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SkySports.png" group-title="Sports",UK | Sky Sports Racing HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/116.m3u8
-#EXTINF:-1,UK | BT Sport 1 FHD
+#EXTINF:-1 tvg-ID="btsport1.uk" tvg-name="UK | BT Sport 1 FHD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/BTSport.png" group-title="Sports",UK | BT Sport 1 FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/117.m3u8
-#EXTINF:-1,UK | BT Sport 1 HD
+#EXTINF:-1 tvg-ID="btsport1.uk" tvg-name="UK | BT Sport 1 HD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/BTSport.png" group-title="Sports",UK | BT Sport 1 HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/118.m3u8
-#EXTINF:-1,UK | BT Sport 1
+#EXTINF:-1 tvg-ID="btsport1.uk" tvg-name="UK | BT Sport 1" tvg-logo="http://icon.generationxhosting.com/epg/SPO/BTSport.png" group-title="Sports",UK | BT Sport 1
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/119.m3u8
-#EXTINF:-1,UK | BT Sport 2 FHD
+#EXTINF:-1 tvg-ID="btsport2.uk" tvg-name="UK | BT Sport 2 FHD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/BTSport.png" group-title="Sports",UK | BT Sport 2 FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/120.m3u8
-#EXTINF:-1,UK | BT Sport 2 HD
+#EXTINF:-1 tvg-ID="btsport2.uk" tvg-name="UK | BT Sport 2 HD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/BTSport.png" group-title="Sports",UK | BT Sport 2 HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/121.m3u8
-#EXTINF:-1,UK | BT Sport 2
+#EXTINF:-1 tvg-ID="btsport2.uk" tvg-name="UK | BT Sport 2" tvg-logo="http://icon.generationxhosting.com/epg/SPO/BTSport.png" group-title="Sports",UK | BT Sport 2
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/122.m3u8
-#EXTINF:-1,UK | BT Sport 3 FHD
+#EXTINF:-1 tvg-ID="btsport3.uk" tvg-name="UK | BT Sport 3 FHD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/BTSport.png" group-title="Sports",UK | BT Sport 3 FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/123.m3u8
-#EXTINF:-1,UK | BT Sport 3 HD
+#EXTINF:-1 tvg-ID="btsport3.uk" tvg-name="UK | BT Sport 3 HD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/BTSport.png" group-title="Sports",UK | BT Sport 3 HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/124.m3u8
-#EXTINF:-1,UK | BT Sport 3
+#EXTINF:-1 tvg-ID="btsport3.uk" tvg-name="UK | BT Sport 3" tvg-logo="http://icon.generationxhosting.com/epg/SPO/BTSport.png" group-title="Sports",UK | BT Sport 3
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/125.m3u8
-#EXTINF:-1,UK | BT Sport ESPN FHD
+#EXTINF:-1 tvg-ID="btsportespn.uk" tvg-name="UK | BT Sport ESPN FHD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/BTESPN.png" group-title="Sports",UK | BT Sport ESPN FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/126.m3u8
-#EXTINF:-1,UK | BT Sport ESPN HD
+#EXTINF:-1 tvg-ID="btsportespn.uk" tvg-name="UK | BT Sport ESPN HD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/BTESPN.png" group-title="Sports",UK | BT Sport ESPN HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/127.m3u8
-#EXTINF:-1,UK | BT Sport ESPN
+#EXTINF:-1 tvg-ID="btsportespn.uk" tvg-name="UK | BT Sport ESPN" tvg-logo="http://icon.generationxhosting.com/epg/SPO/BTESPN.png" group-title="Sports",UK | BT Sport ESPN
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/128.m3u8
-#EXTINF:-1,UK | BT Sport Extra 1
+#EXTINF:-1 tvg-ID="btsportx1.uk" tvg-name="UK | BT Sport Extra 1" tvg-logo="http://icon.generationxhosting.com/epg/SPO/BTExtra.png" group-title="Sports",UK | BT Sport Extra 1
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/1965.m3u8
-#EXTINF:-1,UK | BT Sport Extra 2
+#EXTINF:-1 tvg-ID="btsportx2.uk" tvg-name="UK | BT Sport Extra 2" tvg-logo="http://icon.generationxhosting.com/epg/SPO/BTExtra.png" group-title="Sports",UK | BT Sport Extra 2
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/1966.m3u8
-#EXTINF:-1,UK | BT Sport Extra 3
+#EXTINF:-1 tvg-ID="btsportx3.uk" tvg-name="UK | BT Sport Extra 3" tvg-logo="http://icon.generationxhosting.com/epg/SPO/BTExtra.png" group-title="Sports",UK | BT Sport Extra 3
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/1967.m3u8
-#EXTINF:-1,UK | BT Sport Extra 4
+#EXTINF:-1 tvg-ID="btsportx4.uk" tvg-name="UK | BT Sport Extra 4" tvg-logo="http://icon.generationxhosting.com/epg/SPO/BTExtra.png" group-title="Sports",UK | BT Sport Extra 4
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/1968.m3u8
-#EXTINF:-1,UK | BT Sport Extra 5
+#EXTINF:-1 tvg-ID="btsportx5.uk" tvg-name="UK | BT Sport Extra 5" tvg-logo="http://icon.generationxhosting.com/epg/SPO/BTExtra.png" group-title="Sports",UK | BT Sport Extra 5
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/1969.m3u8
-#EXTINF:-1,UK | BT Sport Extra 6
+#EXTINF:-1 tvg-ID="btsportx6.uk" tvg-name="UK | BT Sport Extra 6" tvg-logo="http://icon.generationxhosting.com/epg/SPO/BTExtra.png" group-title="Sports",UK | BT Sport Extra 6
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/1970.m3u8
-#EXTINF:-1,UK | Eurosport 1 FHD
+#EXTINF:-1 tvg-ID="eurosport1.uk" tvg-name="UK | Eurosport 1 FHD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/EurosportUK.png" group-title="Sports",UK | Eurosport 1 FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/131.m3u8
-#EXTINF:-1,UK | Eurosport 1 HD
+#EXTINF:-1 tvg-ID="eurosport1.uk" tvg-name="UK | Eurosport 1 HD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/EurosportUK.png" group-title="Sports",UK | Eurosport 1 HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/132.m3u8
-#EXTINF:-1,UK | Eurosport 1
+#EXTINF:-1 tvg-ID="eurosport1.uk" tvg-name="UK | Eurosport 1" tvg-logo="http://icon.generationxhosting.com/epg/SPO/EurosportUK.png" group-title="Sports",UK | Eurosport 1
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/133.m3u8
-#EXTINF:-1,UK | Eurosport 2 FHD
+#EXTINF:-1 tvg-ID="eurosport2.uk" tvg-name="UK | Eurosport 2 FHD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/EurosportUK.png" group-title="Sports",UK | Eurosport 2 FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/134.m3u8
-#EXTINF:-1,UK | Eurosport 2 HD
+#EXTINF:-1 tvg-ID="eurosport2.uk" tvg-name="UK | Eurosport 2 HD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/EurosportUK.png" group-title="Sports",UK | Eurosport 2 HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/135.m3u8
-#EXTINF:-1,UK | Eurosport 2
+#EXTINF:-1 tvg-ID="eurosport2.uk" tvg-name="UK | Eurosport 2" tvg-logo="http://icon.generationxhosting.com/epg/SPO/EurosportUK.png" group-title="Sports",UK | Eurosport 2
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/136.m3u8
-#EXTINF:-1,UK | Premier Sports 1 FHD
+#EXTINF:-1 tvg-ID="premiersports.uk" tvg-name="UK | Premier Sports 1 FHD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/PremierSports.png" group-title="Sports",UK | Premier Sports 1 FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/129.m3u8
-#EXTINF:-1,UK | Premier Sports 2 FHD
+#EXTINF:-1 tvg-ID="premiersports2.uk" tvg-name="UK | Premier Sports 2 FHD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/PremierSports.png" group-title="Sports",UK | Premier Sports 2 FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/130.m3u8
-#EXTINF:-1,UK | FreeSports FHD
+#EXTINF:-1 tvg-ID="freesports.uk" tvg-name="UK | FreeSports FHD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/FreeSportsUK.png" group-title="Sports",UK | FreeSports FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/141.m3u8
-#EXTINF:-1,UK | BoxNation FHD
+#EXTINF:-1 tvg-ID="boxnation.uk" tvg-name="UK | BoxNation FHD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/BoxNationUK.png" group-title="Sports",UK | BoxNation FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/381.m3u8
-#EXTINF:-1,UK | BoxNation HD
+#EXTINF:-1 tvg-ID="boxnation.uk" tvg-name="UK | BoxNation HD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/BoxNationUK.png" group-title="Sports",UK | BoxNation HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/382.m3u8
-#EXTINF:-1,UK | Eir Sports 1 FHD
+#EXTINF:-1 tvg-ID="eirsport1.ie" tvg-name="UK | Eir Sports 1 FHD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/Eir1HD.png" group-title="Sports",UK | Eir Sports 1 FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/137.m3u8
-#EXTINF:-1,UK | Eir Sports 1 HD
+#EXTINF:-1 tvg-ID="eirsport1.ie" tvg-name="UK | Eir Sports 1 HD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/Eir1HD.png" group-title="Sports",UK | Eir Sports 1 HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/138.m3u8
-#EXTINF:-1,UK | Chelsea FC TV
+#EXTINF:-1 tvg-ID="" tvg-name="UK | Chelsea FC TV" tvg-logo="http://icon.generationxhosting.com/epg/SPO/Chelsea.png" group-title="Sports",UK | Chelsea FC TV
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/195355.m3u8
-#EXTINF:-1,UK | MUTV FHD
+#EXTINF:-1 tvg-ID="mutv.uk" tvg-name="UK | MUTV FHD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/ManUtdTV.png" group-title="Sports",UK | MUTV FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/146.m3u8
-#EXTINF:-1,UK | MUTV
+#EXTINF:-1 tvg-ID="mutv.uk" tvg-name="UK | MUTV" tvg-logo="http://icon.generationxhosting.com/epg/SPO/ManUtdTV.png" group-title="Sports",UK | MUTV
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/147.m3u8
-#EXTINF:-1,UK | LFC TV FHD
+#EXTINF:-1 tvg-ID="liverpoolfctv.uk" tvg-name="UK | LFC TV FHD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/LiverpoolTV.png" group-title="Sports",UK | LFC TV FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/148.m3u8
-#EXTINF:-1,UK | LFC TV HD
+#EXTINF:-1 tvg-ID="liverpoolfctv.uk" tvg-name="UK | LFC TV HD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/LiverpoolTV.png" group-title="Sports",UK | LFC TV HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/149.m3u8
-#EXTINF:-1,UK | SIS One
+#EXTINF:-1 tvg-ID="" tvg-name="UK | SIS One" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SIS.png" group-title="Sports",UK | SIS One
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/143.m3u8
-#EXTINF:-1,UK | SIS Two
+#EXTINF:-1 tvg-ID="" tvg-name="UK | SIS Two" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SIS.png" group-title="Sports",UK | SIS Two
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/144.m3u8
-#EXTINF:-1,UK | SIS Racing
+#EXTINF:-1 tvg-ID="" tvg-name="UK | SIS Racing" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SIS.png" group-title="Sports",UK | SIS Racing
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/145.m3u8
-#EXTINF:-1,UK | Sporty Stuff FHD
+#EXTINF:-1 tvg-ID="sportystuff.uk" tvg-name="UK | Sporty Stuff FHD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/SportyStuffUK.png" group-title="Sports",UK | Sporty Stuff FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/179266.m3u8
-#EXTINF:-1,UK | Racing TV FHD
+#EXTINF:-1 tvg-ID="racinguk.uk" tvg-name="UK | Racing TV FHD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/RacingTVUK.png" group-title="Sports",UK | Racing TV FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/150.m3u8
-#EXTINF:-1,UK | Racing TV HD
+#EXTINF:-1 tvg-ID="racinguk.uk" tvg-name="UK | Racing TV HD" tvg-logo="http://icon.generationxhosting.com/epg/SPO/RacingTVUK.png" group-title="Sports",UK | Racing TV HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/151.m3u8
-#EXTINF:-1,UK | Animal Planet FHD
+#EXTINF:-1 tvg-ID="animalplanet.uk" tvg-name="UK | Animal Planet FHD" tvg-logo="http://icon.generationxhosting.com//epg/ENT/AnimalPlanetHD.png" group-title="Documentary/Nature",UK | Animal Planet FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/157.m3u8
-#EXTINF:-1,UK | Animal Planet HD
+#EXTINF:-1 tvg-ID="animalplanet.uk" tvg-name="UK | Animal Planet HD" tvg-logo="http://icon.generationxhosting.com//epg/ENT/AnimalPlanet.png" group-title="Documentary/Nature",UK | Animal Planet HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/158.m3u8
-#EXTINF:-1,UK | Crime Investigation FHD
+#EXTINF:-1 tvg-ID="crimeandinvestigationnetwork.uk" tvg-name="UK | Crime Investigation FHD" tvg-logo="http://icon.generationxhosting.com/epg/DOCU/CrimeandInvestigationHD.png" group-title="Documentary/Nature",UK | Crime Investigation FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/234.m3u8
-#EXTINF:-1,UK | Crime Investigation HD
+#EXTINF:-1 tvg-ID="crimeandinvestigationnetwork.uk" tvg-name="UK | Crime Investigation HD" tvg-logo="http://icon.generationxhosting.com/epg/DOCU/CrimeandInvestigationHD.png" group-title="Documentary/Nature",UK | Crime Investigation HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/235.m3u8
-#EXTINF:-1,UK | Crime Investigation
+#EXTINF:-1 tvg-ID="crimeandinvestigationnetwork.uk" tvg-name="UK | Crime Investigation" tvg-logo="http://icon.generationxhosting.com/epg/DOCU/CrimeandInvestigation.png" group-title="Documentary/Nature",UK | Crime Investigation
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/236.m3u8
-#EXTINF:-1,UK | Discovery FHD
+#EXTINF:-1 tvg-ID="discoverychannel.uk" tvg-name="UK | Discovery FHD" tvg-logo="http://icon.generationxhosting.com/epg/DOCU/DiscoveryHD.png" group-title="Documentary/Nature",UK | Discovery FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/237.m3u8
-#EXTINF:-1,UK | Discovery HD
+#EXTINF:-1 tvg-ID="discoverychannel.uk" tvg-name="UK | Discovery HD" tvg-logo="http://icon.generationxhosting.com/epg/DOCU/DiscoveryHD.png" group-title="Documentary/Nature",UK | Discovery HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/238.m3u8
-#EXTINF:-1,UK | Discovery
+#EXTINF:-1 tvg-ID="discoverychannel.uk" tvg-name="UK | Discovery" tvg-logo="http://icon.generationxhosting.com/epg/DOCU/Discovery.png" group-title="Documentary/Nature",UK | Discovery
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/239.m3u8
-#EXTINF:-1,UK | Discovery History
+#EXTINF:-1 tvg-ID="discoveryhistory.uk" tvg-name="UK | Discovery History" tvg-logo="http://icon.generationxhosting.com/epg/DOCU/DiscoveryHistory.png" group-title="Documentary/Nature",UK | Discovery History
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/240.m3u8
-#EXTINF:-1,UK | Discovery Science
+#EXTINF:-1 tvg-ID="discoveryscience.uk" tvg-name="UK | Discovery Science" tvg-logo="http://icon.generationxhosting.com/epg/DOCU/DiscoveryScience.png" group-title="Documentary/Nature",UK | Discovery Science
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/241.m3u8
-#EXTINF:-1,UK | Turbo
+#EXTINF:-1 tvg-ID="discoveryturbo.uk" tvg-name="UK | Turbo" tvg-logo="http://icon.generationxhosting.com/epg/DOCU/DiscoveryTurbo.png" group-title="Documentary/Nature",UK | Turbo
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/243.m3u8
-#EXTINF:-1,UK | DMax
+#EXTINF:-1 tvg-ID="discoverydmax.uk" tvg-name="UK | DMax" tvg-logo="http://icon.generationxhosting.com/epg/DOCU/DMax.png" group-title="Documentary/Nature",UK | DMax
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/244.m3u8
-#EXTINF:-1,UK | Investigation Discovery
+#EXTINF:-1 tvg-ID="investigationdiscovery.uk" tvg-name="UK | Investigation Discovery" tvg-logo="http://icon.generationxhosting.com/epg/DOCU/IDInvestigationDiscovery.png" group-title="Documentary/Nature",UK | Investigation Discovery
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/245.m3u8
-#EXTINF:-1,UK | Nat Geo Wild FHD
+#EXTINF:-1 tvg-ID="natgeowild.uk" tvg-name="UK | Nat Geo Wild FHD" tvg-logo="http://icon.generationxhosting.com/epg/DOCU/NatGeoWild.png" group-title="Documentary/Nature",UK | Nat Geo Wild FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/248.m3u8
-#EXTINF:-1,UK | Nat Geo Wild HD
+#EXTINF:-1 tvg-ID="natgeowild.uk" tvg-name="UK | Nat Geo Wild HD" tvg-logo="http://icon.generationxhosting.com/epg/DOCU/NatGeoWild.png" group-title="Documentary/Nature",UK | Nat Geo Wild HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/249.m3u8
-#EXTINF:-1,UK | National Geographic FHD
+#EXTINF:-1 tvg-ID="natgeo.uk" tvg-name="UK | National Geographic FHD" tvg-logo="http://icon.generationxhosting.com/epg/DOCU/NationalGeographicHD.png" group-title="Documentary/Nature",UK | National Geographic FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/246.m3u8
-#EXTINF:-1,UK | National Geographic HD
+#EXTINF:-1 tvg-ID="natgeo.uk" tvg-name="UK | National Geographic HD" tvg-logo="http://icon.generationxhosting.com/epg/DOCU/NationalGeographicHD.png" group-title="Documentary/Nature",UK | National Geographic HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/247.m3u8
-#EXTINF:-1,UK | Sky Crime FHD
+#EXTINF:-1 tvg-ID="skycrime.uk" tvg-name="UK | Sky Crime FHD" tvg-logo="http://icon.generationxhosting.com/epg/DOCU/SkyCrime.png" group-title="Documentary/Nature",UK | Sky Crime FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/59057.m3u8
-#EXTINF:-1,UK | Sky Crime HD
+#EXTINF:-1 tvg-ID="skycrime.uk" tvg-name="UK | Sky Crime HD" tvg-logo="http://icon.generationxhosting.com/epg/DOCU/SkyCrime.png" group-title="Documentary/Nature",UK | Sky Crime HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/59056.m3u8
-#EXTINF:-1,UK | Sky Documentaries FHD
+#EXTINF:-1 tvg-ID="skydocumentaries.uk" tvg-name="UK | Sky Documentaries FHD" tvg-logo="http://icon.generationxhosting.com/epg/DOCU/SkyDocumentaries.png" group-title="Documentary/Nature",UK | Sky Documentaries FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/59059.m3u8
-#EXTINF:-1,UK | Sky Documentaries HD
+#EXTINF:-1 tvg-ID="skydocumentaries.uk" tvg-name="UK | Sky Documentaries HD" tvg-logo="http://icon.generationxhosting.com/epg/DOCU/SkyDocumentaries.png" group-title="Documentary/Nature",UK | Sky Documentaries HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/59058.m3u8
-#EXTINF:-1,UK | Sky History FHD
+#EXTINF:-1 tvg-ID="historychannel.uk" tvg-name="UK | Sky History FHD" tvg-logo="http://icon.generationxhosting.com/epg/DOCU/SkyHistory.png" group-title="Documentary/Nature",UK | Sky History FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/178.m3u8
-#EXTINF:-1,UK | Sky History HD
+#EXTINF:-1 tvg-ID="historychannel.uk" tvg-name="UK | Sky History HD" tvg-logo="http://icon.generationxhosting.com/epg/DOCU/SkyHistory.png" group-title="Documentary/Nature",UK | Sky History HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/179.m3u8
-#EXTINF:-1,UK | Sky History 2 FHD
+#EXTINF:-1 tvg-ID="history2.uk" tvg-name="UK | Sky History 2 FHD" tvg-logo="http://icon.generationxhosting.com//epg/docu/SkyHistory2.png" group-title="Documentary/Nature",UK | Sky History 2 FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/180.m3u8
-#EXTINF:-1,UK | Sky Nature FHD
+#EXTINF:-1 tvg-ID="skynature.uk" tvg-name="UK | Sky Nature FHD" tvg-logo="http://icon.generationxhosting.com/epg/DOCU/SkyNature.png" group-title="Documentary/Nature",UK | Sky Nature FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/59061.m3u8
-#EXTINF:-1,UK | Sky Nature HD
+#EXTINF:-1 tvg-ID="skynature.uk" tvg-name="UK | Sky Nature HD" tvg-logo="http://icon.generationxhosting.com/epg/DOCU/SkyNature.png" group-title="Documentary/Nature",UK | Sky Nature HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/59060.m3u8
-#EXTINF:-1,UK | Smithsonian FHD
+#EXTINF:-1 tvg-ID="smithsonian.uk" tvg-name="UK | Smithsonian FHD" tvg-logo="http://icon.generationxhosting.com/epg/DOCU/Smithsonian.png" group-title="Documentary/Nature",UK | Smithsonian FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/250.m3u8
-#EXTINF:-1,UK | Baby TV
+#EXTINF:-1 tvg-ID="babytv.uk" tvg-name="UK | Baby TV" tvg-logo="http://icon.generationxhosting.com/epg/KIDS/Baby%20TV.png" group-title="Kids",UK | Baby TV
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/252.m3u8
-#EXTINF:-1,UK | Boomerang
+#EXTINF:-1 tvg-ID="boomerang.uk" tvg-name="UK | Boomerang" tvg-logo="http://icon.generationxhosting.com/epg/KIDS/Boomerang.png" group-title="Kids",UK | Boomerang
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/254.m3u8
-#EXTINF:-1,UK | Boomerang FHD
+#EXTINF:-1 tvg-ID="boomerang.uk" tvg-name="UK | Boomerang FHD" tvg-logo="http://icon.generationxhosting.com/epg/KIDS/BoomerangHD.png" group-title="Kids",UK | Boomerang FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/253.m3u8
-#EXTINF:-1,UK | Cartoon Network
+#EXTINF:-1 tvg-ID="cartoonnetwork.uk" tvg-name="UK | Cartoon Network" tvg-logo="http://icon.generationxhosting.com/epg/KIDS/Cartoon%20Network%20HD.png" group-title="Kids",UK | Cartoon Network
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/256.m3u8
-#EXTINF:-1,UK | Cartoon Network FHD
+#EXTINF:-1 tvg-ID="cartoonnetwork.uk" tvg-name="UK | Cartoon Network FHD" tvg-logo="http://icon.generationxhosting.com/epg/KIDS/CartoonNetworkHD.png" group-title="Kids",UK | Cartoon Network FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/255.m3u8
-#EXTINF:-1,UK | Cartoonito
+#EXTINF:-1 tvg-ID="cartoonito.uk" tvg-name="UK | Cartoonito" tvg-logo="http://icon.generationxhosting.com/epg/KIDS/Cartoonito.png" group-title="Kids",UK | Cartoonito
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/257.m3u8
-#EXTINF:-1,UK | CBBC FHD
+#EXTINF:-1 tvg-ID="cbbc.uk" tvg-name="UK | CBBC FHD" tvg-logo="http://icon.generationxhosting.com/epg/KIDS/CBBC%20HD.png" group-title="Kids",UK | CBBC FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/258.m3u8
-#EXTINF:-1,UK | CBBC HD
+#EXTINF:-1 tvg-ID="cbbc.uk" tvg-name="UK | CBBC HD" tvg-logo="http://icon.generationxhosting.com/epg/KIDS/Cbeebies%20HD.png" group-title="Kids",UK | CBBC HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/259.m3u8
-#EXTINF:-1,UK | Cbeebies FHD
+#EXTINF:-1 tvg-ID="cbeebies.uk" tvg-name="UK | Cbeebies FHD" tvg-logo="http://icon.generationxhosting.com/epg/KIDS/CbeebiesHD.png" group-title="Kids",UK | Cbeebies FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/260.m3u8
-#EXTINF:-1,UK | Cbeebies HD
+#EXTINF:-1 tvg-ID="cbeebies.uk" tvg-name="UK | Cbeebies HD" tvg-logo="http://icon.generationxhosting.com/epg/KIDS/Cbeebies%20HD.png" group-title="Kids",UK | Cbeebies HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/261.m3u8
-#EXTINF:-1,UK | CITV
+#EXTINF:-1 tvg-ID="citv.uk" tvg-name="UK | CITV" tvg-logo="http://icon.generationxhosting.com/epg/KIDS/CITV.png" group-title="Kids",UK | CITV
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/262.m3u8
-#EXTINF:-1,UK | Disney Channel FHD
+#EXTINF:-1 tvg-ID="disneychannel.us" tvg-name="UK | Disney Channel FHD" tvg-logo="http://icon.generationxhosting.com/epg/KIDS/Disney%20Channel%20HD.png" group-title="Kids",UK | Disney Channel FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/263.m3u8
-#EXTINF:-1,UK | Disney Channel HD
+#EXTINF:-1 tvg-ID="disneychannel.us" tvg-name="UK | Disney Channel HD" tvg-logo="http://icon.generationxhosting.com/epg/KIDS/Disney%20Channel%20HD.png" group-title="Kids",UK | Disney Channel HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/264.m3u8
-#EXTINF:-1,UK | Disney Junior
+#EXTINF:-1 tvg-ID="92news.uk" tvg-name="UK | Disney Junior" tvg-logo="http://icon.generationxhosting.com/epg/KIDS/Disney%20Junior.png" group-title="Kids",UK | Disney Junior
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/266.m3u8
-#EXTINF:-1,UK | Disney Junior FHD
+#EXTINF:-1 tvg-ID="disneyjunior.us" tvg-name="UK | Disney Junior FHD" tvg-logo="http://icon.generationxhosting.com/epg/KIDS/Disney%20JuniorHD.png" group-title="Kids",UK | Disney Junior FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/265.m3u8
-#EXTINF:-1,UK | Disney XD FHD
+#EXTINF:-1 tvg-ID="disneyxd.us" tvg-name="UK | Disney XD FHD" tvg-logo="http://icon.generationxhosting.com/epg/KIDS/DisneyXDHD.png" group-title="Kids",UK | Disney XD FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/267.m3u8
-#EXTINF:-1,UK | Disney XD HD
+#EXTINF:-1 tvg-ID="disneyxd.us" tvg-name="UK | Disney XD HD" tvg-logo="http://icon.generationxhosting.com/epg/KIDS/DisneyXDHD.png" group-title="Kids",UK | Disney XD HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/268.m3u8
-#EXTINF:-1,UK | Nick FHD
+#EXTINF:-1 tvg-ID="nickelodeon.uk" tvg-name="UK | Nick FHD" tvg-logo="http://icon.generationxhosting.com/epg/KIDS/NickelodeonHD.png" group-title="Kids",UK | Nick FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/269.m3u8
-#EXTINF:-1,UK | Nick HD
+#EXTINF:-1 tvg-ID="nickelodeon.uk" tvg-name="UK | Nick HD" tvg-logo="http://icon.generationxhosting.com/epg/KIDS/Nickelodeon%20HD.png" group-title="Kids",UK | Nick HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/270.m3u8
-#EXTINF:-1,UK | Nick JR
+#EXTINF:-1 tvg-ID="nickjunior.uk" tvg-name="UK | Nick JR" tvg-logo="http://icon.generationxhosting.com/epg/KIDS/Nick%20JR.png" group-title="Kids",UK | Nick JR
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/271.m3u8
-#EXTINF:-1,UK | Nick Toons
+#EXTINF:-1 tvg-ID="nicktoons.uk" tvg-name="UK | Nick Toons" tvg-logo="http://icon.generationxhosting.com/epg/KIDS/Nick%20Toons.png" group-title="Kids",UK | Nick Toons
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/272.m3u8
-#EXTINF:-1,Music | 4MUSIC
+#EXTINF:-1 tvg-ID="4music.uk" tvg-name="Music | 4MUSIC" tvg-logo="http://icon.generationxhosting.com/epg/MUSIC/4Music.png" group-title="Music & Radio",Music | 4MUSIC
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/273.m3u8
-#EXTINF:-1,Music | Clubland TV
+#EXTINF:-1 tvg-ID="clublandtv.uk" tvg-name="Music | Clubland TV" tvg-logo="http://icon.generationxhosting.com/epg/MUSIC/Clubland.png" group-title="Music & Radio",Music | Clubland TV
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/172703.m3u8
-#EXTINF:-1,Music | MTV BASE
+#EXTINF:-1 tvg-ID="mtvbase.uk" tvg-name="Music | MTV BASE" tvg-logo="http://icon.generationxhosting.com/epg/MUSIC/MTV%20Base.png" group-title="Music & Radio",Music | MTV BASE
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/279.m3u8
-#EXTINF:-1,Music | MTV Classic
+#EXTINF:-1 tvg-ID="mtvclassic.uk" tvg-name="Music | MTV Classic" tvg-logo="http://icon.generationxhosting.com/epg/MUSIC/MTV%20Classic.png" group-title="Music & Radio",Music | MTV Classic
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/280.m3u8
-#EXTINF:-1,Music | MTV FHD
+#EXTINF:-1 tvg-ID="mtv.uk" tvg-name="Music | MTV FHD" tvg-logo="http://icon.generationxhosting.com/epg/MUSIC/MTV%20Music.png" group-title="Music & Radio",Music | MTV FHD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/277.m3u8
-#EXTINF:-1,Music | MTV HD
+#EXTINF:-1 tvg-ID="mtv.uk" tvg-name="Music | MTV HD" tvg-logo="http://icon.generationxhosting.com/epg/MUSIC/MTV%20HD.png" group-title="Music & Radio",Music | MTV HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/278.m3u8
-#EXTINF:-1,Music | MTV Hits
+#EXTINF:-1 tvg-ID="mtvhits.uk" tvg-name="Music | MTV Hits" tvg-logo="http://icon.generationxhosting.com/epg/MUSIC/MTV-Hits.png" group-title="Music & Radio",Music | MTV Hits
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/282.m3u8
-#EXTINF:-1,Music | MTV Live HD
+#EXTINF:-1 tvg-ID="mtv.uk" tvg-name="Music | MTV Live HD" tvg-logo="http://icon.generationxhosting.com/epg/MUSIC/MTV%20Live%20HD.png" group-title="Music & Radio",Music | MTV Live HD
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/284.m3u8
-#EXTINF:-1,Music | MTV Music
+#EXTINF:-1 tvg-ID="mtvmusic.uk" tvg-name="Music | MTV Music" tvg-logo="http://icon.generationxhosting.com/epg/MUSIC/MTV%20Music.png" group-title="Music & Radio",Music | MTV Music
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/285.m3u8
