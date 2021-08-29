@@ -611,3 +611,718 @@ http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/282.m3u8
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/284.m3u8
 #EXTINF:-1 tvg-ID="mtvmusic.uk" tvg-name="Music | MTV Music" tvg-logo="http://icon.generationxhosting.com/epg/MUSIC/MTV%20Music.png" group-title="Music & Radio",Music | MTV Music
 http://cityradio.xyz:8080/live/WeTLKhXohV/qSBNUWgHJI/285.m3u8
+
+
+#EXTINF:-1 tvg-id="10" tvg-name="RTL ADRIA HD" tvg-logo="http://logo.smart-iptvpro.info/112.hr.png" group-title="HRVATSKA / CROATIA",RTL ADRIA HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/10.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="NOVA CINEMA" tvg-logo="http://logo.smart-iptvpro.info/105.hr.png" group-title="HRVATSKA / CROATIA",NOVA CINEMA
+http://krajnatv.com:8080/live/johnseven/skypeuser/11.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="NOVA FAMILY" tvg-logo="http://logo.smart-iptvpro.info/105.hr.png" group-title="HRVATSKA / CROATIA",NOVA FAMILY
+http://krajnatv.com:8080/live/johnseven/skypeuser/12.m3u8
+#EXTINF:-1 tvg-id="7873" tvg-name="NOVA TV" tvg-logo="http://logo.smart-iptvpro.info/105.hr.png" group-title="HRVATSKA / CROATIA",NOVA TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/80.m3u8
+#EXTINF:-1 tvg-id="7873" tvg-name="NOVA TV HD" tvg-logo="http://logo.smart-iptvpro.info/105.hr.png" group-title="HRVATSKA / CROATIA",NOVA TV HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/81.m3u8
+#EXTINF:-1 tvg-id="7873" tvg-name="NOVA TV HD (hevc)" tvg-logo="http://logo.smart-iptvpro.info/105.hr.png" group-title="HRVATSKA / CROATIA",NOVA TV HD (hevc)
+http://krajnatv.com:8080/live/johnseven/skypeuser/82.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="PRIGORSKA TV" tvg-logo="https://yt3.ggpht.com/a/AATXAJzv3bB1oAORFXPFMN3ot6BYKF6FuoN-8mRj0hhr=s100-c-k-c0xffffffff-no-rj-mo" group-title="HRVATSKA / CROATIA",PRIGORSKA TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/14.m3u8
+#EXTINF:-1 tvg-id="89" tvg-name="N1 HR" tvg-logo="http://logo.smart-iptvpro.info/104.hr.png" group-title="HRVATSKA / CROATIA",N1 HR
+http://krajnatv.com:8080/live/johnseven/skypeuser/89.m3u8
+#EXTINF:-1 tvg-id="7873" tvg-name="N1 HR L2" tvg-logo="http://logo.smart-iptvpro.info/104.hr.png" group-title="HRVATSKA / CROATIA",N1 HR L2
+http://krajnatv.com:8080/live/johnseven/skypeuser/90.m3u8
+#EXTINF:-1 tvg-id="4721" tvg-name="===== HRVATSKA =====" tvg-logo="http://titaniptv.com/epg/logo/Hrvatska.png" group-title="HRVATSKA / CROATIA",===== HRVATSKA =====
+http://krajnatv.com:8080/live/johnseven/skypeuser/4721.m3u8
+#EXTINF:-1 tvg-id="5465" tvg-name="RTL PASSION" tvg-logo="http://logo.smart-iptvpro.info/111.hr.png" group-title="HRVATSKA / CROATIA",RTL PASSION
+http://krajnatv.com:8080/live/johnseven/skypeuser/5465.m3u8
+#EXTINF:-1 tvg-id="5481" tvg-name="DOMA TV HD" tvg-logo="http://logo.smart-iptvpro.info/106.hr.png" group-title="HRVATSKA / CROATIA",DOMA TV HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/5481.m3u8
+#EXTINF:-1 tvg-id="5482" tvg-name="RTL" tvg-logo="http://logo.smart-iptvpro.info/107.hr.png" group-title="HRVATSKA / CROATIA",RTL
+http://krajnatv.com:8080/live/johnseven/skypeuser/5482.m3u8
+#EXTINF:-1 tvg-id="5483" tvg-name="RTL 2" tvg-logo="http://logo.smart-iptvpro.info/108.hr.png" group-title="HRVATSKA / CROATIA",RTL 2
+http://krajnatv.com:8080/live/johnseven/skypeuser/5483.m3u8
+#EXTINF:-1 tvg-id="5627" tvg-name="OSJECKA TV" tvg-logo="http://logo.smart-iptvpro.info/117.hr.png" group-title="HRVATSKA / CROATIA",OSJECKA TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/5627.m3u8
+#EXTINF:-1 tvg-id="26433" tvg-name="SBTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/SBTV_Logo.svg/1200px-SBTV_Logo.svg.png" group-title="HRVATSKA / CROATIA",SBTV
+http://krajnatv.com:8080/live/johnseven/skypeuser/26433.m3u8
+#EXTINF:-1 tvg-id="22265" tvg-name="CMC HD" tvg-logo="http://logo.smart-iptvpro.info/129.hr.png" group-title="HRVATSKA / CROATIA",CMC HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/22265.m3u8
+#EXTINF:-1 tvg-id="22263" tvg-name="DOMA TV FHD" tvg-logo="http://logo.smart-iptvpro.info/106.hr.png" group-title="HRVATSKA / CROATIA",DOMA TV FHD
+http://krajnatv.com:8080/live/johnseven/skypeuser/22263.m3u8
+#EXTINF:-1 tvg-id="22261" tvg-name="RTL 2 (hevc)" tvg-logo="http://logo.smart-iptvpro.info/108.hr.png" group-title="HRVATSKA / CROATIA",RTL 2 (hevc)
+http://krajnatv.com:8080/live/johnseven/skypeuser/22261.m3u8
+#EXTINF:-1 tvg-id="22127" tvg-name="MREZA TV SPLIT" tvg-logo="http://logo.smart-iptvpro.info/115.hr.png" group-title="HRVATSKA / CROATIA",MREZA TV SPLIT
+http://krajnatv.com:8080/live/johnseven/skypeuser/22127.m3u8
+#EXTINF:-1 tvg-id="22126" tvg-name="MREZA TV ZAGREB" tvg-logo="http://logo.smart-iptvpro.info/114.hr.png" group-title="HRVATSKA / CROATIA",MREZA TV ZAGREB
+http://krajnatv.com:8080/live/johnseven/skypeuser/22126.m3u8
+#EXTINF:-1 tvg-id="7873" tvg-name="TV NOVA PULA HD" tvg-logo="http://logo.smart-iptvpro.info/128.hr.png" group-title="HRVATSKA / CROATIA",TV NOVA PULA HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/21880.m3u8
+#EXTINF:-1 tvg-id="21781" tvg-name="RTL HD (hevc)" tvg-logo="http://logo.smart-iptvpro.info/107.hr.png" group-title="HRVATSKA / CROATIA",RTL HD (hevc)
+http://krajnatv.com:8080/live/johnseven/skypeuser/21781.m3u8
+#EXTINF:-1 tvg-id="21643" tvg-name="HRT 4 HD (hevc)" tvg-logo="http://logo.smart-iptvpro.info/103.hr.png" group-title="HRVATSKA / CROATIA",HRT 4 HD (hevc)
+http://krajnatv.com:8080/live/johnseven/skypeuser/21643.m3u8
+#EXTINF:-1 tvg-id="21642" tvg-name="HRT 3 HD (hevc)" tvg-logo="http://logo.smart-iptvpro.info/102.hr.png" group-title="HRVATSKA / CROATIA",HRT 3 HD (hevc)
+http://krajnatv.com:8080/live/johnseven/skypeuser/21642.m3u8
+#EXTINF:-1 tvg-id="21641" tvg-name="HRT 2 HD (hevc)" tvg-logo="http://logo.smart-iptvpro.info/101.hr.png" group-title="HRVATSKA / CROATIA",HRT 2 HD (hevc)
+http://krajnatv.com:8080/live/johnseven/skypeuser/21641.m3u8
+#EXTINF:-1 tvg-id="21640" tvg-name="HRT 1 HD (hevc)" tvg-logo="http://logo.smart-iptvpro.info/100.hr.png" group-title="HRVATSKA / CROATIA",HRT 1 HD (hevc)
+http://krajnatv.com:8080/live/johnseven/skypeuser/21640.m3u8
+#EXTINF:-1 tvg-id="21623" tvg-name="ZDRAVA TV" tvg-logo="http://logo.smart-iptvpro.info/123.hr.png" group-title="HRVATSKA / CROATIA",ZDRAVA TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/21623.m3u8
+#EXTINF:-1 tvg-id="21622" tvg-name="VTV" tvg-logo="http://logo.smart-iptvpro.info/120.hr.png" group-title="HRVATSKA / CROATIA",VTV
+http://krajnatv.com:8080/live/johnseven/skypeuser/21622.m3u8
+#EXTINF:-1 tvg-id="21621" tvg-name="RTL CROATIA WORLD" tvg-logo="http://logo.smart-iptvpro.info/234.sr.png" group-title="HRVATSKA / CROATIA",RTL CROATIA WORLD
+http://krajnatv.com:8080/live/johnseven/skypeuser/21621.m3u8
+#EXTINF:-1 tvg-id="21620" tvg-name="RTL ADRIA" tvg-logo="http://logo.smart-iptvpro.info/112.hr.png" group-title="HRVATSKA / CROATIA",RTL ADRIA
+http://krajnatv.com:8080/live/johnseven/skypeuser/21620.m3u8
+#EXTINF:-1 tvg-id="21183" tvg-name="AURORA TV" tvg-logo="http://logo.smart-iptvpro.info/132.hr.png" group-title="HRVATSKA / CROATIA",AURORA TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/21183.m3u8
+#EXTINF:-1 tvg-id="20709" tvg-name="TREND TV" tvg-logo="http://logo.smart-iptvpro.info/133.hr.png" group-title="HRVATSKA / CROATIA",TREND TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/20709.m3u8
+#EXTINF:-1 tvg-id="22262" tvg-name="RTL KOCKICA HD (hevc)" tvg-logo="http://logo.smart-iptvpro.info/113.hr.png" group-title="HRVATSKA / CROATIA",RTL KOCKICA HD (hevc)
+http://krajnatv.com:8080/live/johnseven/skypeuser/22262.m3u8
+#EXTINF:-1 tvg-id="13473" tvg-name="HRT 2 HD" tvg-logo="http://logo.smart-iptvpro.info/101.hr.png" group-title="HRVATSKA / CROATIA",HRT 2 HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/13473.m3u8
+#EXTINF:-1 tvg-id="10931" tvg-name="HRT 2 HD (L2)" tvg-logo="http://logo.smart-iptvpro.info/101.hr.png" group-title="HRVATSKA / CROATIA",HRT 2 HD (L2)
+http://krajnatv.com:8080/live/johnseven/skypeuser/10931.m3u8
+#EXTINF:-1 tvg-id="10899" tvg-name="POLJOPRIVREDNA TV" tvg-logo="http://logo.smart-iptvpro.info/124.hr.png" group-title="HRVATSKA / CROATIA",POLJOPRIVREDNA TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/10899.m3u8
+#EXTINF:-1 tvg-id="10695" tvg-name="HRT INT." tvg-logo="http://logo.smart-iptvpro.info/173.ba.png" group-title="HRVATSKA / CROATIA",HRT INT.
+http://krajnatv.com:8080/live/johnseven/skypeuser/10695.m3u8
+#EXTINF:-1 tvg-id="9733" tvg-name="GAME BAR" tvg-logo="http://logo.smart-iptvpro.info/134.hr.png" group-title="HRVATSKA / CROATIA",GAME BAR
+http://krajnatv.com:8080/live/johnseven/skypeuser/9733.m3u8
+#EXTINF:-1 tvg-id="7884" tvg-name="KANAL RI" tvg-logo="" group-title="HRVATSKA / CROATIA",KANAL RI
+http://krajnatv.com:8080/live/johnseven/skypeuser/7884.m3u8
+#EXTINF:-1 tvg-id="20216" tvg-name="TV DUBROVNIK" tvg-logo="http://logo.smart-iptvpro.info/130.hr.png" group-title="HRVATSKA / CROATIA",TV DUBROVNIK
+http://krajnatv.com:8080/live/johnseven/skypeuser/20216.m3u8
+#EXTINF:-1 tvg-id="19885" tvg-name="OTV" tvg-logo="http://logo.smart-iptvpro.info/126.hr.png" group-title="HRVATSKA / CROATIA",OTV
+http://krajnatv.com:8080/live/johnseven/skypeuser/19885.m3u8
+#EXTINF:-1 tvg-id="19744" tvg-name="KLASIK TV" tvg-logo="http://logo.smart-iptvpro.info/122.hr.png" group-title="HRVATSKA / CROATIA",KLASIK TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/19744.m3u8
+#EXTINF:-1 tvg-id="15298" tvg-name="HRT 1 HD (L2)" tvg-logo="http://logo.smart-iptvpro.info/100.hr.png" group-title="HRVATSKA / CROATIA",HRT 1 HD (L2)
+http://krajnatv.com:8080/live/johnseven/skypeuser/15298.m3u8
+#EXTINF:-1 tvg-id="13739" tvg-name="HRT 4 HD" tvg-logo="http://logo.smart-iptvpro.info/103.hr.png" group-title="HRVATSKA / CROATIA",HRT 4 HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/13739.m3u8
+#EXTINF:-1 tvg-id="7883" tvg-name="JADRAN TV" tvg-logo="http://logo.smart-iptvpro.info/127.hr.png" group-title="HRVATSKA / CROATIA",JADRAN TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/7883.m3u8
+#EXTINF:-1 tvg-id="7877" tvg-name="LAUDATO TV" tvg-logo="http://logo.smart-iptvpro.info/125.hr.png" group-title="HRVATSKA / CROATIA",LAUDATO TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/7877.m3u8
+#EXTINF:-1 tvg-id="7873" tvg-name="HRT 1 HD" tvg-logo="http://logo.smart-iptvpro.info/100.hr.png" group-title="HRVATSKA / CROATIA",HRT 1 HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/7873.m3u8
+#EXTINF:-1 tvg-id="7040" tvg-name="RTL HD" tvg-logo="http://logo.smart-iptvpro.info/107.hr.png" group-title="HRVATSKA / CROATIA",RTL HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/7040.m3u8
+#EXTINF:-1 tvg-id="6023" tvg-name="DOMA TV" tvg-logo="http://logo.smart-iptvpro.info/106.hr.png" group-title="HRVATSKA / CROATIA",DOMA TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/6023.m3u8
+#EXTINF:-1 tvg-id="6010" tvg-name="VINKOVACKA TV" tvg-logo="http://logo.smart-iptvpro.info/119.hr.png" group-title="HRVATSKA / CROATIA",VINKOVACKA TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/6010.m3u8
+#EXTINF:-1 tvg-id="5819" tvg-name="RTV BANOVINA" tvg-logo="http://logo.smart-iptvpro.info/121.hr.png" group-title="HRVATSKA / CROATIA",RTV BANOVINA
+http://krajnatv.com:8080/live/johnseven/skypeuser/5819.m3u8
+#EXTINF:-1 tvg-id="5484" tvg-name="RTL CRIME" tvg-logo="http://logo.smart-iptvpro.info/109.hr.png" group-title="HRVATSKA / CROATIA",RTL CRIME
+http://krajnatv.com:8080/live/johnseven/skypeuser/5484.m3u8
+#EXTINF:-1 tvg-id="5486" tvg-name="Z1" tvg-logo="http://logo.smart-iptvpro.info/116.hr.png" group-title="HRVATSKA / CROATIA",Z1
+http://krajnatv.com:8080/live/johnseven/skypeuser/5486.m3u8
+#EXTINF:-1 tvg-id="5797" tvg-name="HRT 2" tvg-logo="http://logo.smart-iptvpro.info/101.hr.png" group-title="HRVATSKA / CROATIA",HRT 2
+http://krajnatv.com:8080/live/johnseven/skypeuser/5797.m3u8
+#EXTINF:-1 tvg-id="5798" tvg-name="RTL LIVING" tvg-logo="http://logo.smart-iptvpro.info/110.hr.png" group-title="HRVATSKA / CROATIA",RTL LIVING
+http://krajnatv.com:8080/live/johnseven/skypeuser/5798.m3u8
+#EXTINF:-1 tvg-id="5800" tvg-name="HRT 3 HD" tvg-logo="http://logo.smart-iptvpro.info/102.hr.png" group-title="HRVATSKA / CROATIA",HRT 3 HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/5800.m3u8
+#EXTINF:-1 tvg-id="5801" tvg-name="SLAVONSKA TV" tvg-logo="http://logo.smart-iptvpro.info/118.hr.png" group-title="HRVATSKA / CROATIA",SLAVONSKA TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/5801.m3u8
+#EXTINF:-1 tvg-id="4722" tvg-name="LIBERTAS TV" tvg-logo="http://logo.smart-iptvpro.info/131.hr.png" group-title="HRVATSKA / CROATIA",LIBERTAS TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/4722.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="RTV ZIVINICE" tvg-logo="" group-title="BOSNA I HERCEGOVINA",RTV ZIVINICE
+http://krajnatv.com:8080/live/johnseven/skypeuser/32.m3u8
+#EXTINF:-1 tvg-id="54" tvg-name="RTV LUKAVAC" tvg-logo="" group-title="BOSNA I HERCEGOVINA",RTV LUKAVAC
+http://krajnatv.com:8080/live/johnseven/skypeuser/54.m3u8
+#EXTINF:-1 tvg-id="83" tvg-name="NOVA BH" tvg-logo="http://logo.smart-iptvpro.info/108.ba.png" group-title="BOSNA I HERCEGOVINA",NOVA BH
+http://krajnatv.com:8080/live/johnseven/skypeuser/83.m3u8
+#EXTINF:-1 tvg-id="53" tvg-name="RTV JABLANICA" tvg-logo="" group-title="BOSNA I HERCEGOVINA",RTV JABLANICA
+http://krajnatv.com:8080/live/johnseven/skypeuser/53.m3u8
+#EXTINF:-1 tvg-id="84" tvg-name="NOVA BH HD" tvg-logo="http://logo.smart-iptvpro.info/108.ba.png" group-title="BOSNA I HERCEGOVINA",NOVA BH HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/84.m3u8
+#EXTINF:-1 tvg-id="85" tvg-name="NOVA M" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2018/10/09/11/25/41/nova_m_tv_480x270.png" group-title="BOSNA I HERCEGOVINA",NOVA M
+http://krajnatv.com:8080/live/johnseven/skypeuser/85.m3u8
+#EXTINF:-1 tvg-id="7873" tvg-name="N1 BIH" tvg-logo="http://logo.smart-iptvpro.info/111.ba.png" group-title="BOSNA I HERCEGOVINA",N1 BIH
+http://krajnatv.com:8080/live/johnseven/skypeuser/91.m3u8
+#EXTINF:-1 tvg-id="92" tvg-name="N1 HD BIH" tvg-logo="http://logo.smart-iptvpro.info/111.ba.png" group-title="BOSNA I HERCEGOVINA",N1 HD BIH
+http://krajnatv.com:8080/live/johnseven/skypeuser/92.m3u8
+#EXTINF:-1 tvg-id="4732" tvg-name="ELTA" tvg-logo="http://logo.smart-iptvpro.info/184.ba.png" group-title="BOSNA I HERCEGOVINA",ELTA
+http://krajnatv.com:8080/live/johnseven/skypeuser/4732.m3u8
+#EXTINF:-1 tvg-id="5292" tvg-name="TV SEHARA ONLINE" tvg-logo="http://logo.smart-iptvpro.info/99.hr.png" group-title="BOSNA I HERCEGOVINA",TV SEHARA ONLINE
+http://krajnatv.com:8080/live/johnseven/skypeuser/5292.m3u8
+#EXTINF:-1 tvg-id="10892" tvg-name="BIR TV" tvg-logo="http://logo.smart-iptvpro.info/139.ba.png" group-title="BOSNA I HERCEGOVINA",BIR TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/10892.m3u8
+#EXTINF:-1 tvg-id="13897" tvg-name="FTV L2" tvg-logo="http://logo.smart-iptvpro.info/101.ba.png" group-title="BOSNA I HERCEGOVINA",FTV L2
+http://krajnatv.com:8080/live/johnseven/skypeuser/13897.m3u8
+#EXTINF:-1 tvg-id="13898" tvg-name="BHT 1" tvg-logo="http://logo.smart-iptvpro.info/100.ba.png" group-title="BOSNA I HERCEGOVINA",BHT 1
+http://krajnatv.com:8080/live/johnseven/skypeuser/13898.m3u8
+#EXTINF:-1 tvg-id="13899" tvg-name="FTV" tvg-logo="http://logo.smart-iptvpro.info/101.ba.png" group-title="BOSNA I HERCEGOVINA",FTV
+http://krajnatv.com:8080/live/johnseven/skypeuser/13899.m3u8
+#EXTINF:-1 tvg-id="13900" tvg-name="TK" tvg-logo="http://logo.smart-iptvpro.info/104.ba.png" group-title="BOSNA I HERCEGOVINA",TK
+http://krajnatv.com:8080/live/johnseven/skypeuser/13900.m3u8
+#EXTINF:-1 tvg-id="13901" tvg-name="OBN" tvg-logo="http://logo.smart-iptvpro.info/105.ba.png" group-title="BOSNA I HERCEGOVINA",OBN
+http://krajnatv.com:8080/live/johnseven/skypeuser/13901.m3u8
+#EXTINF:-1 tvg-id="13902" tvg-name="FACE TV" tvg-logo="http://logo.smart-iptvpro.info/106.ba.png" group-title="BOSNA I HERCEGOVINA",FACE TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/13902.m3u8
+#EXTINF:-1 tvg-id="13903" tvg-name="O KANAL" tvg-logo="http://logo.smart-iptvpro.info/107.ba.png" group-title="BOSNA I HERCEGOVINA",O KANAL
+http://krajnatv.com:8080/live/johnseven/skypeuser/13903.m3u8
+#EXTINF:-1 tvg-id="4731" tvg-name="===== BOSNA I HERCEGOVINA =====" tvg-logo="http://titaniptv.com/epg/logo/Bosna.png" group-title="BOSNA I HERCEGOVINA",===== BOSNA I HERCEGOVINA =====
+http://krajnatv.com:8080/live/johnseven/skypeuser/4731.m3u8
+#EXTINF:-1 tvg-id="13906" tvg-name="HAYAT HD" tvg-logo="http://logo.smart-iptvpro.info/102.ba.png" group-title="BOSNA I HERCEGOVINA",HAYAT HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/13906.m3u8
+#EXTINF:-1 tvg-id="13908" tvg-name="AL JAZEERA BALKANS HD" tvg-logo="http://logo.smart-iptvpro.info/114.ba.png" group-title="BOSNA I HERCEGOVINA",AL JAZEERA BALKANS HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/13908.m3u8
+#EXTINF:-1 tvg-id="13910" tvg-name="RTRS" tvg-logo="http://logo.smart-iptvpro.info/112.ba.png" group-title="BOSNA I HERCEGOVINA",RTRS
+http://krajnatv.com:8080/live/johnseven/skypeuser/13910.m3u8
+#EXTINF:-1 tvg-id="13911" tvg-name="RTRS PLUS" tvg-logo="http://logo.smart-iptvpro.info/113.ba.png" group-title="BOSNA I HERCEGOVINA",RTRS PLUS
+http://krajnatv.com:8080/live/johnseven/skypeuser/13911.m3u8
+#EXTINF:-1 tvg-id="13912" tvg-name="BN HD" tvg-logo="http://logo.smart-iptvpro.info/110.ba.png" group-title="BOSNA I HERCEGOVINA",BN HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/13912.m3u8
+#EXTINF:-1 tvg-id="13913" tvg-name="ATV BANJA LUKA" tvg-logo="http://logo.smart-iptvpro.info/116.ba.png" group-title="BOSNA I HERCEGOVINA",ATV BANJA LUKA
+http://krajnatv.com:8080/live/johnseven/skypeuser/13913.m3u8
+#EXTINF:-1 tvg-id="13907" tvg-name="H PLUS" tvg-logo="http://logo.smart-iptvpro.info/103.ba.png" group-title="BOSNA I HERCEGOVINA",H PLUS
+http://krajnatv.com:8080/live/johnseven/skypeuser/13907.m3u8
+#EXTINF:-1 tvg-id="13914" tvg-name="K3 TV" tvg-logo="http://logo.smart-iptvpro.info/115.ba.png" group-title="BOSNA I HERCEGOVINA",K3 TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/13914.m3u8
+#EXTINF:-1 tvg-id="13915" tvg-name="IZVORNA TV" tvg-logo="http://logo.smart-iptvpro.info/117.ba.png" group-title="BOSNA I HERCEGOVINA",IZVORNA TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/13915.m3u8
+#EXTINF:-1 tvg-id="13916" tvg-name="MTV IGMAN HD" tvg-logo="http://logo.smart-iptvpro.info/121.ba.png" group-title="BOSNA I HERCEGOVINA",MTV IGMAN HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/13916.m3u8
+#EXTINF:-1 tvg-id="13917" tvg-name="BN 2 HD" tvg-logo="http://logo.smart-iptvpro.info/110.ba.png" group-title="BOSNA I HERCEGOVINA",BN 2 HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/13917.m3u8
+#EXTINF:-1 tvg-id="13919" tvg-name="TV SLON EXTRA" tvg-logo="http://logo.smart-iptvpro.info/124.ba.png" group-title="BOSNA I HERCEGOVINA",TV SLON EXTRA
+http://krajnatv.com:8080/live/johnseven/skypeuser/13919.m3u8
+#EXTINF:-1 tvg-id="13920" tvg-name="TV ZENICA" tvg-logo="http://logo.smart-iptvpro.info/125.ba.png" group-title="BOSNA I HERCEGOVINA",TV ZENICA
+http://krajnatv.com:8080/live/johnseven/skypeuser/13920.m3u8
+#EXTINF:-1 tvg-id="13921" tvg-name="HEMA TV" tvg-logo="http://logo.smart-iptvpro.info/126.ba.png" group-title="BOSNA I HERCEGOVINA",HEMA TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/13921.m3u8
+#EXTINF:-1 tvg-id="13922" tvg-name="HIT BRCKO TV" tvg-logo="http://logo.smart-iptvpro.info/127.ba.png" group-title="BOSNA I HERCEGOVINA",HIT BRCKO TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/13922.m3u8
+#EXTINF:-1 tvg-id="13924" tvg-name="USK HD" tvg-logo="http://logo.smart-iptvpro.info/129.ba.png" group-title="BOSNA I HERCEGOVINA",USK HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/13924.m3u8
+#EXTINF:-1 tvg-id="13925" tvg-name="BOSANSKO POSAVSKA TV HD" tvg-logo="http://logo.smart-iptvpro.info/130.ba.png" group-title="BOSNA I HERCEGOVINA",BOSANSKO POSAVSKA TV HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/13925.m3u8
+#EXTINF:-1 tvg-id="13926" tvg-name="GLAS DRINE" tvg-logo="http://logo.smart-iptvpro.info/133.ba.png" group-title="BOSNA I HERCEGOVINA",GLAS DRINE
+http://krajnatv.com:8080/live/johnseven/skypeuser/13926.m3u8
+#EXTINF:-1 tvg-id="13927" tvg-name="MEKKA TV" tvg-logo="http://logo.smart-iptvpro.info/136.ba.png" group-title="BOSNA I HERCEGOVINA",MEKKA TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/13927.m3u8
+#EXTINF:-1 tvg-id="13928" tvg-name="QOURAN BOSNA TV" tvg-logo="http://logo.smart-iptvpro.info/137.ba.jpg" group-title="BOSNA I HERCEGOVINA",QOURAN BOSNA TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/13928.m3u8
+#EXTINF:-1 tvg-id="13929" tvg-name="TV 5 ISLAM" tvg-logo="http://logo.smart-iptvpro.info/138.ba.png" group-title="BOSNA I HERCEGOVINA",TV 5 ISLAM
+http://krajnatv.com:8080/live/johnseven/skypeuser/13929.m3u8
+#EXTINF:-1 tvg-id="14132" tvg-name="TV SRPSKE DIJASPORE HD" tvg-logo="https://tsd-tv.com/wp-content/uploads/2019/10/Logo_3d-4.png" group-title="BOSNA I HERCEGOVINA",TV SRPSKE DIJASPORE HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/14132.m3u8
+#EXTINF:-1 tvg-id="17866" tvg-name="RTV HERCEG BOSNE" tvg-logo="http://logo.smart-iptvpro.info/134.ba.png" group-title="BOSNA I HERCEGOVINA",RTV HERCEG BOSNE
+http://krajnatv.com:8080/live/johnseven/skypeuser/17866.m3u8
+#EXTINF:-1 tvg-id="19874" tvg-name="NTV IC KAKANJ" tvg-logo="http://logo.smart-iptvpro.info/128.ba.png" group-title="BOSNA I HERCEGOVINA",NTV IC KAKANJ
+http://krajnatv.com:8080/live/johnseven/skypeuser/19874.m3u8
+#EXTINF:-1 tvg-id="20129" tvg-name="POSAVINA TV" tvg-logo="http://logo.smart-iptvpro.info/131.ba.png" group-title="BOSNA I HERCEGOVINA",POSAVINA TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/20129.m3u8
+#EXTINF:-1 tvg-id="20136" tvg-name="TV SARAJEVO" tvg-logo="http://logo.smart-iptvpro.info/123.ba.png" group-title="BOSNA I HERCEGOVINA",TV SARAJEVO
+http://krajnatv.com:8080/live/johnseven/skypeuser/20136.m3u8
+#EXTINF:-1 tvg-id="20138" tvg-name="PODRINJE" tvg-logo="http://logo.smart-iptvpro.info/132.ba.jpg" group-title="BOSNA I HERCEGOVINA",PODRINJE
+http://krajnatv.com:8080/live/johnseven/skypeuser/20138.m3u8
+#EXTINF:-1 tvg-id="20314" tvg-name="JASMIN TV" tvg-logo="" group-title="BOSNA I HERCEGOVINA",JASMIN TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/20314.m3u8
+#EXTINF:-1 tvg-id="20330" tvg-name="OBN L2" tvg-logo="http://logo.smart-iptvpro.info/105.ba.png" group-title="BOSNA I HERCEGOVINA",OBN L2
+http://krajnatv.com:8080/live/johnseven/skypeuser/20330.m3u8
+#EXTINF:-1 tvg-id="20347" tvg-name="RTV CAZIN" tvg-logo="http://logo.smart-iptvpro.info/118.ba.jpg" group-title="BOSNA I HERCEGOVINA",RTV CAZIN
+http://krajnatv.com:8080/live/johnseven/skypeuser/20347.m3u8
+#EXTINF:-1 tvg-id="20348" tvg-name="RTV VISOKO HD" tvg-logo="http://logo.smart-iptvpro.info/120.ba.png" group-title="BOSNA I HERCEGOVINA",RTV VISOKO HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/20348.m3u8
+#EXTINF:-1 tvg-id="20349" tvg-name="RTV SANA" tvg-logo="http://logo.smart-iptvpro.info/119.ba.png" group-title="BOSNA I HERCEGOVINA",RTV SANA
+http://krajnatv.com:8080/live/johnseven/skypeuser/20349.m3u8
+#EXTINF:-1 tvg-id="21034" tvg-name="MARY TV MEDJUGORJE" tvg-logo="http://logo.smart-iptvpro.info/140.ba.jpg" group-title="BOSNA I HERCEGOVINA",MARY TV MEDJUGORJE
+http://krajnatv.com:8080/live/johnseven/skypeuser/21034.m3u8
+#EXTINF:-1 tvg-id="21119" tvg-name="SUPER TV HD" tvg-logo="http://logo.smart-iptvpro.info/135.ba.png" group-title="BOSNA I HERCEGOVINA",SUPER TV HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/21119.m3u8
+#EXTINF:-1 tvg-id="21120" tvg-name="FACE TV HD" tvg-logo="http://logo.smart-iptvpro.info/106.ba.png" group-title="BOSNA I HERCEGOVINA",FACE TV HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/21120.m3u8
+#EXTINF:-1 tvg-id="23468" tvg-name="ELTA 2" tvg-logo="http://logo.smart-iptvpro.info/185.ba.png" group-title="BOSNA I HERCEGOVINA",ELTA 2
+http://krajnatv.com:8080/live/johnseven/skypeuser/23468.m3u8
+#EXTINF:-1 tvg-id="23469" tvg-name="B1 GRADACAC" tvg-logo="http://logo.smart-iptvpro.info/144.ba.png" group-title="BOSNA I HERCEGOVINA",B1 GRADACAC
+http://krajnatv.com:8080/live/johnseven/skypeuser/23469.m3u8
+#EXTINF:-1 tvg-id="23470" tvg-name="ALFA TV" tvg-logo="http://logo.smart-iptvpro.info/188.ba.png" group-title="BOSNA I HERCEGOVINA",ALFA TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/23470.m3u8
+#EXTINF:-1 tvg-id="23471" tvg-name="KANAL 6 HD" tvg-logo="http://logo.smart-iptvpro.info/141.ba.png" group-title="BOSNA I HERCEGOVINA",KANAL 6 HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/23471.m3u8
+#EXTINF:-1 tvg-id="23473" tvg-name="PRVA HERCEGOVACKA" tvg-logo="http://logo.smart-iptvpro.info/189.ba.png" group-title="BOSNA I HERCEGOVINA",PRVA HERCEGOVACKA
+http://krajnatv.com:8080/live/johnseven/skypeuser/23473.m3u8
+#EXTINF:-1 tvg-id="19697" tvg-name="BHT 1 HD (L2)" tvg-logo="http://logo.smart-iptvpro.info/100.ba.png" group-title="BOSNA I HERCEGOVINA",BHT 1 HD (L2)
+http://krajnatv.com:8080/live/johnseven/skypeuser/19697.m3u8
+#EXTINF:-1 tvg-id="23474" tvg-name="TV 7 TUZLA" tvg-logo="http://logo.smart-iptvpro.info/190.ba.png" group-title="BOSNA I HERCEGOVINA",TV 7 TUZLA
+http://krajnatv.com:8080/live/johnseven/skypeuser/23474.m3u8
+#EXTINF:-1 tvg-id="23475" tvg-name="SEZAM TV" tvg-logo="http://logo.smart-iptvpro.info/175.ba.jpg" group-title="BOSNA I HERCEGOVINA",SEZAM TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/23475.m3u8
+#EXTINF:-1 tvg-id="7873" tvg-name="MG TV" tvg-logo="http://logo.smart-iptvpro.info/191.ba.jpg" group-title="BOSNA I HERCEGOVINA",MG TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/23476.m3u8
+#EXTINF:-1 tvg-id="23477" tvg-name="SLOBOMIR TV" tvg-logo="http://logo.smart-iptvpro.info/192.ba.jpg" group-title="BOSNA I HERCEGOVINA",SLOBOMIR TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/23477.m3u8
+#EXTINF:-1 tvg-id="23478" tvg-name="AMNA TV" tvg-logo="http://logo.smart-iptvpro.info/193.ba.png" group-title="BOSNA I HERCEGOVINA",AMNA TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/23478.m3u8
+#EXTINF:-1 tvg-id="23479" tvg-name="SMART TV TESANJ" tvg-logo="http://logo.smart-iptvpro.info/194.ba.png" group-title="BOSNA I HERCEGOVINA",SMART TV TESANJ
+http://krajnatv.com:8080/live/johnseven/skypeuser/23479.m3u8
+#EXTINF:-1 tvg-id="23480" tvg-name="BUJRUM  TV" tvg-logo="http://logo.smart-iptvpro.info/187.ba.jpg" group-title="BOSNA I HERCEGOVINA",BUJRUM  TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/23480.m3u8
+#EXTINF:-1 tvg-id="23482" tvg-name="IN TV" tvg-logo="http://logo.smart-iptvpro.info/195.ba.png" group-title="BOSNA I HERCEGOVINA",IN TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/23482.m3u8
+#EXTINF:-1 tvg-id="25283" tvg-name="TATABRADA TV" tvg-logo="" group-title="BOSNA I HERCEGOVINA",TATABRADA TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/25283.m3u8
+#EXTINF:-1 tvg-id="26500" tvg-name="RTV MAGLAJ" tvg-logo="" group-title="BOSNA I HERCEGOVINA",RTV MAGLAJ
+http://krajnatv.com:8080/live/johnseven/skypeuser/26500.m3u8
+#EXTINF:-1 tvg-id="23481" tvg-name="RTV KRAJINA" tvg-logo="http://logo.smart-iptvpro.info/186.ba.png" group-title="BOSNA I HERCEGOVINA",RTV KRAJINA
+http://krajnatv.com:8080/live/johnseven/skypeuser/23481.m3u8
+#EXTINF:-1 tvg-id="7873" tvg-name="NOVA S" tvg-logo="http://logo.smart-iptvpro.info/115.sr.png" group-title="SRBIJA / SERBIA",NOVA S
+http://krajnatv.com:8080/live/johnseven/skypeuser/87.m3u8
+#EXTINF:-1 tvg-id="88" tvg-name="NOVA S L2" tvg-logo="http://logo.smart-iptvpro.info/115.sr.png" group-title="SRBIJA / SERBIA",NOVA S L2
+http://krajnatv.com:8080/live/johnseven/skypeuser/88.m3u8
+#EXTINF:-1 tvg-id="7873" tvg-name="N1 RS" tvg-logo="http://logo.smart-iptvpro.info/130.sr.png" group-title="SRBIJA / SERBIA",N1 RS
+http://krajnatv.com:8080/live/johnseven/skypeuser/93.m3u8
+#EXTINF:-1 tvg-id="7873" tvg-name="N1 RS L2" tvg-logo="http://logo.smart-iptvpro.info/130.sr.png" group-title="SRBIJA / SERBIA",N1 RS L2
+http://krajnatv.com:8080/live/johnseven/skypeuser/94.m3u8
+#EXTINF:-1 tvg-id="5493" tvg-name="RED TV" tvg-logo="https://mts.rs/oec/images/tv_channels/15cce26ae357c480bd3318c9def2615a.png" group-title="SRBIJA / SERBIA",RED TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/5493.m3u8
+#EXTINF:-1 tvg-id="14096" tvg-name="RTS 1" tvg-logo="http://logo.smart-iptvpro.info/100.sr.png" group-title="SRBIJA / SERBIA",RTS 1
+http://krajnatv.com:8080/live/johnseven/skypeuser/14096.m3u8
+#EXTINF:-1 tvg-id="14097" tvg-name="RTS 2 HD" tvg-logo="http://logo.smart-iptvpro.info/101.sr.png" group-title="SRBIJA / SERBIA",RTS 2 HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/14097.m3u8
+#EXTINF:-1 tvg-id="14098" tvg-name="RTS 3" tvg-logo="http://logo.smart-iptvpro.info/102.sr.png" group-title="SRBIJA / SERBIA",RTS 3
+http://krajnatv.com:8080/live/johnseven/skypeuser/14098.m3u8
+#EXTINF:-1 tvg-id="14099" tvg-name="RTS SVET" tvg-logo="http://logo.smart-iptvpro.info/103.sr.png" group-title="SRBIJA / SERBIA",RTS SVET
+http://krajnatv.com:8080/live/johnseven/skypeuser/14099.m3u8
+#EXTINF:-1 tvg-id="14100" tvg-name="RTS KOLO" tvg-logo="http://logo.smart-iptvpro.info/104.sr.png" group-title="SRBIJA / SERBIA",RTS KOLO
+http://krajnatv.com:8080/live/johnseven/skypeuser/14100.m3u8
+#EXTINF:-1 tvg-id="14101" tvg-name="RTS ZIVOT" tvg-logo="http://logo.smart-iptvpro.info/105.sr.png" group-title="SRBIJA / SERBIA",RTS ZIVOT
+http://krajnatv.com:8080/live/johnseven/skypeuser/14101.m3u8
+#EXTINF:-1 tvg-id="14102" tvg-name="RTS DRAMA" tvg-logo="http://logo.smart-iptvpro.info/106.sr.png" group-title="SRBIJA / SERBIA",RTS DRAMA
+http://krajnatv.com:8080/live/johnseven/skypeuser/14102.m3u8
+#EXTINF:-1 tvg-id="14103" tvg-name="PRVA TV" tvg-logo="http://logo.smart-iptvpro.info/110.sr.png" group-title="SRBIJA / SERBIA",PRVA TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/14103.m3u8
+#EXTINF:-1 tvg-id="14104" tvg-name="PRVA PLUS" tvg-logo="http://logo.smart-iptvpro.info/111.sr.png" group-title="SRBIJA / SERBIA",PRVA PLUS
+http://krajnatv.com:8080/live/johnseven/skypeuser/14104.m3u8
+#EXTINF:-1 tvg-id="14105" tvg-name="PRVA MAX" tvg-logo="http://logo.smart-iptvpro.info/112.sr.png" group-title="SRBIJA / SERBIA",PRVA MAX
+http://krajnatv.com:8080/live/johnseven/skypeuser/14105.m3u8
+#EXTINF:-1 tvg-id="14106" tvg-name="PRVA KICK" tvg-logo="http://logo.smart-iptvpro.info/113.sr.png" group-title="SRBIJA / SERBIA",PRVA KICK
+http://krajnatv.com:8080/live/johnseven/skypeuser/14106.m3u8
+#EXTINF:-1 tvg-id="14107" tvg-name="PALMA PLUS" tvg-logo="http://logo.smart-iptvpro.info/114.sr.png" group-title="SRBIJA / SERBIA",PALMA PLUS
+http://krajnatv.com:8080/live/johnseven/skypeuser/14107.m3u8
+#EXTINF:-1 tvg-id="14108" tvg-name="TV DUGA PLUS" tvg-logo="http://logo.smart-iptvpro.info/123.sr.png" group-title="SRBIJA / SERBIA",TV DUGA PLUS
+http://krajnatv.com:8080/live/johnseven/skypeuser/14108.m3u8
+#EXTINF:-1 tvg-id="14117" tvg-name="RTV BOR" tvg-logo="http://logo.smart-iptvpro.info/117.sr.png" group-title="SRBIJA / SERBIA",RTV BOR
+http://krajnatv.com:8080/live/johnseven/skypeuser/14117.m3u8
+#EXTINF:-1 tvg-id="14118" tvg-name="B92" tvg-logo="http://logo.smart-iptvpro.info/118.sr.png" group-title="SRBIJA / SERBIA",B92
+http://krajnatv.com:8080/live/johnseven/skypeuser/14118.m3u8
+#EXTINF:-1 tvg-id="14119" tvg-name="HAPPY TV" tvg-logo="http://logo.smart-iptvpro.info/119.sr.png" group-title="SRBIJA / SERBIA",HAPPY TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/14119.m3u8
+#EXTINF:-1 tvg-id="14120" tvg-name="PRVA WORLD" tvg-logo="http://logo.smart-iptvpro.info/120.sr.png" group-title="SRBIJA / SERBIA",PRVA WORLD
+http://krajnatv.com:8080/live/johnseven/skypeuser/14120.m3u8
+#EXTINF:-1 tvg-id="14122" tvg-name="STUDIO B" tvg-logo="http://logo.smart-iptvpro.info/121.sr.png" group-title="SRBIJA / SERBIA",STUDIO B
+http://krajnatv.com:8080/live/johnseven/skypeuser/14122.m3u8
+#EXTINF:-1 tvg-id="14124" tvg-name="JEFIMIJA HD" tvg-logo="http://logo.smart-iptvpro.info/124.sr.jpg" group-title="SRBIJA / SERBIA",JEFIMIJA HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/14124.m3u8
+#EXTINF:-1 tvg-id="14131" tvg-name="K1 HD" tvg-logo="https://mts.rs/oec/images/tv_channels/6abad2da8b0fc392b703e0910b8fda39.jpg" group-title="SRBIJA / SERBIA",K1 HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/14131.m3u8
+#EXTINF:-1 tvg-id="14622" tvg-name="RTV VOJVODINA 1" tvg-logo="http://logo.smart-iptvpro.info/128.sr.png" group-title="SRBIJA / SERBIA",RTV VOJVODINA 1
+http://krajnatv.com:8080/live/johnseven/skypeuser/14622.m3u8
+#EXTINF:-1 tvg-id="14623" tvg-name="RTV VOJVODINA 2" tvg-logo="http://logo.smart-iptvpro.info/129.sr.png" group-title="SRBIJA / SERBIA",RTV VOJVODINA 2
+http://krajnatv.com:8080/live/johnseven/skypeuser/14623.m3u8
+#EXTINF:-1 tvg-id="14931" tvg-name="SANDZAK TV" tvg-logo="http://logo.smart-iptvpro.info/126.sr.png" group-title="SRBIJA / SERBIA",SANDZAK TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/14931.m3u8
+#EXTINF:-1 tvg-id="15391" tvg-name="PAROVI LIVE" tvg-logo="http://logo.smart-iptvpro.info/146.sr.png" group-title="SRBIJA / SERBIA",PAROVI LIVE
+http://krajnatv.com:8080/live/johnseven/skypeuser/15391.m3u8
+#EXTINF:-1 tvg-id="18304" tvg-name="RTS 1 HD" tvg-logo="http://logo.smart-iptvpro.info/100.sr.png" group-title="SRBIJA / SERBIA",RTS 1 HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/18304.m3u8
+#EXTINF:-1 tvg-id="18305" tvg-name="SANDZACKA TV MREZA" tvg-logo="http://logo.smart-iptvpro.info/127.sr.png" group-title="SRBIJA / SERBIA",SANDZACKA TV MREZA
+http://krajnatv.com:8080/live/johnseven/skypeuser/18305.m3u8
+#EXTINF:-1 tvg-id="18306" tvg-name="SOS" tvg-logo="http://logo.smart-iptvpro.info/122.sr.png" group-title="SRBIJA / SERBIA",SOS
+http://krajnatv.com:8080/live/johnseven/skypeuser/18306.m3u8
+#EXTINF:-1 tvg-id="18307" tvg-name="HAPPY PAROVI 24/7" tvg-logo="http://logo.smart-iptvpro.info/147.sr.png" group-title="SRBIJA / SERBIA",HAPPY PAROVI 24/7
+http://krajnatv.com:8080/live/johnseven/skypeuser/18307.m3u8
+#EXTINF:-1 tvg-id="18800" tvg-name="HRAM TV" tvg-logo="http://logo.smart-iptvpro.info/133.sr.png" group-title="SRBIJA / SERBIA",HRAM TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/18800.m3u8
+#EXTINF:-1 tvg-id="19696" tvg-name="PRVA TV HD" tvg-logo="http://logo.smart-iptvpro.info/110.sr.png" group-title="SRBIJA / SERBIA",PRVA TV HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/19696.m3u8
+#EXTINF:-1 tvg-id="20135" tvg-name="RTV NOVI PAZAR" tvg-logo="http://logo.smart-iptvpro.info/116.sr.png" group-title="SRBIJA / SERBIA",RTV NOVI PAZAR
+http://krajnatv.com:8080/live/johnseven/skypeuser/20135.m3u8
+#EXTINF:-1 tvg-id="20227" tvg-name="TESLA VISION" tvg-logo="http://logo.smart-iptvpro.info/144.sr.png" group-title="SRBIJA / SERBIA",TESLA VISION
+http://krajnatv.com:8080/live/johnseven/skypeuser/20227.m3u8
+#EXTINF:-1 tvg-id="20304" tvg-name="TV LESKOVAC" tvg-logo="http://logo.smart-iptvpro.info/134.sr.png" group-title="SRBIJA / SERBIA",TV LESKOVAC
+http://krajnatv.com:8080/live/johnseven/skypeuser/20304.m3u8
+#EXTINF:-1 tvg-id="20305" tvg-name="BELLE AMIE HD" tvg-logo="http://logo.smart-iptvpro.info/135.sr.png" group-title="SRBIJA / SERBIA",BELLE AMIE HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/20305.m3u8
+#EXTINF:-1 tvg-id="20306" tvg-name="TV K::CN 1" tvg-logo="http://logo.smart-iptvpro.info/141.sr.png" group-title="SRBIJA / SERBIA",TV K::CN 1
+http://krajnatv.com:8080/live/johnseven/skypeuser/20306.m3u8
+#EXTINF:-1 tvg-id="20307" tvg-name="TV K::CN Music 2" tvg-logo="http://logo.smart-iptvpro.info/142.sr.png" group-title="SRBIJA / SERBIA",TV K::CN Music 2
+http://krajnatv.com:8080/live/johnseven/skypeuser/20307.m3u8
+#EXTINF:-1 tvg-id="20308" tvg-name="TV K::CN Svet Plus 3" tvg-logo="http://logo.smart-iptvpro.info/143.sr.png" group-title="SRBIJA / SERBIA",TV K::CN Svet Plus 3
+http://krajnatv.com:8080/live/johnseven/skypeuser/20308.m3u8
+#EXTINF:-1 tvg-id="21177" tvg-name="TV KRAGUJEVAC" tvg-logo="http://logo.smart-iptvpro.info/109.sr.png" group-title="SRBIJA / SERBIA",TV KRAGUJEVAC
+http://krajnatv.com:8080/live/johnseven/skypeuser/21177.m3u8
+#EXTINF:-1 tvg-id="21178" tvg-name="RTV MARS HD" tvg-logo="http://marsh.rs/wp-content/uploads/2015/09/logo-marsha-web-home-100.png" group-title="SRBIJA / SERBIA",RTV MARS HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/21178.m3u8
+#EXTINF:-1 tvg-id="21179" tvg-name="RTS POLETARAC" tvg-logo="http://logo.smart-iptvpro.info/107.sr.png" group-title="SRBIJA / SERBIA",RTS POLETARAC
+http://krajnatv.com:8080/live/johnseven/skypeuser/21179.m3u8
+#EXTINF:-1 tvg-id="21182" tvg-name="SAT TV" tvg-logo="http://logo.smart-iptvpro.info/138.sr.png" group-title="SRBIJA / SERBIA",SAT TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/21182.m3u8
+#EXTINF:-1 tvg-id="21186" tvg-name="RTV MIR" tvg-logo="http://logo.smart-iptvpro.info/140.sr.png" group-title="SRBIJA / SERBIA",RTV MIR
+http://krajnatv.com:8080/live/johnseven/skypeuser/21186.m3u8
+#EXTINF:-1 tvg-id="22341" tvg-name="AGRO TV" tvg-logo="http://logo.smart-iptvpro.info/132.sr.png" group-title="SRBIJA / SERBIA",AGRO TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/22341.m3u8
+#EXTINF:-1 tvg-id="22799" tvg-name="KURIR TV HD" tvg-logo="http://logo.smart-iptvpro.info/131.sr.png" group-title="SRBIJA / SERBIA",KURIR TV HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/22799.m3u8
+#EXTINF:-1 tvg-id="23483" tvg-name="TV KLADOVO" tvg-logo="http://logo.smart-iptvpro.info/246.sr.png" group-title="SRBIJA / SERBIA",TV KLADOVO
+http://krajnatv.com:8080/live/johnseven/skypeuser/23483.m3u8
+#EXTINF:-1 tvg-id="23484" tvg-name="RTV MLAVA" tvg-logo="http://logo.smart-iptvpro.info/241.sr.png" group-title="SRBIJA / SERBIA",RTV MLAVA
+http://krajnatv.com:8080/live/johnseven/skypeuser/23484.m3u8
+#EXTINF:-1 tvg-id="23485" tvg-name="TV KRUSEVAC" tvg-logo="http://logo.smart-iptvpro.info/247.sr.png" group-title="SRBIJA / SERBIA",TV KRUSEVAC
+http://krajnatv.com:8080/live/johnseven/skypeuser/23485.m3u8
+#EXTINF:-1 tvg-id="23486" tvg-name="MIS TV" tvg-logo="http://logo.smart-iptvpro.info/248.sr.png" group-title="SRBIJA / SERBIA",MIS TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/23486.m3u8
+#EXTINF:-1 tvg-id="23487" tvg-name="TV PI PIROT" tvg-logo="http://logo.smart-iptvpro.info/249.sr.png" group-title="SRBIJA / SERBIA",TV PI PIROT
+http://krajnatv.com:8080/live/johnseven/skypeuser/23487.m3u8
+#EXTINF:-1 tvg-id="7873" tvg-name="BNV TV SANDZAK" tvg-logo="http://logo.smart-iptvpro.info/245.sr.jpg" group-title="SRBIJA / SERBIA",BNV TV SANDZAK
+http://krajnatv.com:8080/live/johnseven/skypeuser/23490.m3u8
+#EXTINF:-1 tvg-id="23492" tvg-name="RTV CITY UB" tvg-logo="http://logo.smart-iptvpro.info/253.sr.png" group-title="SRBIJA / SERBIA",RTV CITY UB
+http://krajnatv.com:8080/live/johnseven/skypeuser/23492.m3u8
+#EXTINF:-1 tvg-id="23503" tvg-name="TV ISTOK" tvg-logo="http://logo.smart-iptvpro.info/239.sr.png" group-title="SRBIJA / SERBIA",TV ISTOK
+http://krajnatv.com:8080/live/johnseven/skypeuser/23503.m3u8
+#EXTINF:-1 tvg-id="7873" tvg-name="TV VITEZEVO" tvg-logo="https://sviraradio.com/logo/1594-radio-vitezevo.jpg" group-title="SRBIJA / SERBIA",TV VITEZEVO
+http://krajnatv.com:8080/live/johnseven/skypeuser/25306.m3u8
+#EXTINF:-1 tvg-id="7873" tvg-name="TV GEM" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQEXJn2GhXCwrg/company-logo_200_200/0?e=2159024400&v=beta&t=_24ECvvzyDOtfcF9DHqAL1Rdxn1z8Ie-t8o9_mofBEI" group-title="SRBIJA / SERBIA",TV GEM
+http://krajnatv.com:8080/live/johnseven/skypeuser/25311.m3u8
+#EXTINF:-1 tvg-id="7873" tvg-name="TV PULS" tvg-logo="https://livetvcentral.com/imgs/tvs/2834.jpg" group-title="SRBIJA / SERBIA",TV PULS
+http://krajnatv.com:8080/live/johnseven/skypeuser/25854.m3u8
+#EXTINF:-1 tvg-id="86" tvg-name="NOVA M (CG)" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2018/10/09/11/25/41/nova_m_tv_480x270.png" group-title="CRNA GORA / MONTENEGRO",NOVA M (CG)
+http://krajnatv.com:8080/live/johnseven/skypeuser/86.m3u8
+#EXTINF:-1 tvg-id="14207" tvg-name="RTCG 1 (CG)" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2018/06/19/21/03/05/1.png" group-title="CRNA GORA / MONTENEGRO",RTCG 1 (CG)
+http://krajnatv.com:8080/live/johnseven/skypeuser/14207.m3u8
+#EXTINF:-1 tvg-id="14208" tvg-name="RTCG 2 (CG)" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2019/07/10/10/24/23/1.png" group-title="CRNA GORA / MONTENEGRO",RTCG 2 (CG)
+http://krajnatv.com:8080/live/johnseven/skypeuser/14208.m3u8
+#EXTINF:-1 tvg-id="14209" tvg-name="RTCG (SAT) (CG)" tvg-logo="https://mts.rs/oec/images/tv_channels/cc85bce05ae4e214bba41ceb5025558d.jpg" group-title="CRNA GORA / MONTENEGRO",RTCG (SAT) (CG)
+http://krajnatv.com:8080/live/johnseven/skypeuser/14209.m3u8
+#EXTINF:-1 tvg-id="15233" tvg-name="TV VIJESTI (CG)" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/09/01/15/29/14/stb_fhd_tv_vijesti_480x270.png" group-title="CRNA GORA / MONTENEGRO",TV VIJESTI (CG)
+http://krajnatv.com:8080/live/johnseven/skypeuser/15233.m3u8
+#EXTINF:-1 tvg-id="21016" tvg-name="PRVA TV (CG)" tvg-logo="https://mts.rs/oec/images/tv_channels/57d29ca075561b37e03a157ca2321d72.png" group-title="CRNA GORA / MONTENEGRO",PRVA TV (CG)
+http://krajnatv.com:8080/live/johnseven/skypeuser/21016.m3u8
+#EXTINF:-1 tvg-id="7873" tvg-name="NOVI TV (CG)" tvg-logo="https://www.bsprodukcija.com/images/static/thumbs/1384775591-LOGO%20TV%20NOVI%20HERCEG%20NOVI.jpg" group-title="CRNA GORA / MONTENEGRO",NOVI TV (CG)
+http://krajnatv.com:8080/live/johnseven/skypeuser/25298.m3u8
+#EXTINF:-1 tvg-id="25309" tvg-name="TV SRPSKA (CG)" tvg-logo="http://www.prch.me/wp-content/uploads/2015/05/srpska-televizija-logo.jpg" group-title="CRNA GORA / MONTENEGRO",TV SRPSKA (CG)
+http://krajnatv.com:8080/live/johnseven/skypeuser/25309.m3u8
+#EXTINF:-1 tvg-id="14150" tvg-name="EXODUS (SLO)" tvg-logo="https://tv2go.t-2.net/static/media/img/channels/light/ios/small/normal/145244.png" group-title="SLOVENIJA / SLOVENIA",EXODUS (SLO)
+http://krajnatv.com:8080/live/johnseven/skypeuser/14150.m3u8
+#EXTINF:-1 tvg-id="14152" tvg-name="SLO 1 HD (SLO)" tvg-logo="https://tv2go.t-2.net/static/media/img/channels/light/ios/small/normal/145107.png" group-title="SLOVENIJA / SLOVENIA",SLO 1 HD (SLO)
+http://krajnatv.com:8080/live/johnseven/skypeuser/14152.m3u8
+#EXTINF:-1 tvg-id="14153" tvg-name="SLO 2 HD (SLO)" tvg-logo="https://tv2go.t-2.net/static/media/img/channels/light/ios/small/normal/145108.png" group-title="SLOVENIJA / SLOVENIA",SLO 2 HD (SLO)
+http://krajnatv.com:8080/live/johnseven/skypeuser/14153.m3u8
+#EXTINF:-1 tvg-id="14154" tvg-name="SLO 3 HD (SLO)" tvg-logo="https://tv2go.t-2.net/static/media/img/channels/light/ios/small/normal/1222313.png" group-title="SLOVENIJA / SLOVENIA",SLO 3 HD (SLO)
+http://krajnatv.com:8080/live/johnseven/skypeuser/14154.m3u8
+#EXTINF:-1 tvg-id="14158" tvg-name="POP TV (SLO)" tvg-logo="https://tv2go.t-2.net/static/media/img/channels/light/ios/small/normal/145180.png" group-title="SLOVENIJA / SLOVENIA",POP TV (SLO)
+http://krajnatv.com:8080/live/johnseven/skypeuser/14158.m3u8
+#EXTINF:-1 tvg-id="14159" tvg-name="POP KINO HD (SLO)" tvg-logo="https://tv2go.t-2.net/static/media/img/channels/light/ios/small/normal/145177.png" group-title="SLOVENIJA / SLOVENIA",POP KINO HD (SLO)
+http://krajnatv.com:8080/live/johnseven/skypeuser/14159.m3u8
+#EXTINF:-1 tvg-id="14161" tvg-name="PLANET HD (SLO)" tvg-logo="https://tv2go.t-2.net/static/media/img/channels/light/ios/small/normal/1904216.png" group-title="SLOVENIJA / SLOVENIA",PLANET HD (SLO)
+http://krajnatv.com:8080/live/johnseven/skypeuser/14161.m3u8
+#EXTINF:-1 tvg-id="14175" tvg-name="KANAL A HD (SLO)" tvg-logo="http://roi-iptv.dyndns.org:9000/images/4b1c043d4b20248262ed952e8b881bbc.png" group-title="SLOVENIJA / SLOVENIA",KANAL A HD (SLO)
+http://krajnatv.com:8080/live/johnseven/skypeuser/14175.m3u8
+#EXTINF:-1 tvg-id="20170" tvg-name="POP BRIO (SLO)" tvg-logo="https://tv2go.t-2.net/static/media/img/channels/light/ios/small/normal/145178.png" group-title="SLOVENIJA / SLOVENIA",POP BRIO (SLO)
+http://krajnatv.com:8080/live/johnseven/skypeuser/20170.m3u8
+#EXTINF:-1 tvg-id="20171" tvg-name="POP OTO (SLO)" tvg-logo="https://tv2go.t-2.net/static/media/img/channels/light/ios/small/normal/145176.png" group-title="SLOVENIJA / SLOVENIA",POP OTO (SLO)
+http://krajnatv.com:8080/live/johnseven/skypeuser/20171.m3u8
+#EXTINF:-1 tvg-id="20172" tvg-name="TV KOPER (SLO)" tvg-logo="http://roi-iptv.dyndns.org:9000/images/c7dd678e0d68322505703154039b79d8.png" group-title="SLOVENIJA / SLOVENIA",TV KOPER (SLO)
+http://krajnatv.com:8080/live/johnseven/skypeuser/20172.m3u8
+#EXTINF:-1 tvg-id="20173" tvg-name="TV MARIBOR (SLO)" tvg-logo="https://tv2go.t-2.net/static/media/img/channels/light/ios/small/normal/145282.png" group-title="SLOVENIJA / SLOVENIA",TV MARIBOR (SLO)
+http://krajnatv.com:8080/live/johnseven/skypeuser/20173.m3u8
+#EXTINF:-1 tvg-id="20174" tvg-name="MMC INFO KANAL (SLO)" tvg-logo="https://tv2go.t-2.net/static/media/img/channels/light/ios/small/normal/144940.png" group-title="SLOVENIJA / SLOVENIA",MMC INFO KANAL (SLO)
+http://krajnatv.com:8080/live/johnseven/skypeuser/20174.m3u8
+#EXTINF:-1 tvg-id="20197" tvg-name="TV VESELJAK (SLO)" tvg-logo="https://tv2go.t-2.net/static/media/img/channels/light/ios/small/normal/144807.png" group-title="SLOVENIJA / SLOVENIA",TV VESELJAK (SLO)
+http://krajnatv.com:8080/live/johnseven/skypeuser/20197.m3u8
+#EXTINF:-1 tvg-id="20200" tvg-name="MINIMAX (SLO)" tvg-logo="https://tv2go.t-2.net/static/media/img/channels/light/ios/small/normal/189888.png" group-title="SLOVENIJA / SLOVENIA",MINIMAX (SLO)
+http://krajnatv.com:8080/live/johnseven/skypeuser/20200.m3u8
+#EXTINF:-1 tvg-id="20201" tvg-name="NOVA 24 (SLO)" tvg-logo="https://tv2go.t-2.net/static/media/img/channels/light/ios/small/normal/1090179.png" group-title="SLOVENIJA / SLOVENIA",NOVA 24 (SLO)
+http://krajnatv.com:8080/live/johnseven/skypeuser/20201.m3u8
+#EXTINF:-1 tvg-id="20203" tvg-name="PLANET PLUS HD (SLO)" tvg-logo="https://tv2go.t-2.net/static/media/img/channels/light/ios/small/normal/1641193.png" group-title="SLOVENIJA / SLOVENIA",PLANET PLUS HD (SLO)
+http://krajnatv.com:8080/live/johnseven/skypeuser/20203.m3u8
+#EXTINF:-1 tvg-id="22360" tvg-name="24 KITCHEN (SLO)" tvg-logo="" group-title="SLOVENIJA / SLOVENIA",24 KITCHEN (SLO)
+http://krajnatv.com:8080/live/johnseven/skypeuser/22360.m3u8
+#EXTINF:-1 tvg-id="22361" tvg-name="ARCADIA WORLD HD (SLO)" tvg-logo="https://yt3.ggpht.com/a/AATXAJwPyYawRFv1WE0BNUkT9IrmZ2p20VImIF6-JlNHfQ=s48-c-k-c0xffffffff-no-rj-mo" group-title="SLOVENIJA / SLOVENIA",ARCADIA WORLD HD (SLO)
+http://krajnatv.com:8080/live/johnseven/skypeuser/22361.m3u8
+#EXTINF:-1 tvg-id="22362" tvg-name="GOLICA TV (SLO)" tvg-logo="https://golica.si/wp-content/uploads/2019/09/golica_logo_med.png" group-title="SLOVENIJA / SLOVENIA",GOLICA TV (SLO)
+http://krajnatv.com:8080/live/johnseven/skypeuser/22362.m3u8
+#EXTINF:-1 tvg-id="22369" tvg-name="DISCOVERY DTX HD (SLO)" tvg-logo="http://logo.smart-iptvpro.info/170.hr.png" group-title="SLOVENIJA / SLOVENIA",DISCOVERY DTX HD (SLO)
+http://krajnatv.com:8080/live/johnseven/skypeuser/22369.m3u8
+#EXTINF:-1 tvg-id="22371" tvg-name="GOLD TV (SLO)" tvg-logo="" group-title="SLOVENIJA / SLOVENIA",GOLD TV (SLO)
+http://krajnatv.com:8080/live/johnseven/skypeuser/22371.m3u8
+#EXTINF:-1 tvg-id="22373" tvg-name="PLANET 2 HD (SLO)" tvg-logo="http://tvprofil.net/img/kanali-logo/CineStar_TV_premiere_2_logo.png" group-title="SLOVENIJA / SLOVENIA",PLANET 2 HD (SLO)
+http://krajnatv.com:8080/live/johnseven/skypeuser/22373.m3u8
+#EXTINF:-1 tvg-id="25442" tvg-name="CINESTAR ACTION TV (SLO)" tvg-logo="http://freeweb.t-2.net/itak/LOGO/CineStar_Action_HD.png" group-title="SLOVENIJA / SLOVENIA",CINESTAR ACTION TV (SLO)
+http://krajnatv.com:8080/live/johnseven/skypeuser/25442.m3u8
+#EXTINF:-1 tvg-id="25443" tvg-name="CINESTAR TV 1 (SLO)" tvg-logo="http://roi-iptv.dyndns.org:9000/images/62ccd78072abbbd481cb5e19d404cdb6.png" group-title="SLOVENIJA / SLOVENIA",CINESTAR TV 1 (SLO)
+http://krajnatv.com:8080/live/johnseven/skypeuser/25443.m3u8
+#EXTINF:-1 tvg-id="25444" tvg-name="TRŽIČ TV HD (SLO)" tvg-logo="http://roi-iptv.dyndns.org:9000/images/c16261992cc0474f3874b2a72ff1e12d.png" group-title="SLOVENIJA / SLOVENIA",TRŽIČ TV HD (SLO)
+http://krajnatv.com:8080/live/johnseven/skypeuser/25444.m3u8
+#EXTINF:-1 tvg-id="25445" tvg-name="VIASAT NATURE HD (SLO)" tvg-logo="http://roi-iptv.dyndns.org:9000/images/1552d324af1fa9871321ba50c6edecee.png" group-title="SLOVENIJA / SLOVENIA",VIASAT NATURE HD (SLO)
+http://krajnatv.com:8080/live/johnseven/skypeuser/25445.m3u8
+#EXTINF:-1 tvg-id="25446" tvg-name="NET TV (SLO)" tvg-logo="http://roi-iptv.dyndns.org:9000/images/be3f8505bfda909d29281fb76e507c69.png" group-title="SLOVENIJA / SLOVENIA",NET TV (SLO)
+http://krajnatv.com:8080/live/johnseven/skypeuser/25446.m3u8
+#EXTINF:-1 tvg-id="25447" tvg-name="ARENA (SLO)" tvg-logo="http://freeweb.t-2.net/itak/LOGO/Arena_TV.png" group-title="SLOVENIJA / SLOVENIA",ARENA (SLO)
+http://krajnatv.com:8080/live/johnseven/skypeuser/25447.m3u8
+#EXTINF:-1 tvg-id="25448" tvg-name="BABY TV (SLO)" tvg-logo="http://roi-iptv.dyndns.org:9000/images/39292ca1f0992baeac472dda168e98e0.png" group-title="SLOVENIJA / SLOVENIA",BABY TV (SLO)
+http://krajnatv.com:8080/live/johnseven/skypeuser/25448.m3u8
+#EXTINF:-1 tvg-id="25449" tvg-name="AXN (SLO)" tvg-logo="http://roi-iptv.dyndns.org:9000/images/042dba4d2faaa29cd2fa4c0125416d25.png" group-title="SLOVENIJA / SLOVENIA",AXN (SLO)
+http://krajnatv.com:8080/live/johnseven/skypeuser/25449.m3u8
+#EXTINF:-1 tvg-id="25450" tvg-name="AXN SPIN (SLO)" tvg-logo="http://roi-iptv.dyndns.org:9000/images/7997beb48ead2579be91aeed59842db1.png" group-title="SLOVENIJA / SLOVENIA",AXN SPIN (SLO)
+http://krajnatv.com:8080/live/johnseven/skypeuser/25450.m3u8
+#EXTINF:-1 tvg-id="25451" tvg-name="NOVA 24 TV L2 HD (SLO)" tvg-logo="https://tv2go.t-2.net/static/media/img/channels/light/ios/small/normal/1090179.png" group-title="SLOVENIJA / SLOVENIA",NOVA 24 TV L2 HD (SLO)
+http://krajnatv.com:8080/live/johnseven/skypeuser/25451.m3u8
+#EXTINF:-1 tvg-id="25452" tvg-name="TV3 HD (SLO)" tvg-logo="http://roi-iptv.dyndns.org:9000/images/0de5be737c2092f2c493396979932d69.png" group-title="SLOVENIJA / SLOVENIA",TV3 HD (SLO)
+http://krajnatv.com:8080/live/johnseven/skypeuser/25452.m3u8
+#EXTINF:-1 tvg-id="25453" tvg-name="Pink S! (SLO)" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Pink_SI.png" group-title="SLOVENIJA / SLOVENIA",Pink S! (SLO)
+http://krajnatv.com:8080/live/johnseven/skypeuser/25453.m3u8
+#EXTINF:-1 tvg-id="26190" tvg-name="FOLX SLOVENIJA HD (SLO)" tvg-logo="https://folx.network/wp-content/uploads/2021/01/znaki_folx-TV_poz_slo_one-adria.jpg" group-title="SLOVENIJA / SLOVENIA",FOLX SLOVENIJA HD (SLO)
+http://krajnatv.com:8080/live/johnseven/skypeuser/26190.m3u8
+#EXTINF:-1 tvg-id="4868" tvg-name="PINK FASHION" tvg-logo="http://logo.smart-iptvpro.info/179.sr.png" group-title="PINK",PINK FASHION
+http://krajnatv.com:8080/live/johnseven/skypeuser/4868.m3u8
+#EXTINF:-1 tvg-id="5374" tvg-name="PINK FAMILY" tvg-logo="http://logo.smart-iptvpro.info/168.sr.png" group-title="PINK",PINK FAMILY
+http://krajnatv.com:8080/live/johnseven/skypeuser/5374.m3u8
+#EXTINF:-1 tvg-id="5490" tvg-name="PINK" tvg-logo="http://logo.smart-iptvpro.info/148.sr.png" group-title="PINK",PINK
+http://krajnatv.com:8080/live/johnseven/skypeuser/5490.m3u8
+#EXTINF:-1 tvg-id="5494" tvg-name="PINK VESTI" tvg-logo="http://logo.smart-iptvpro.info/150.sr.png" group-title="PINK",PINK VESTI
+http://krajnatv.com:8080/live/johnseven/skypeuser/5494.m3u8
+#EXTINF:-1 tvg-id="5495" tvg-name="PINK ACTION" tvg-logo="http://logo.smart-iptvpro.info/159.sr.png" group-title="PINK",PINK ACTION
+http://krajnatv.com:8080/live/johnseven/skypeuser/5495.m3u8
+#EXTINF:-1 tvg-id="5496" tvg-name="PINK COMEDY" tvg-logo="http://logo.smart-iptvpro.info/166.sr.png" group-title="PINK",PINK COMEDY
+http://krajnatv.com:8080/live/johnseven/skypeuser/5496.m3u8
+#EXTINF:-1 tvg-id="5497" tvg-name="PINK HORROR" tvg-logo="http://logo.smart-iptvpro.info/164.sr.png" group-title="PINK",PINK HORROR
+http://krajnatv.com:8080/live/johnseven/skypeuser/5497.m3u8
+#EXTINF:-1 tvg-id="5498" tvg-name="PINK PREMIUM" tvg-logo="http://logo.smart-iptvpro.info/158.sr.png" group-title="PINK",PINK PREMIUM
+http://krajnatv.com:8080/live/johnseven/skypeuser/5498.m3u8
+#EXTINF:-1 tvg-id="5499" tvg-name="PINK REALITY" tvg-logo="http://logo.smart-iptvpro.info/173.sr.png" group-title="PINK",PINK REALITY
+http://krajnatv.com:8080/live/johnseven/skypeuser/5499.m3u8
+#EXTINF:-1 tvg-id="5500" tvg-name="PINK SCI FI AND FANTASY" tvg-logo="http://logo.smart-iptvpro.info/163.sr.png" group-title="PINK",PINK SCI FI AND FANTASY
+http://krajnatv.com:8080/live/johnseven/skypeuser/5500.m3u8
+#EXTINF:-1 tvg-id="5501" tvg-name="PINK SERIJE" tvg-logo="http://logo.smart-iptvpro.info/169.sr.png" group-title="PINK",PINK SERIJE
+http://krajnatv.com:8080/live/johnseven/skypeuser/5501.m3u8
+#EXTINF:-1 tvg-id="5502" tvg-name="PINK THRILLER" tvg-logo="http://logo.smart-iptvpro.info/161.sr.png" group-title="PINK",PINK THRILLER
+http://krajnatv.com:8080/live/johnseven/skypeuser/5502.m3u8
+#EXTINF:-1 tvg-id="5503" tvg-name="PINK WESTERN" tvg-logo="http://logo.smart-iptvpro.info/160.sr.png" group-title="PINK",PINK WESTERN
+http://krajnatv.com:8080/live/johnseven/skypeuser/5503.m3u8
+#EXTINF:-1 tvg-id="5504" tvg-name="PINK ZABAVA" tvg-logo="http://logo.smart-iptvpro.info/171.sr.png" group-title="PINK",PINK ZABAVA
+http://krajnatv.com:8080/live/johnseven/skypeuser/5504.m3u8
+#EXTINF:-1 tvg-id="5505" tvg-name="PINK SOAP" tvg-logo="http://logo.smart-iptvpro.info/172.sr.png" group-title="PINK",PINK SOAP
+http://krajnatv.com:8080/live/johnseven/skypeuser/5505.m3u8
+#EXTINF:-1 tvg-id="5506" tvg-name="PINK ROMANCE" tvg-logo="http://logo.smart-iptvpro.info/167.sr.png" group-title="PINK",PINK ROMANCE
+http://krajnatv.com:8080/live/johnseven/skypeuser/5506.m3u8
+#EXTINF:-1 tvg-id="5507" tvg-name="PINK PLUS" tvg-logo="http://logo.smart-iptvpro.info/153.sr.png" group-title="PINK",PINK PLUS
+http://krajnatv.com:8080/live/johnseven/skypeuser/5507.m3u8
+#EXTINF:-1 tvg-id="5508" tvg-name="PINK KUVAR" tvg-logo="http://logo.smart-iptvpro.info/174.sr.png" group-title="PINK",PINK KUVAR
+http://krajnatv.com:8080/live/johnseven/skypeuser/5508.m3u8
+#EXTINF:-1 tvg-id="5509" tvg-name="PINK CRIME AND MYSTERY" tvg-logo="http://logo.smart-iptvpro.info/162.sr.png" group-title="PINK",PINK CRIME AND MYSTERY
+http://krajnatv.com:8080/live/johnseven/skypeuser/5509.m3u8
+#EXTINF:-1 tvg-id="5510" tvg-name="PINK CRIME AND MYSTERY L2" tvg-logo="http://logo.smart-iptvpro.info/162.sr.png" group-title="PINK",PINK CRIME AND MYSTERY L2
+http://krajnatv.com:8080/live/johnseven/skypeuser/5510.m3u8
+#EXTINF:-1 tvg-id="5635" tvg-name="PINK CLASSIC" tvg-logo="http://logo.smart-iptvpro.info/156.sr.png" group-title="PINK",PINK CLASSIC
+http://krajnatv.com:8080/live/johnseven/skypeuser/5635.m3u8
+#EXTINF:-1 tvg-id="5789" tvg-name="PINK WORLD" tvg-logo="http://logo.smart-iptvpro.info/165.sr.png" group-title="PINK",PINK WORLD
+http://krajnatv.com:8080/live/johnseven/skypeuser/5789.m3u8
+#EXTINF:-1 tvg-id="5790" tvg-name="PINK PEDIA" tvg-logo="http://logo.smart-iptvpro.info/175.sr.png" group-title="PINK",PINK PEDIA
+http://krajnatv.com:8080/live/johnseven/skypeuser/5790.m3u8
+#EXTINF:-1 tvg-id="5847" tvg-name="PINK FILM" tvg-logo="http://logo.smart-iptvpro.info/155.sr.png" group-title="PINK",PINK FILM
+http://krajnatv.com:8080/live/johnseven/skypeuser/5847.m3u8
+#EXTINF:-1 tvg-id="6392" tvg-name="PINK (L2)" tvg-logo="http://logo.smart-iptvpro.info/148.sr.png" group-title="PINK",PINK (L2)
+http://krajnatv.com:8080/live/johnseven/skypeuser/6392.m3u8
+#EXTINF:-1 tvg-id="6498" tvg-name="PINK WORLD CINEMA" tvg-logo="http://logo.smart-iptvpro.info/165.sr.png" group-title="PINK",PINK WORLD CINEMA
+http://krajnatv.com:8080/live/johnseven/skypeuser/6498.m3u8
+#EXTINF:-1 tvg-id="6525" tvg-name="PINK EXTRA" tvg-logo="http://logo.smart-iptvpro.info/154.sr.png" group-title="PINK",PINK EXTRA
+http://krajnatv.com:8080/live/johnseven/skypeuser/6525.m3u8
+#EXTINF:-1 tvg-id="6540" tvg-name="PINK MOVIES" tvg-logo="http://logo.smart-iptvpro.info/157.sr.png" group-title="PINK",PINK MOVIES
+http://krajnatv.com:8080/live/johnseven/skypeuser/6540.m3u8
+#EXTINF:-1 tvg-id="6544" tvg-name="PINK LOL" tvg-logo="http://logo.smart-iptvpro.info/176.sr.png" group-title="PINK",PINK LOL
+http://krajnatv.com:8080/live/johnseven/skypeuser/6544.m3u8
+#EXTINF:-1 tvg-id="6545" tvg-name="PINK HAHA" tvg-logo="http://logo.smart-iptvpro.info/177.sr.png" group-title="PINK",PINK HAHA
+http://krajnatv.com:8080/live/johnseven/skypeuser/6545.m3u8
+#EXTINF:-1 tvg-id="6760" tvg-name="PINK STYLE" tvg-logo="http://logo.smart-iptvpro.info/178.sr.png" group-title="PINK",PINK STYLE
+http://krajnatv.com:8080/live/johnseven/skypeuser/6760.m3u8
+#EXTINF:-1 tvg-id="7597" tvg-name="PINK ZADRUGA" tvg-logo="http://logo.smart-iptvpro.info/181.sr.png" group-title="PINK",PINK ZADRUGA
+http://krajnatv.com:8080/live/johnseven/skypeuser/7597.m3u8
+#EXTINF:-1 tvg-id="7633" tvg-name="PINK BH" tvg-logo="http://logo.smart-iptvpro.info/151.sr.png" group-title="PINK",PINK BH
+http://krajnatv.com:8080/live/johnseven/skypeuser/7633.m3u8
+#EXTINF:-1 tvg-id="12166" tvg-name="PINK M" tvg-logo="http://logo.smart-iptvpro.info/152.sr.png" group-title="PINK",PINK M
+http://krajnatv.com:8080/live/johnseven/skypeuser/12166.m3u8
+#EXTINF:-1 tvg-id="18296" tvg-name="PINK ZADRUGA 1" tvg-logo="http://logo.smart-iptvpro.info/181.sr.png" group-title="PINK",PINK ZADRUGA 1
+http://krajnatv.com:8080/live/johnseven/skypeuser/18296.m3u8
+#EXTINF:-1 tvg-id="18297" tvg-name="PINK ZADRUGA 2" tvg-logo="http://logo.smart-iptvpro.info/182.sr.png" group-title="PINK",PINK ZADRUGA 2
+http://krajnatv.com:8080/live/johnseven/skypeuser/18297.m3u8
+#EXTINF:-1 tvg-id="18298" tvg-name="PINK ZADRUGA 3" tvg-logo="http://logo.smart-iptvpro.info/183.sr.png" group-title="PINK",PINK ZADRUGA 3
+http://krajnatv.com:8080/live/johnseven/skypeuser/18298.m3u8
+#EXTINF:-1 tvg-id="18299" tvg-name="PINK ZADRUGA 4" tvg-logo="http://logo.smart-iptvpro.info/184.sr.png" group-title="PINK",PINK ZADRUGA 4
+http://krajnatv.com:8080/live/johnseven/skypeuser/18299.m3u8
+#EXTINF:-1 tvg-id="21124" tvg-name="PINK SCI FI AND FANTASY L2" tvg-logo="http://logo.smart-iptvpro.info/163.sr.png" group-title="PINK",PINK SCI FI AND FANTASY L2
+http://krajnatv.com:8080/live/johnseven/skypeuser/21124.m3u8
+#EXTINF:-1 tvg-id="26" tvg-name="FILM KLUB EXTRA" tvg-logo="" group-title="FILM (prevod)",FILM KLUB EXTRA
+http://krajnatv.com:8080/live/johnseven/skypeuser/26.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="FILM KLUB" tvg-logo="" group-title="FILM (prevod)",FILM KLUB
+http://krajnatv.com:8080/live/johnseven/skypeuser/27.m3u8
+#EXTINF:-1 tvg-id="13747" tvg-name="HBO HD" tvg-logo="http://logo.smart-iptvpro.info/135.hr.png" group-title="FILM (prevod)",HBO HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/13747.m3u8
+#EXTINF:-1 tvg-id="13748" tvg-name="HBO 2 HD" tvg-logo="http://logo.smart-iptvpro.info/136.hr.png" group-title="FILM (prevod)",HBO 2 HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/13748.m3u8
+#EXTINF:-1 tvg-id="13749" tvg-name="HBO 3 HD" tvg-logo="http://logo.smart-iptvpro.info/137.hr.png" group-title="FILM (prevod)",HBO 3 HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/13749.m3u8
+#EXTINF:-1 tvg-id="13750" tvg-name="FOX HD" tvg-logo="http://logo.smart-iptvpro.info/138.hr.png" group-title="FILM (prevod)",FOX HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/13750.m3u8
+#EXTINF:-1 tvg-id="13751" tvg-name="FOX MOVIES" tvg-logo="http://logo.smart-iptvpro.info/139.hr.png" group-title="FILM (prevod)",FOX MOVIES
+http://krajnatv.com:8080/live/johnseven/skypeuser/13751.m3u8
+#EXTINF:-1 tvg-id="13752" tvg-name="FOX LIFE" tvg-logo="http://logo.smart-iptvpro.info/140.hr.png" group-title="FILM (prevod)",FOX LIFE
+http://krajnatv.com:8080/live/johnseven/skypeuser/13752.m3u8
+#EXTINF:-1 tvg-id="13753" tvg-name="FOX CRIME" tvg-logo="http://logo.smart-iptvpro.info/141.hr.png" group-title="FILM (prevod)",FOX CRIME
+http://krajnatv.com:8080/live/johnseven/skypeuser/13753.m3u8
+#EXTINF:-1 tvg-id="13754" tvg-name="CINESTAR TV 1 (HR)" tvg-logo="http://logo.smart-iptvpro.info/142.hr.png" group-title="FILM (prevod)",CINESTAR TV 1 (HR)
+http://krajnatv.com:8080/live/johnseven/skypeuser/13754.m3u8
+#EXTINF:-1 tvg-id="13755" tvg-name="CINESTAR ACTION (HR)" tvg-logo="http://logo.smart-iptvpro.info/143.hr.png" group-title="FILM (prevod)",CINESTAR ACTION (HR)
+http://krajnatv.com:8080/live/johnseven/skypeuser/13755.m3u8
+#EXTINF:-1 tvg-id="13756" tvg-name="CINESTAR PREMIERE 1 HD" tvg-logo="http://logo.smart-iptvpro.info/145.hr.png" group-title="FILM (prevod)",CINESTAR PREMIERE 1 HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/13756.m3u8
+#EXTINF:-1 tvg-id="13757" tvg-name="CINESTAR PREMIERE 2 HD" tvg-logo="http://logo.smart-iptvpro.info/146.hr.png" group-title="FILM (prevod)",CINESTAR PREMIERE 2 HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/13757.m3u8
+#EXTINF:-1 tvg-id="13758" tvg-name="CINEMAX 1 HD" tvg-logo="http://logo.smart-iptvpro.info/147.hr.png" group-title="FILM (prevod)",CINEMAX 1 HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/13758.m3u8
+#EXTINF:-1 tvg-id="13759" tvg-name="CINEMAX 2 HD" tvg-logo="http://logo.smart-iptvpro.info/148.hr.png" group-title="FILM (prevod)",CINEMAX 2 HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/13759.m3u8
+#EXTINF:-1 tvg-id="13761" tvg-name="TV 1000" tvg-logo="http://logo.smart-iptvpro.info/149.hr.png" group-title="FILM (prevod)",TV 1000
+http://krajnatv.com:8080/live/johnseven/skypeuser/13761.m3u8
+#EXTINF:-1 tvg-id="13762" tvg-name="AXN ADRIA" tvg-logo="http://logo.smart-iptvpro.info/150.hr.png" group-title="FILM (prevod)",AXN ADRIA
+http://krajnatv.com:8080/live/johnseven/skypeuser/13762.m3u8
+#EXTINF:-1 tvg-id="13764" tvg-name="KINO TV HD" tvg-logo="http://logo.smart-iptvpro.info/152.hr.png" group-title="FILM (prevod)",KINO TV HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/13764.m3u8
+#EXTINF:-1 tvg-id="13765" tvg-name="M1 FILM" tvg-logo="http://logo.smart-iptvpro.info/153.hr.png" group-title="FILM (prevod)",M1 FILM
+http://krajnatv.com:8080/live/johnseven/skypeuser/13765.m3u8
+#EXTINF:-1 tvg-id="13778" tvg-name="MAXCRO SELECT 1 HD" tvg-logo="http://195.154.251.73/MAX_CRO_SELECT_170.png" group-title="FILM (prevod)",MAXCRO SELECT 1 HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/13778.m3u8
+#EXTINF:-1 tvg-id="13779" tvg-name="MAXCRO SELECT 2 HD" tvg-logo="http://195.154.251.73/MAX_CRO_SELECT_170.png" group-title="FILM (prevod)",MAXCRO SELECT 2 HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/13779.m3u8
+#EXTINF:-1 tvg-id="13780" tvg-name="MAXCRO SELECT 3 HD" tvg-logo="http://195.154.251.73/MAX_CRO_SELECT_170.png" group-title="FILM (prevod)",MAXCRO SELECT 3 HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/13780.m3u8
+#EXTINF:-1 tvg-id="13781" tvg-name="MAXCRO SELECT 4 HD" tvg-logo="http://195.154.251.73/MAX_CRO_SELECT_170.png" group-title="FILM (prevod)",MAXCRO SELECT 4 HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/13781.m3u8
+#EXTINF:-1 tvg-id="13782" tvg-name="MAXCRO SELECT 5 HD" tvg-logo="http://195.154.251.73/MAX_CRO_SELECT_170.png" group-title="FILM (prevod)",MAXCRO SELECT 5 HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/13782.m3u8
+#EXTINF:-1 tvg-id="13783" tvg-name="MAXCRO SELECT 6 HD" tvg-logo="http://195.154.251.73/MAX_CRO_SELECT_170.png" group-title="FILM (prevod)",MAXCRO SELECT 6 HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/13783.m3u8
+#EXTINF:-1 tvg-id="13784" tvg-name="MAXCRO SELECT 7 HD" tvg-logo="http://195.154.251.73/MAX_CRO_SELECT_170.png" group-title="FILM (prevod)",MAXCRO SELECT 7 HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/13784.m3u8
+#EXTINF:-1 tvg-id="13785" tvg-name="MAXCRO SELECT 8 HD" tvg-logo="http://195.154.251.73/MAX_CRO_SELECT_170.png" group-title="FILM (prevod)",MAXCRO SELECT 8 HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/13785.m3u8
+#EXTINF:-1 tvg-id="13786" tvg-name="MAXCRO SELECT 9 HD" tvg-logo="http://195.154.251.73/MAX_CRO_SELECT_170.png" group-title="FILM (prevod)",MAXCRO SELECT 9 HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/13786.m3u8
+#EXTINF:-1 tvg-id="14611" tvg-name="AMC HD" tvg-logo="http://logo.smart-iptvpro.info/155.hr.png" group-title="FILM (prevod)",AMC HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/14611.m3u8
+#EXTINF:-1 tvg-id="17853" tvg-name="MAXCRO SELECT 10 HD" tvg-logo="http://195.154.251.73/MAX_CRO_SELECT_170.png" group-title="FILM (prevod)",MAXCRO SELECT 10 HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/17853.m3u8
+#EXTINF:-1 tvg-id="17854" tvg-name="MAXCRO SELECT 11 HD" tvg-logo="http://195.154.251.73/MAX_CRO_SELECT_170.png" group-title="FILM (prevod)",MAXCRO SELECT 11 HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/17854.m3u8
+#EXTINF:-1 tvg-id="17855" tvg-name="MAXCRO SELECT KIDS HD" tvg-logo="http://195.154.251.73/MAX_CRO_SELECT_170.png" group-title="FILM (prevod)",MAXCRO SELECT KIDS HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/17855.m3u8
+#EXTINF:-1 tvg-id="17856" tvg-name="MAXCRO SELECT KIDS 2 HD" tvg-logo="http://195.154.251.73/MAX_CRO_SELECT_170.png" group-title="FILM (prevod)",MAXCRO SELECT KIDS 2 HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/17856.m3u8
+#EXTINF:-1 tvg-id="17876" tvg-name="FILMBOX STARS" tvg-logo="http://logo.smart-iptvpro.info/157.hr.png" group-title="FILM (prevod)",FILMBOX STARS
+http://krajnatv.com:8080/live/johnseven/skypeuser/17876.m3u8
+#EXTINF:-1 tvg-id="17877" tvg-name="EPIC DRAMA" tvg-logo="http://logo.smart-iptvpro.info/159.hr.png" group-title="FILM (prevod)",EPIC DRAMA
+http://krajnatv.com:8080/live/johnseven/skypeuser/17877.m3u8
+#EXTINF:-1 tvg-id="17888" tvg-name="SCI-FI" tvg-logo="http://logo.smart-iptvpro.info/160.hr.png" group-title="FILM (prevod)",SCI-FI
+http://krajnatv.com:8080/live/johnseven/skypeuser/17888.m3u8
+#EXTINF:-1 tvg-id="17890" tvg-name="FILMBOX EXTRA HD" tvg-logo="http://logo.smart-iptvpro.info/158.hr.png" group-title="FILM (prevod)",FILMBOX EXTRA HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/17890.m3u8
+#EXTINF:-1 tvg-id="17891" tvg-name="AXN SPIN" tvg-logo="http://logo.smart-iptvpro.info/151.hr.png" group-title="FILM (prevod)",AXN SPIN
+http://krajnatv.com:8080/live/johnseven/skypeuser/17891.m3u8
+#EXTINF:-1 tvg-id="17892" tvg-name="DIVA" tvg-logo="http://logo.smart-iptvpro.info/156.hr.png" group-title="FILM (prevod)",DIVA
+http://krajnatv.com:8080/live/johnseven/skypeuser/17892.m3u8
+#EXTINF:-1 tvg-id="18303" tvg-name="SUPER STAR TV" tvg-logo="http://logo.smart-iptvpro.info/185.sr.png" group-title="FILM (prevod)",SUPER STAR TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/18303.m3u8
+#EXTINF:-1 tvg-id="19351" tvg-name="CINESTAR FANTASY" tvg-logo="http://logo.smart-iptvpro.info/144.hr.png" group-title="FILM (prevod)",CINESTAR FANTASY
+http://krajnatv.com:8080/live/johnseven/skypeuser/19351.m3u8
+#EXTINF:-1 tvg-id="20226" tvg-name="M1 GOLD" tvg-logo="http://logo.smart-iptvpro.info/154.hr.png" group-title="FILM (prevod)",M1 GOLD
+http://krajnatv.com:8080/live/johnseven/skypeuser/20226.m3u8
+#EXTINF:-1 tvg-id="20620" tvg-name="FOX LIFE HD" tvg-logo="http://logo.smart-iptvpro.info/140.hr.png" group-title="FILM (prevod)",FOX LIFE HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/20620.m3u8
+#EXTINF:-1 tvg-id="20621" tvg-name="FOX" tvg-logo="http://logo.smart-iptvpro.info/138.hr.png" group-title="FILM (prevod)",FOX
+http://krajnatv.com:8080/live/johnseven/skypeuser/20621.m3u8
+#EXTINF:-1 tvg-id="20982" tvg-name="BITANGE I PRINCEZE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3LjUF7dco9ZsgeyYuvB063QeJtF.jpg" group-title="FILM (prevod)",BITANGE I PRINCEZE
+http://krajnatv.com:8080/live/johnseven/skypeuser/20982.m3u8
+#EXTINF:-1 tvg-id="20983" tvg-name="LUD ZBUNJEN NORMALAN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ogVsAP62Yy9XJzYyfYhDiALmdFE.jpg" group-title="FILM (prevod)",LUD ZBUNJEN NORMALAN
+http://krajnatv.com:8080/live/johnseven/skypeuser/20983.m3u8
+#EXTINF:-1 tvg-id="21644" tvg-name="CINESTAR TV 2 (HR)" tvg-logo="http://logo.smart-iptvpro.info/238.sr.png" group-title="FILM (prevod)",CINESTAR TV 2 (HR)
+http://krajnatv.com:8080/live/johnseven/skypeuser/21644.m3u8
+#EXTINF:-1 tvg-id="23499" tvg-name="STAR TV" tvg-logo="http://logo.smart-iptvpro.info/242.sr.png" group-title="FILM (prevod)",STAR TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/23499.m3u8
+#EXTINF:-1 tvg-id="25403" tvg-name="PICKBOX TV" tvg-logo="http://logos-logo.ddns.net/logos/pickboxtv.png" group-title="FILM (prevod)",PICKBOX TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/25403.m3u8
+#EXTINF:-1 tvg-id="7873" tvg-name="LOV I RIBOLOV" tvg-logo="http://logo.smart-iptvpro.info/189.hr.png" group-title="DOKUMENTARNI",LOV I RIBOLOV
+http://krajnatv.com:8080/live/johnseven/skypeuser/101.m3u8
+#EXTINF:-1 tvg-id="5293" tvg-name="===== DOKUMENTARNI =====" tvg-logo="" group-title="DOKUMENTARNI",===== DOKUMENTARNI =====
+http://krajnatv.com:8080/live/johnseven/skypeuser/5293.m3u8
+#EXTINF:-1 tvg-id="14185" tvg-name="ANIMAL PLANET" tvg-logo="http://logo.smart-iptvpro.info/164.hr.png" group-title="DOKUMENTARNI",ANIMAL PLANET
+http://krajnatv.com:8080/live/johnseven/skypeuser/14185.m3u8
+#EXTINF:-1 tvg-id="14186" tvg-name="DISCOVERY SCI" tvg-logo="http://logo.smart-iptvpro.info/169.hr.png" group-title="DOKUMENTARNI",DISCOVERY SCI
+http://krajnatv.com:8080/live/johnseven/skypeuser/14186.m3u8
+#EXTINF:-1 tvg-id="14187" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://logo.smart-iptvpro.info/167.hr.png" group-title="DOKUMENTARNI",DISCOVERY CHANNEL
+http://krajnatv.com:8080/live/johnseven/skypeuser/14187.m3u8
+#EXTINF:-1 tvg-id="14189" tvg-name="DISCOVERY SCI HD" tvg-logo="http://logo.smart-iptvpro.info/169.hr.png" group-title="DOKUMENTARNI",DISCOVERY SCI HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/14189.m3u8
+#EXTINF:-1 tvg-id="14190" tvg-name="VIASAT NATURE" tvg-logo="http://logo.smart-iptvpro.info/181.hr.png" group-title="DOKUMENTARNI",VIASAT NATURE
+http://krajnatv.com:8080/live/johnseven/skypeuser/14190.m3u8
+#EXTINF:-1 tvg-id="14192" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://logo.smart-iptvpro.info/172.hr.png" group-title="DOKUMENTARNI",NATIONAL GEOGRAPHIC
+http://krajnatv.com:8080/live/johnseven/skypeuser/14192.m3u8
+#EXTINF:-1 tvg-id="14193" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="http://logo.smart-iptvpro.info/174.hr.png" group-title="DOKUMENTARNI",NATIONAL GEOGRAPHIC WILD
+http://krajnatv.com:8080/live/johnseven/skypeuser/14193.m3u8
+#EXTINF:-1 tvg-id="14194" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://logo.smart-iptvpro.info/173.hr.png" group-title="DOKUMENTARNI",NATIONAL GEOGRAPHIC HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/14194.m3u8
+#EXTINF:-1 tvg-id="14195" tvg-name="HISTORY 2" tvg-logo="http://logo.smart-iptvpro.info/176.hr.png" group-title="DOKUMENTARNI",HISTORY 2
+http://krajnatv.com:8080/live/johnseven/skypeuser/14195.m3u8
+#EXTINF:-1 tvg-id="14196" tvg-name="HISTORY CHANNEL HD" tvg-logo="http://logo.smart-iptvpro.info/175.hr.png" group-title="DOKUMENTARNI",HISTORY CHANNEL HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/14196.m3u8
+#EXTINF:-1 tvg-id="14198" tvg-name="TRAVEL" tvg-logo="http://logo.smart-iptvpro.info/177.hr.png" group-title="DOKUMENTARNI",TRAVEL
+http://krajnatv.com:8080/live/johnseven/skypeuser/14198.m3u8
+#EXTINF:-1 tvg-id="14200" tvg-name="VIASAT EXPLORE" tvg-logo="http://logo.smart-iptvpro.info/182.hr.png" group-title="DOKUMENTARNI",VIASAT EXPLORE
+http://krajnatv.com:8080/live/johnseven/skypeuser/14200.m3u8
+#EXTINF:-1 tvg-id="14202" tvg-name="BBC EARTH HD" tvg-logo="http://logo.smart-iptvpro.info/188.hr.png" group-title="DOKUMENTARNI",BBC EARTH HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/14202.m3u8
+#EXTINF:-1 tvg-id="15300" tvg-name="E!" tvg-logo="http://logo.smart-iptvpro.info/185.hr.png" group-title="DOKUMENTARNI",E!
+http://krajnatv.com:8080/live/johnseven/skypeuser/15300.m3u8
+#EXTINF:-1 tvg-id="15709" tvg-name="24 KITCHEN" tvg-logo="http://logo.smart-iptvpro.info/187.hr.png" group-title="DOKUMENTARNI",24 KITCHEN
+http://krajnatv.com:8080/live/johnseven/skypeuser/15709.m3u8
+#EXTINF:-1 tvg-id="17330" tvg-name="VIASAT HISTORY" tvg-logo="http://logo.smart-iptvpro.info/180.hr.png" group-title="DOKUMENTARNI",VIASAT HISTORY
+http://krajnatv.com:8080/live/johnseven/skypeuser/17330.m3u8
+#EXTINF:-1 tvg-id="17870" tvg-name="CBS REALITY" tvg-logo="http://logo.smart-iptvpro.info/165.hr.png" group-title="DOKUMENTARNI",CBS REALITY
+http://krajnatv.com:8080/live/johnseven/skypeuser/17870.m3u8
+#EXTINF:-1 tvg-id="17878" tvg-name="DISCOVERY DTX" tvg-logo="http://logo.smart-iptvpro.info/170.hr.png" group-title="DOKUMENTARNI",DISCOVERY DTX
+http://krajnatv.com:8080/live/johnseven/skypeuser/17878.m3u8
+#EXTINF:-1 tvg-id="18308" tvg-name="TLC" tvg-logo="http://logo.smart-iptvpro.info/184.hr.png" group-title="DOKUMENTARNI",TLC
+http://krajnatv.com:8080/live/johnseven/skypeuser/18308.m3u8
+#EXTINF:-1 tvg-id="18812" tvg-name="FISHING HUNTING HD" tvg-logo="http://logo.smart-iptvpro.info/190.hr.png" group-title="DOKUMENTARNI",FISHING HUNTING HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/18812.m3u8
+#EXTINF:-1 tvg-id="19669" tvg-name="DOKU TV" tvg-logo="http://logo.smart-iptvpro.info/178.hr.png" group-title="DOKUMENTARNI",DOKU TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/19669.m3u8
+#EXTINF:-1 tvg-id="20014" tvg-name="DISCOVERY ID" tvg-logo="http://logo.smart-iptvpro.info/183.ba.png" group-title="DOKUMENTARNI",DISCOVERY ID
+http://krajnatv.com:8080/live/johnseven/skypeuser/20014.m3u8
+#EXTINF:-1 tvg-id="20019" tvg-name="FOOD NETWORK" tvg-logo="http://logo.smart-iptvpro.info/186.hr.png" group-title="DOKUMENTARNI",FOOD NETWORK
+http://krajnatv.com:8080/live/johnseven/skypeuser/20019.m3u8
+#EXTINF:-1 tvg-id="20805" tvg-name="DOCUBOX HD" tvg-logo="http://logo.smart-iptvpro.info/179.hr.png" group-title="DOKUMENTARNI",DOCUBOX HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/20805.m3u8
+#EXTINF:-1 tvg-id="21815" tvg-name="CRIME INVESTIGATION" tvg-logo="http://logo.smart-iptvpro.info/166.hr.png" group-title="DOKUMENTARNI",CRIME INVESTIGATION
+http://krajnatv.com:8080/live/johnseven/skypeuser/21815.m3u8
+#EXTINF:-1 tvg-id="23500" tvg-name="OUTDOOR HD" tvg-logo="http://logo.smart-iptvpro.info/259.sr.png" group-title="DOKUMENTARNI",OUTDOOR HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/23500.m3u8
+#EXTINF:-1 tvg-id="23501" tvg-name="FAST AND FUN HD" tvg-logo="http://logo.smart-iptvpro.info/260.sr.png" group-title="DOKUMENTARNI",FAST AND FUN HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/23501.m3u8
+#EXTINF:-1 tvg-id="23502" tvg-name="KITCHEN TV SR" tvg-logo="http://logo.smart-iptvpro.info/261.sr.png" group-title="DOKUMENTARNI",KITCHEN TV SR
+http://krajnatv.com:8080/live/johnseven/skypeuser/23502.m3u8
+#EXTINF:-1 tvg-id="23974" tvg-name="DOX TV" tvg-logo="https://uploads-ssl.webflow.com/5cf82e0188aeb17f79fa5d4b/5cf98777e1b65856cd92f17e_DOXTV%20logo%20zuti.svg" group-title="DOKUMENTARNI",DOX TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/23974.m3u8
+#EXTINF:-1 tvg-id="23976" tvg-name="BALKAN TRIP TV" tvg-logo="http://balkantrip.tv/images/logo.png" group-title="DOKUMENTARNI",BALKAN TRIP TV
+http://krajnatv.com:8080/live/johnseven/skypeuser/23976.m3u8
+#EXTINF:-1 tvg-id="25402" tvg-name="HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/200px-HGTV_logo.png" group-title="DOKUMENTARNI",HGTV HD
+http://krajnatv.com:8080/live/johnseven/skypeuser/25402.m3u8
+#EXTINF:-1 tvg-id="26499" tvg-name="WOMAN TV (test)" tvg-logo="" group-title="DOKUMENTARNI",WOMAN TV (test)
+http://krajnatv.com:8080/live/johnseven/skypeuser/26499.m3u8
+
