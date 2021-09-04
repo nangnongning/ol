@@ -1,2 +1,2 @@
-#EXTM3U :0 ,hbox
+#EXTM3U 
 http://hbox.cdnss.me:80/get.php?username=tolgax1x&password=tolgax1x&type=m3u_plus&output=hls
