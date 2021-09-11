@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:0 tvg-id="https://wacth.tv/tv-player/" tvg-logo="https://wacth.officebk.co/uploads/tv_image/amarin-tv.png" ,amarin
+https://wacth.tv/tv-player/amarin-tv.html
+#EXTINF:0 tvg-id="https://wacth.tv/" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20210312011936ch3-hd.png" ,ch3
+https://wacth.tv/tv-player/ch3-hd.html
+#EXTINF:0 tvg-id="https://wacth.tv/" tvg-logo="https://wacth.officebk.co/uploads/tv_image/ch8-uv5cjyms6as3.png" ,ch8
+https://wacth.tv/tv-player/ch8-rcloygx046k0.html
+#EXTINF:0 tvg-id="https://wacth.tv/" tvg-logo="https://wacth.officebk.co/uploads/tv_image/gmm25.png" ,gmm25
+https://wacth.tv/tv-player/gmm25.html
+#EXTINF:0 tvg-id="https://wacth.tv/" tvg-logo="https://wacth.officebk.co/uploads/tv_image/mcot-hd.png" ,mcot-hd
+https://wacth.tv/tv-player/mcot-hd.html
+#EXTINF:0 tvg-id="https://wacth.tv/" tvg-logo="https://wacth.officebk.co/uploads/tv_image/mono-29.png" ,mono-29
+https://wacth.tv/tv-player/mono-29.html
+#EXTINF:0 tvg-id="https://wacth.tv/" tvg-logo="https://wacth.officebk.co/uploads/tv_image/nation-tv.png" ,nation-tv
+https://wacth.tv/tv-player/nation-tv.html
+#EXTINF:0 tvg-id="https://wacth.tv/" tvg-logo="https://wacth.officebk.co/uploads/tv_image/nbt-hd.png" ,nbt-hd
+https://wacth.tv/tv-player/nbt-hd.html
+#EXTINF:0 tvg-id="https://wacth.tv/" tvg-logo="https://wacth.officebk.co/uploads/tv_image/new-18.png" ,new-18
+https://wacth.tv/tv-player/new-18.html
+#EXTINF:0 tvg-id="https://wacth.tv/" tvg-logo="https://wacth.officebk.co/uploads/tv_image/one-hd.png" ,one-hd
+https://wacth.tv/tv-player/one-hd.html
+#EXTINF:0 tvg-id="https://wacth.tv/" tvg-logo="https://wacth.officebk.co/uploads/tv_image/pptv-hd.png" ,pptv-hd
+https://wacth.tv/tv-player/pptv-hd.html
+#EXTINF:0 tvg-id="https://wacth.tv/" tvg-logo="https://wacth.officebk.co/uploads/tv_image/thairath-hd.png" ,thairath-hd
+https://wacth.tv/tv-player/thairath-hd.html
+#EXTINF:0 tvg-id="https://wacth.tv/" tvg-logo="https://wacth.officebk.co/uploads/tv_image/tnn24.png" ,tnn24
+https://wacth.tv/tv-player/tnn24.html
+#EXTINF:0 tvg-id="https://wacth.tv/" tvg-logo="https://wacth.officebk.co/uploads/tv_image/tpbs-hd.png" ,tpbs-hd
+https://wacth.tv/tv-player/tpbs-hd.html
+#EXTINF:0 tvg-id="https://wacth.tv/" tvg-logo="https://wacth.officebk.co/uploads/tv_image/true4u.png" ,true4u
+https://wacth.tv/tv-player/true4u.html
+#EXTINF:0 tvg-id="https://wacth.tv/" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20210312012054voice-tv.png" ,voice-tv
+https://wacth.tv/tv-player/voice-tv.html
+#EXTINF:0 tvg-id="https://wacth.tv/" tvg-logo="https://wacth.officebk.co/uploads/tv_image/workpoint.png" ,workpoint
+https://wacth.tv/tv-player/workpoint.html
+#EXTINF:0 tvg-id="https://wacth.tv/" tvg-logo="https://wacth.officebk.co/uploads/tv_image/5hd.png" ,5hd
+https://wacth.tv/tv-player/5hd.html
+#EXTINF:0 tvg-id="https://wacth.tv/" tvg-logo="https://wacth.officebk.co/uploads/tv_image/202103120120117hd.png" ,7hd
+https://wacth.tv/tv-player/7hd.html
