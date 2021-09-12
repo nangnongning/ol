@@ -55,6 +55,12 @@ https://wacth.tv/tv-player/national-geographic.html
 https://wacth.tv/tv-player/nat-geo-wild-hd.html
 #EXTINF:0 tvg-id="https://www.doofree88.com/" tvg-logo="https://wacth.officebk.co/uploads/tv_image/bbc-earth.png" ,bbc-earth
 https://www.doofree88.com/live/bbc-earth
+#EXTINF:0 tvg-id="https://wacth.tv/" tvg-logo="https://wacth.officebk.co/uploads/tv_image/true-explore-sci.png" ,sci
+https://wacth.tv/tv-player/true-explore-sci.html
+#EXTINF:0 tvg-id="https://wacth.tv/" tvg-logo="https://wacth.officebk.co/uploads/tv_image/true-life.png" ,life
+https://wacth.tv/tv-player/true-life.html
+#EXTINF:0 tvg-id="https://wacth.tv/" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-expwild.png" ,wild
+https://wacth.tv/tv-player/true-explore-wild.html
 #EXTINF:0 tvg-id="https://www.we-play.live/" tvg-logo="https://we-play.live/uploads/posters/animal-planet-poster1602705496.jpeg" ,animal
 https://www.we-play.live/watching/tv/animal-planet
 #EXTINF:0 tvg-id="https://www.we-play.live/" tvg-logo="https://we-play.live/uploads/posters/discovery-channel-poster1602705554.jpeg" ,discovery-channel
