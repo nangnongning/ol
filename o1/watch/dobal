@@ -8,17 +8,9 @@ https://we-play.live/watching/tv/true-premier-football-hd-1
 #EXTINF:0 tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl1.png" ,epl1
 https://www.ball24.tv/allchannel/?id=epl1
 #EXTINF:0 tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl1.png" ,epl1
-https://www.ball24.tv/allchannel/?id=epl1#EXTM3U
-#EXTINF:0 tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl1.png" ,epl1
-https://www.liveballsod.com/tv-online/ch373/
-#EXTINF:0 tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl1.png" ,epl1
-https://mobetz.com/doball/ch373/
-#EXTINF:0 tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl1.png" ,epl1
-https://we-play.live/watching/tv/true-premier-football-hd-1
-#EXTINF:0 tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl1.png" ,epl1
-https://www.ball24.tv/allchannel/?id=epl1
-#EXTINF:0 tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl1.png" ,epl1
-https://www.ball24.tv/allchannel/?id=epl1
+https://www.warpfootball.games/live/?ch=epl 
+
+ 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg",TPF1  
 #EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
@@ -33,15 +25,4 @@ https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8|User-Agent=exo
 #EXTVLCOPT:http-referrer=https://www.chomfootball.com/
 https://doofootball.livestream-cdn.com/iptv/epl-1.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg",TPF1  
-#EXTVLCOPT:http-referrer=https://www.andaman888th.com/playlist.m3u8
-https://live.andaman888th.com/live/tpf1/playlist.m3u8|User-Agent=vlc&Referer=https://www.andaman888th.com/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl1.png", epl-1
-#EXTVLCOPT:http-referrer=https://livescorethai.net/
-https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://livescorethai.net/
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/epl1.png", pl1
-#EXTVLCOPT:http-referrer=https://www.chomfootball.com/
-https://doofootball.livestream-cdn.com/iptv/epl-1.stream/chunks.m3u8|User-Agent=exoplayer_video&Referer=https://www.chomfootball.com/
+ 
